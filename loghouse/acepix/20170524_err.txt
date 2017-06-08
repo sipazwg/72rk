@@ -1,0 +1,145 @@
+/data/www/ftpdir/acepix/ACEPIXS_AOLGuests_K052317_50/052317_AOL_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45201 acepix    5wW  REG    8,2  2278408 13762893 /data/www/ftpdir/acepix/ACEPIXS_AOLGuests_K052317_50/052317_AOL_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLGuests_K052317_50/052317_AOL_K017.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1164 acepix    5wW  REG    8,2  1885792 13762905 /data/www/ftpdir/acepix/ACEPIXS_AOLGuests_K052317_50/052317_AOL_K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLGusts1_052317/052317_AOLGuests1_Z12.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Messing_052317/052317_Messing_J02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18554 acepix    5wW  REG    8,2  1880488 13762992 /data/www/ftpdir/acepix/ACEPIXS_Messing_052317/052317_Messing_J02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Messing_052317/052317_Messing_J06.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20138 acepix    5wW  REG    8,2  2220402 13762996 /data/www/ftpdir/acepix/ACEPIXS_Messing_052317/052317_Messing_J06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Messing_052317/052317_Messing_J09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21503 acepix    5wW  REG    8,2   744192 13762999 /data/www/ftpdir/acepix/ACEPIXS_Messing_052317/052317_Messing_J09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48495 acepix    5wW  REG    8,2  2151657 13763002 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D02.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1633 acepix    5wW  REG    8,2  2219511 13763003 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3663 acepix    5wW  REG    8,2  3114915 13763004 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D05.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5723 acepix    5wW  REG    8,2   818064 13763006 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D06.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7820 acepix    5wW  REG    8,2  2716829 13763007 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9518 acepix    5wW  REG    8,2  3431524 13763008 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11591 acepix    5wW  REG    8,2   698002 13763010 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13773 acepix    5wW  REG    8,2   999752 13763011 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15781 acepix    5wW  REG    8,2   954757 13763012 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17207 acepix    5wW  REG    8,2   556776 13763013 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18740 acepix    5wW  REG    8,2  2003750 13763014 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20215 acepix    5wW  REG    8,2  4108071 13763015 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21825 acepix    5wW  REG    8,2  1309176 13763017 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21825 acepix    5wW  REG    8,2  6241721 13763017 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24292 acepix    5wW  REG    8,2  4150293 13763018 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25730 acepix    5wW  REG    8,2   967176 13763020 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28126 acepix    5wW  REG    8,2  1605269 13763023 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29755 acepix    5wW  REG    8,2  3291051 13763024 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32969 acepix    5wW  REG    8,2   864320 13763026 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D26.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35204 acepix    5wW  REG    8,2  2259250 13763027 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D29.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38337 acepix    5wW  REG    8,2  1871281 13763030 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D31.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40690 acepix    5wW  REG    8,2  1403056 13763032 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D32.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42491 acepix    5wW  REG    8,2  2055257 13763033 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44024 acepix    5wW  REG    8,2  2961902 13763034 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48404 acepix    5wW  REG    8,2  2540779 13763035 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D36.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1768 acepix    5wW  REG    8,2  1508648 13763037 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D40.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6483 acepix    5wW  REG    8,2  1960744 13763041 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D41.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8072 acepix    5wW  REG    8,2  4883569 13763042 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D41.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10661 acepix    5wW  REG    8,2  1061568 13763044 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D44.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13106 acepix    5wW  REG    8,2  3008923 13763045 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D44.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15364 acepix    5wW  REG    8,2  3201581 13763047 /data/www/ftpdir/acepix/ACEPIXS_JacksonMovie_052317/052317_Jackson_D46.JPG
+

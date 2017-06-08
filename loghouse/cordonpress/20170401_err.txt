@@ -1,0 +1,4 @@
+/data/www/ftpdir/cordonpress/_75Q9970.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     8434 root    3w   REG    8,2  1884160 5531232 /data/www/ftpdir/cordonpress/_75Q9970.jpg
+

@@ -1,0 +1,49 @@
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37692 acepix    5wW  REG    8,2   961704 6816201 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F06.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37913 acepix    5wW  REG    8,2  1270395 6816206 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F105.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38706 acepix    5wW  REG    8,2  1236398 6816216 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F105.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F112.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39015 acepix    5wW  REG    8,2   908815 6816224 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F112.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F117.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39471 acepix    5wW  REG    8,2   657752 6816229 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F117.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F120.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39810 acepix    5wW  REG    8,2  1595088 6816233 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F120.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F123.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40142 acepix    5wW  REG    8,2  1042160 6816236 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F123.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F126.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F129.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40745 acepix    5wW  REG    8,2  1176613 6816243 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F129.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F13.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F155.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42509 acepix    5wW  REG    8,2  1198112 6816271 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F155.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F163.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43283 acepix    5wW  REG    8,2   224096 6816280 /data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F163.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F169.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F169.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Globes_010817/010817_GoldenGlobes_F17.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_GlobesPress_010817/010817_GlobesPress_F04.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3831 acepix    5wW  REG    8,2  1613299 6816447 /data/www/ftpdir/acepix/ACEPIXS_GlobesPress_010817/010817_GlobesPress_F04.jpg
+

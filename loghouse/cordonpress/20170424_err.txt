@@ -1,0 +1,62 @@
+/data/www/ftpdir/cordonpress/RA20170423_05.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_06.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_07.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_08.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_09.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_10.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_11.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_12.jpg--- have been enter
+/data/www/ftpdir/cordonpress/RA20170423_13.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_JLC8345.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     27294 root    3w   REG    8,2   704512 5535843 /data/www/ftpdir/cordonpress/_JLC8345.jpg
+
+/data/www/ftpdir/cordonpress/700_3367.jpg--- have been enter
+/data/www/ftpdir/cordonpress/700_3513.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20975 root    3w   REG    8,2  2441216 5536027 /data/www/ftpdir/cordonpress/700_3513.jpg
+
+/data/www/ftpdir/cordonpress/700_3623.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23301 root    3w   REG    8,2  2015232 5536039 /data/www/ftpdir/cordonpress/700_3623.jpg
+
+/data/www/ftpdir/cordonpress/700_3680.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     25000 root    3w   REG    8,2  3063808 5536048 /data/www/ftpdir/cordonpress/700_3680.jpg
+
+/data/www/ftpdir/cordonpress/700_3856_2.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     28337 root    3w   REG    8,2  1753088 5536061 /data/www/ftpdir/cordonpress/700_3856_2.jpg
+
+/data/www/ftpdir/cordonpress/700_3907.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     29792 root    3w   REG    8,2  1720320 5536071 /data/www/ftpdir/cordonpress/700_3907.jpg
+
+/data/www/ftpdir/cordonpress/700_4083.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     33911 root    3w   REG    8,2  2277376 5536082 /data/www/ftpdir/cordonpress/700_4083.jpg
+
+/data/www/ftpdir/cordonpress/700_4202.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     35672 root    3w   REG    8,2  3915776 5536093 /data/www/ftpdir/cordonpress/700_4202.jpg
+
+/data/www/ftpdir/cordonpress/AD3_4570.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     37237 root    3w   REG    8,2  3981312 5536102 /data/www/ftpdir/cordonpress/AD3_4570.jpg
+
+/data/www/ftpdir/cordonpress/170423-RealMadridBarcelona-NY-0410.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     14311 root    3w   REG    8,2  4997120 5536113 /data/www/ftpdir/cordonpress/170423-RealMadridBarcelona-NY-0410.jpg
+
+/data/www/ftpdir/cordonpress/170423-Clasico-NY-0532.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     15349 root    3w   REG    8,2  3129344 5536114 /data/www/ftpdir/cordonpress/170423-Clasico-NY-0532.jpg
+
+/data/www/ftpdir/cordonpress/170423-Clasico-NY-0541.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     17821 root    3w   REG    8,2  1687552 5536117 /data/www/ftpdir/cordonpress/170423-Clasico-NY-0541.jpg
+
+/data/www/ftpdir/cordonpress/170423-RealMadridBarcelona-NY-0459.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     18692 root    3w   REG    8,2  4177920 5536120 /data/www/ftpdir/cordonpress/170423-RealMadridBarcelona-NY-0459.jpg
+

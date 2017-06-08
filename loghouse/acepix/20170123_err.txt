@@ -1,0 +1,8 @@
+/data/www/ftpdir/acepix/ACEPIXS_Black_011917/011917_Black_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28447 acepix    5wW  REG    8,2  1728627 7340745 /data/www/ftpdir/acepix/ACEPIXS_Black_011917/011917_Black_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Black_011917/011917_Black_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28718 acepix    5wW  REG    8,2  1948009 7340748 /data/www/ftpdir/acepix/ACEPIXS_Black_011917/011917_Black_S06.JPG
+

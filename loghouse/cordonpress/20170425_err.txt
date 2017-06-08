@@ -1,0 +1,47 @@
+/data/www/ftpdir/cordonpress/AW4Y5472.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     35578 root    3w   REG    8,2   376832 5536148 /data/www/ftpdir/cordonpress/AW4Y5472.JPG
+
+/data/www/ftpdir/cordonpress/_DSB1818.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     40186 root    3w   REG    8,2  1097728 5536165 /data/www/ftpdir/cordonpress/_DSB1818.jpg
+
+/data/www/ftpdir/cordonpress/_DSB1935.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     48488 root    3w   REG    8,2   671744 5536202 /data/www/ftpdir/cordonpress/_DSB1935.jpg
+
+/data/www/ftpdir/cordonpress/_DSB2134.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     31547 root    3w   REG    8,2   901120 5536235 /data/www/ftpdir/cordonpress/_DSB2134.jpg
+
+/data/www/ftpdir/cordonpress/_DSB2150.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_DSB2069.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     35657 root    3w   REG    8,2  2211840 5524816 /data/www/ftpdir/cordonpress/_DSB2069.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_39__1_.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     14115 root    3w   REG    8,2  1982464 5535520 /data/www/ftpdir/cordonpress/DiegoPuerta_39__1_.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_62.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     29291 root    3w   REG    8,2   475136 5533170 /data/www/ftpdir/cordonpress/DiegoPuerta_62.jpg
+
+/data/www/ftpdir/cordonpress/170424-TribecaFilmFestival-0660.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     16773 root    3w   REG    8,2  2375680 5536316 /data/www/ftpdir/cordonpress/170424-TribecaFilmFestival-0660.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_01.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_06.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     22032 root    3w   REG    8,2  1884160 5536256 /data/www/ftpdir/cordonpress/DiegoPuerta_06.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_02.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_03.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_04.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_05.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_06.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_08.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_07.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_09.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_10.jpg--- have been enter

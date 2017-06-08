@@ -1,0 +1,58 @@
+/data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45105 acepix    5wW  REG    8,2   608760 11403308 /data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K010.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46462 acepix    5wW  REG    8,2   885587 11403315 /data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K010.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47587 acepix    5wW  REG    8,2  1656863 11403321 /data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K017.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48573 acepix    5wW  REG    8,2  1531520 11403322 /data/www/ftpdir/acepix/ACEPIXS_JessicaAlba_K041717/041710_Alba_K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N04.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N04.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33645 acepix    5wW  REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33645 acepix    5wW  REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  34742 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  36031 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33645 acepix    5wW  REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  34742 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  36031 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  37516 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  38058 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33645 acepix    5wW  REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  34742 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  36031 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  37516 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  38058 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  38436 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  39579 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33645 acepix    5wW  REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  34742 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  36031 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  37516 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  38058 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  38436 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  39579 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  40463 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+vsftpd  41821 acepix    5w   REG    8,2   312760 11403335 /data/www/ftpdir/acepix/ACEPIXS_SuccessMakers_041717/041717_SuccessMakers_N07.jpg
+

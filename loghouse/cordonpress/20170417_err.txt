@@ -1,0 +1,20 @@
+/data/www/ftpdir/cordonpress/ADUROYNCORO800_3658.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     10647 root    3w   REG    8,2  1097728 5534988 /data/www/ftpdir/cordonpress/ADUROYNCORO800_3658.jpg
+
+/data/www/ftpdir/cordonpress/CFRA800_3775.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     11915 root    3w   REG    8,2  2801664 5534992 /data/www/ftpdir/cordonpress/CFRA800_3775.jpg
+
+/data/www/ftpdir/cordonpress/CFRA800_3770_2.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     16469 root    3w   REG    8,2   704512 5534997 /data/www/ftpdir/cordonpress/CFRA800_3770_2.jpg
+
+/data/www/ftpdir/cordonpress/EMIN800_3545.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     19763 root    3w   REG    8,2  1294336 5535004 /data/www/ftpdir/cordonpress/EMIN800_3545.jpg
+
+/data/www/ftpdir/cordonpress/RDIAZ800_3477.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     30940 root    3w   REG    8,2  2605056 5535025 /data/www/ftpdir/cordonpress/RDIAZ800_3477.jpg
+

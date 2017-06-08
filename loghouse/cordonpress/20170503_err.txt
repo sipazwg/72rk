@@ -1,0 +1,26 @@
+/data/www/ftpdir/cordonpress/AL5Y3737.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     8619 root    3w   REG    8,2   835584 5538933 /data/www/ftpdir/cordonpress/AL5Y3737.jpg
+
+/data/www/ftpdir/cordonpress/_F1C9784.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9752 root    3w   REG    8,2  1327104 5538957 /data/www/ftpdir/cordonpress/_F1C9784.jpg
+
+/data/www/ftpdir/cordonpress/ISC_3654.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     12325 root    3w   REG    8,2  5619712 5538966 /data/www/ftpdir/cordonpress/ISC_3654.jpg
+
+/data/www/ftpdir/cordonpress/ISC_3856.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     15053 root    3w   REG    8,2  3489792 5538981 /data/www/ftpdir/cordonpress/ISC_3856.jpg
+
+/data/www/ftpdir/cordonpress/ISC_3880.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     15962 root    3w   REG    8,2  1458176 5538984 /data/www/ftpdir/cordonpress/ISC_3880.jpg
+
+/data/www/ftpdir/cordonpress/_JLC9263.JPG--- have been enter
+/data/www/ftpdir/cordonpress/_JLC9264.JPG--- have been enter
+/data/www/ftpdir/cordonpress/ISC_3936.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     18792 root    3w   REG    8,2  4669440 5538997 /data/www/ftpdir/cordonpress/ISC_3936.jpg
+

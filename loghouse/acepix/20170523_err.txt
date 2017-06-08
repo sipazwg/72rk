@@ -1,0 +1,40 @@
+/data/www/ftpdir/acepix/ACEPIXS_ParsonsBenefit_K05221_44/052217_ParsonsBenefit_K007.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4568 acepix    5wW  REG    8,2   400824 13762706 /data/www/ftpdir/acepix/ACEPIXS_ParsonsBenefit_K05221_44/052217_ParsonsBenefit_K007.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABTGala_052217_84/052217_ABT_C106.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17626 acepix    5wW  REG    8,2  2495273 13762759 /data/www/ftpdir/acepix/ACEPIXS_ABTGala_052217_84/052217_ABT_C106.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP13.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40747 acepix    5wW  REG    8,2   714096 13762842 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP13.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43395 acepix    5wW  REG    8,2   393728 13762846 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP20.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45693 acepix    5wW  REG    8,2   888266 13762849 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP20.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP28.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3066 acepix    5wW  REG    8,2   862952 13762857 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP28.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP35.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7471 acepix    5wW  REG    8,2   590976 13762864 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP35.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP38.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9400 acepix    5wW  REG    8,2   562248 13762867 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP38.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP50.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14353 acepix    5wW  REG    8,2  1121363 13762879 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP50.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP55.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15828 acepix    5wW  REG    8,2  1013395 13762884 /data/www/ftpdir/acepix/ACEPIXS_SacredDeer_052217/052217_SacredDeer_FBP55.jpg
+

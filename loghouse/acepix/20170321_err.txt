@@ -1,0 +1,681 @@
+/data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   4271 acepix    5w   REG    8,2   816184 5374372 /data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D15.JPG
+vsftpd   4721 acepix    5w   REG    8,2   816184 5374372 /data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D15.JPG
+vsftpd   4846 acepix    5w   REG    8,2   816184 5374372 /data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D15.JPG
+vsftpd   4909 acepix    5wW  REG    8,2   816184 5374372 /data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D15.JPG
+vsftpd  48634 acepix    5w   REG    8,2   816184 5374372 /data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D22.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5647 acepix    5wW  REG    8,2    97128 5374379 /data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D34.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6567 acepix    5wW  REG    8,2    12312 5374391 /data/www/ftpdir/acepix/ACEPIXS_ThisIsUs_031817/031817_ThisisUS_D34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24350 acepix    5wW  REG    8,2   954864 5374399 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25885 acepix    5wW  REG    8,2  2136824 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25885 acepix    5wW  REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26204 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26422 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25885 acepix    5wW  REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26204 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26422 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26795 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25885 acepix    5wW  REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26204 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26422 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26795 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  27132 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  27256 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25885 acepix    5wW  REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26204 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26422 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  26795 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  27132 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  27256 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  27442 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+vsftpd  27508 acepix    5w   REG    8,2  2191544 5374412 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K018.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29380 acepix    5wW  REG    8,2   806736 5374416 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K018.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K034.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30401 acepix    5wW  REG    8,2  1114821 5374432 /data/www/ftpdir/acepix/ACEPIXS_LovatoManganiello_K032017/032017_LovatoManga_K034.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12780 acepix    5wW  REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12780 acepix    5wW  REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  12961 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13021 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12780 acepix    5wW  REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  12961 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13021 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13148 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13207 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12780 acepix    5wW  REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  12961 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13021 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13148 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13207 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13335 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13394 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12780 acepix    5wW  REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  12961 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13021 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13148 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13207 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13335 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13394 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13520 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13579 acepix    5w   REG    8,2   564984 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13579 acepix    5w   REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13892 acepix    5w   REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  13951 acepix    5w   REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  14074 acepix    5w   REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  14320 acepix    5w   REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  14451 acepix    5w   REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  14522 acepix    5w   REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+vsftpd  14805 acepix    5wW  REG    8,2   324216 5374442 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15045 acepix    5wW  REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15045 acepix    5wW  REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15171 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15230 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15045 acepix    5wW  REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15171 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15230 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15359 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15432 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15045 acepix    5wW  REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15171 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15230 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15359 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15432 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15559 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15045 acepix    5wW  REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15171 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15230 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15359 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15432 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15559 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15619 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+vsftpd  15826 acepix    5w   REG    8,2     6840 5374443 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K008.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17900 acepix    5wW  REG    8,2   498808 5374449 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K008.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K015.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18534 acepix    5wW  REG    8,2  1069776 5374456 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K015.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19533 acepix    5wW  REG    8,2   131328 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19533 acepix    5wW  REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19753 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19816 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19533 acepix    5wW  REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19753 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19816 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19943 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19533 acepix    5wW  REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19753 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19816 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19943 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20002 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20128 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20187 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19533 acepix    5wW  REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19753 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19816 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  19943 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20002 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20128 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20187 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20313 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20372 acepix    5w   REG    8,2   139536 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19753 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20002 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20372 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21285 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21475 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21965 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22149 acepix    5w   REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22214 acepix    5wW  REG    8,2    71136 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19753 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20002 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20372 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21285 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21475 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21965 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22149 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22214 acepix    5wW  REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19753 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20002 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20372 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21285 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21475 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21965 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22149 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22214 acepix    5wW  REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22399 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22525 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22585 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19753 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20002 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20372 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21285 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21475 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21965 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22149 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22214 acepix    5wW  REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22399 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22525 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22585 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22713 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22772 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19753 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20002 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20372 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21285 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21475 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21965 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22149 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22214 acepix    5wW  REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22399 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22525 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22585 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22713 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22772 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22901 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22961 acepix    5w   REG    8,2   105336 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20372 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22772 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22961 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23455 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23638 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23644 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24066 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24072 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25531 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25655 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25843 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25902 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26079 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26206 acepix    5w   REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26281 acepix    5wW  REG    8,2   109472 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20372 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22772 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22961 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23455 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23638 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23644 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24066 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24072 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25531 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25655 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25843 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25902 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26079 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26206 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26281 acepix    5wW  REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26603 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26662 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20372 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22772 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22961 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23455 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23638 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23644 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24066 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24072 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25531 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25655 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25843 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25902 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26079 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26206 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26281 acepix    5wW  REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26603 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26662 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26788 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26847 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20372 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22772 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22961 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23455 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23638 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23644 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24066 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24072 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25531 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25655 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25843 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25902 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26079 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26206 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26281 acepix    5wW  REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26603 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26662 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26788 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26847 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26973 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27033 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20372 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21786 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22340 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22772 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  22961 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23455 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23638 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  23644 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24066 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  24072 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25531 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25655 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25843 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  25902 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26079 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26206 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26281 acepix    5wW  REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26603 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26662 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26788 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26847 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  26973 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27033 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27160 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27221 acepix    5w   REG    8,2   149872 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   3847 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   8949 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9131 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9876 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  10244 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17710 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17902 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20089 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20340 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20347 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20533 acepix    5wW  REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   3847 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   8949 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9131 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9876 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  10244 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17710 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17902 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20089 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20340 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20347 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20533 acepix    5wW  REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20722 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20733 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   3847 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   8949 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9131 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9876 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  10244 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17710 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17902 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20089 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20340 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20347 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20533 acepix    5wW  REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20722 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20733 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20919 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   3847 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   8949 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9131 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9876 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  10244 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17710 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17902 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20089 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20340 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20347 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20533 acepix    5wW  REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20722 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20733 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20919 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20925 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21157 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   3847 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   8949 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9131 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd   9876 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  10244 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17710 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  17902 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20089 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20340 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20347 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20533 acepix    5wW  REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20722 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20733 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20919 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  20925 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21157 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21321 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  21384 acepix    5w   REG    8,2    64296 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21321 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27983 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  29756 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31276 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31882 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  32189 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33516 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33578 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34093 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34155 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34337 acepix    5w   REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34467 acepix    5wW  REG    8,2   108948 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21321 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27983 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  29756 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31276 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31882 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  32189 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33516 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33578 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34093 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34155 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34337 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34467 acepix    5wW  REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34654 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34717 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21321 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27983 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  29756 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31276 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31882 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  32189 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33516 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33578 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34093 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34155 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34337 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34467 acepix    5wW  REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34654 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34717 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34856 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34918 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21321 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27983 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  29756 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31276 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31882 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  32189 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33516 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33578 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34093 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34155 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34337 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34467 acepix    5wW  REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34654 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34717 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34856 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34918 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  35047 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  35109 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21321 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  27983 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  29756 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31276 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  31882 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  32189 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33516 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  33578 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34093 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34155 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34337 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34467 acepix    5wW  REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34654 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34717 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34856 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  34918 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  35047 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  35109 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  35238 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  35300 acepix    5w   REG    8,2   109996 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41756 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42647 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42711 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43025 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43401 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44018 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44572 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44699 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45271 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45345 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45472 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45534 acepix    5wW  REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45712 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41756 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42647 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42711 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43025 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43401 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44018 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44572 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44699 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45271 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45345 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45472 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45534 acepix    5wW  REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45712 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45841 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45901 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41756 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42647 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42711 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43025 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43401 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44018 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44572 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44699 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45271 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45345 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45472 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45534 acepix    5wW  REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45712 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45841 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45901 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46030 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46090 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41756 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42647 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42711 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43025 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43401 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44018 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44572 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44699 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45271 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45345 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45472 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45534 acepix    5wW  REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45712 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45841 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45901 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46030 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46090 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46224 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41756 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42647 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  42711 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43025 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  43401 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44018 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44572 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  44699 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45271 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45345 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45472 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45534 acepix    5wW  REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45712 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45841 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  45901 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46030 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46090 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46224 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46284 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46411 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+vsftpd  46471 acepix    5w   REG    8,2    64792 5374469 /data/www/ftpdir/acepix/ACEPIXS_BossBaby_K032017/032017_BossBaby_K028.JPG
+

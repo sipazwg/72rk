@@ -1,0 +1,8 @@
+/data/www/ftpdir/cordonpress/_CAH8901.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     28998 root    3w   REG    8,2  1654784 5511047 /data/www/ftpdir/cordonpress/_CAH8901.jpg
+
+/data/www/ftpdir/cordonpress/_CAH9158.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     29282 root    3w   REG    8,2  1556480 5511056 /data/www/ftpdir/cordonpress/_CAH9158.jpg
+

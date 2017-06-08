@@ -1,0 +1,59 @@
+/data/www/ftpdir/acepix/ACEPIXS_Romani_042517/042517_Romani_S02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33873 acepix    5wW  REG    8,2  1086408 11927573 /data/www/ftpdir/acepix/ACEPIXS_Romani_042517/042517_Romani_S02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Romani_042517/042517_Romani_S07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34033 acepix    5wW  REG    8,2  1092701 11927581 /data/www/ftpdir/acepix/ACEPIXS_Romani_042517/042517_Romani_S07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Time100Gala_K042507/042517_Time100_K026.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35513 acepix    5wW  REG    8,2  1643643 11927612 /data/www/ftpdir/acepix/ACEPIXS_Time100Gala_K042507/042517_Time100_K026.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Time_042517/042517_Time100_N12.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2766 acepix    5wW  REG    8,2   697680 11928094 /data/www/ftpdir/acepix/ACEPIXS_Time_042517/042517_Time100_N12.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6920 acepix    5wW  REG    8,2   236664 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D10.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6920 acepix    5wW  REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7028 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7054 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6920 acepix    5wW  REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7028 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7054 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7138 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6920 acepix    5wW  REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7028 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7054 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7138 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7171 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7438 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  8154 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6920 acepix    5wW  REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7028 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7054 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7138 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7171 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  7438 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  8154 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+vsftpd  8241 acepix    5w   REG    8,2   253080 11928157 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D100.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16862 acepix    5wW  REG    8,2   378936 11928225 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D15.JPG
+

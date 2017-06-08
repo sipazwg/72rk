@@ -1,0 +1,158 @@
+/data/www/ftpdir/acepix/ACEPIXS_Pitt_051617/051617_Pitt_P06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36778 acepix    5wW  REG    8,2   535232 13500583 /data/www/ftpdir/acepix/ACEPIXS_Pitt_051617/051617_Pitt_P06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Pitt1_051617/051617_Pitt1_P01.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Pitt1_051617/051617_Pitt1_P02.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Pitt1_051617/051617_Pitt1_P03.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28391 acepix    5wW  REG    8,2  1816278 13500612 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29910 acepix    5wW  REG    8,2   798912 13500614 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N06.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31644 acepix    5wW  REG    8,2  1323739 13500616 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N08.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N09.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33415 acepix    5wW  REG    8,2   220248 13500620 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34032 acepix    5wW  REG    8,2  2106208 13500621 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36104 acepix    5wW  REG    8,2   753768 13500630 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N29.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38142 acepix    5wW  REG    8,2   224352 13500638 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N29.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N31.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39207 acepix    5wW  REG    8,2   851357 13500640 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N31.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N33.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40232 acepix    5wW  REG    8,2  1894178 13500642 /data/www/ftpdir/acepix/ACEPIXS_ABC1_051617/051617_ABC1_N33.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41562 acepix    5wW  REG    8,2  2905221 13500647 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42705 acepix    5wW  REG    8,2  1988111 13500649 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44432 acepix    5wW  REG    8,2  1209280 13500650 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45789 acepix    5wW  REG    8,2  2176761 13500651 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47162 acepix    5wW  REG    8,2  3245946 13500652 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47798 acepix    5wW  REG    8,2  1856376 13500654 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48261 acepix    5wW  REG    8,2   857736 13500656 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48658 acepix    5wW  REG    8,2  2710008 13500657 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z13.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1169 acepix    5wW  REG    8,2  1905632 13500658 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z14.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2251 acepix    5wW  REG    8,2  2393408 13500659 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z15.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3254 acepix    5wW  REG    8,2  2160799 13500660 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z17.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4137 acepix    5wW  REG    8,2  1159640 13500661 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z16.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5019 acepix    5wW  REG    8,2  1254200 13500662 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z16.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5019 acepix    5wW  REG    8,2  4484861 13500662 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z18.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8924 acepix    5wW  REG    8,2  1631081 13500664 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z20.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9077 acepix    5wW  REG    8,2  1793448 13500665 /data/www/ftpdir/acepix/ACEPIXS_SetItUp_051617/051617_SetItUp_Z20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K002.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9305 acepix    5wW  REG    8,2   121752 13500668 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K006.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9726 acepix    5wW  REG    8,2   540101 13500672 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K006.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K009.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10077 acepix    5wW  REG    8,2  1644336 13500675 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K009.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K013.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10639 acepix    5wW  REG    8,2   972392 13500679 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11680 acepix    5wW  REG    8,2  1636984 13500682 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K020.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12868 acepix    5wW  REG    8,2  1120392 13500686 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K020.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14127 acepix    5wW  REG    8,2  1444720 13500690 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K025.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K026.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17300 acepix    5wW  REG    8,2  1781878 13500693 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K026.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K059.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24354 acepix    5wW  REG    8,2   504792 13500725 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K059.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K085.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33069 acepix    5wW  REG    8,2   940800 13500751 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K085.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K088.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34454 acepix    5wW  REG    8,2  2004579 13500754 /data/www/ftpdir/acepix/ACEPIXS_ABCUpfront_K051617_166/051617_ABCUpfront_K088.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Rodriguez_051617_34/051617_Gina_P11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48663 acepix    5wW  REG    8,2  2659312 13500842 /data/www/ftpdir/acepix/ACEPIXS_Rodriguez_051617_34/051617_Gina_P11.JPG
+

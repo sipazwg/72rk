@@ -1,0 +1,60 @@
+/data/www/ftpdir/acepix/ACEPIXS_Blanchett_K012117/012117_CateBlanchett_K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28613 acepix    5wW  REG    8,2  1942259 7340663 /data/www/ftpdir/acepix/ACEPIXS_Blanchett_K012117/012117_CateBlanchett_K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Blanchett_K012117/012117_protester_K020.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28904 acepix    5wW  REG    8,2  1558152 7340668 /data/www/ftpdir/acepix/ACEPIXS_Blanchett_K012117/012117_protester_K020.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16172 acepix    5wW  REG    8,2  1469534 7340671 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16823 acepix    5wW  REG    8,2   618936 7340677 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17759 acepix    5wW  REG    8,2  3344150 7340685 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C24.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18676 acepix    5wW  REG    8,2  1362018 7340692 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C24.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C31.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19588 acepix    5wW  REG    8,2  1650536 7340701 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C35.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19852 acepix    5wW  REG    8,2  1225155 7340704 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C37.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20116 acepix    5wW  REG    8,2  1588248 7340707 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C41.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20380 acepix    5wW  REG    8,2  1248216 7340710 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C41.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C44.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20644 acepix    5wW  REG    8,2  2787984 7340712 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C44.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20890 acepix    5wW  REG    8,2  1488714 7340715 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21809 acepix    5wW  REG    8,2  1369112 7340725 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C58.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22123 acepix    5wW  REG    8,2   475552 7340728 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C58.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22715 acepix    5wW  REG    8,2   306432 7340733 /data/www/ftpdir/acepix/ACEPIXS_WomenMarch_012117/012117_WomenMarch_C64.JPG
+

@@ -1,0 +1,153 @@
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N06.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3873 acepix    5wW  REG    8,2  2125232 12190073 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N08.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4048 acepix    5wW  REG    8,2   826189 12190076 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N13.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4254 acepix    5wW  REG    8,2   524288 12190081 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N13.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH02.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4744 acepix    5wW  REG    8,2  1753036 12190088 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH07.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4918 acepix    5wW  REG    8,2   958968 12190092 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH09.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5150 acepix    5wW  REG    8,2  1941655 12190095 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH31.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6725 acepix    5wW  REG    8,2   334849 12190117 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH31.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH33.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6893 acepix    5wW  REG    8,2  2497384 12190119 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH33.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH36.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7064 acepix    5wW  REG    8,2   311520 12190122 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH43.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7500 acepix    5wW  REG    8,2   670312 12190128 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH43.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH42.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7665 acepix    5wW  REG    8,2  1750368 12190129 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH42.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH45.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7776 acepix    5wW  REG    8,2  1435305 12190130 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH45.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH47.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7940 acepix    5wW  REG    8,2  1794880 12190132 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH47.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH51.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8308 acepix    5wW  REG    8,2   437760 12190137 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH51.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH52.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8471 acepix    5wW  REG    8,2   917539 12190138 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH52.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH54.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8581 acepix    5wW  REG    8,2  1405949 12190139 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH53.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8713 acepix    5wW  REG    8,2  1573272 12190140 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH53.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH57.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9031 acepix    5wW  REG    8,2   668952 12190143 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH57.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH58.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9181 acepix    5wW  REG    8,2  1181952 12190144 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH58.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH61.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9609 acepix    5wW  REG    8,2    51984 12190148 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH61.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH63.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9744 acepix    5wW  REG    8,2  2483520 12190149 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH63.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH64.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9903 acepix    5wW  REG    8,2   435752 12190151 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH64.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH66.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10046 acepix    5wW  REG    8,2  2003608 12190152 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH66.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH68.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10207 acepix    5wW  REG    8,2    11190 12190154 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH68.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH69.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10506 acepix    5wW  REG    8,2  1384160 12190155 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH69.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH71.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10615 acepix    5wW  REG    8,2  1061912 12190157 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH71.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH72.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10759 acepix    5wW  REG    8,2  1638366 12190158 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH72.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH74.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11092 acepix    5wW  REG    8,2   358416 12190161 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH74.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH77.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11224 acepix    5wW  REG    8,2   210288 12190162 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH77.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH76.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11358 acepix    5wW  REG    8,2  1060200 12190163 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH76.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH78.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11468 acepix    5wW  REG    8,2  1469232 12190164 /data/www/ftpdir/acepix/ACEPIXS_SportsAwards_042717/042717_SportsAwards_FJHMH78.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RitaOra_K042817/042817_RitaOra__K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14865 acepix    5wW  REG    8,2   894504 12190167 /data/www/ftpdir/acepix/ACEPIXS_RitaOra_K042817/042817_RitaOra__K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RitaOra_K042817/042817_RitaOra__K001.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_RitaOra_K042817/042817_RitaOra__K011.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15699 acepix    5wW  REG    8,2  1775456 12190177 /data/www/ftpdir/acepix/ACEPIXS_RitaOra_K042817/042817_RitaOra__K011.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36877 acepix    5wW  REG    8,2   334520 12190182 /data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K008.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37234 acepix    5wW  REG    8,2   510264 12190189 /data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K008.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K017.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37722 acepix    5wW  REG    8,2   753768 12190198 /data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37990 acepix    5wW  REG    8,2   823280 12190203 /data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38955 acepix    5wW  REG    8,2  1256512 12190218 /data/www/ftpdir/acepix/ACEPIXS_UBKS_K042817/042717_UBKS_K037.JPG
+

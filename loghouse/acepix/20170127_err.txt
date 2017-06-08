@@ -1,0 +1,32 @@
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K012617/012617_AOLBuild_K011.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9968 acepix    5wW  REG    8,2  1737576 7602285 /data/www/ftpdir/acepix/ACEPIXS_AOL_K012617/012617_AOLBuild_K011.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K012617/012617_AOLBuild_K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10347 acepix    5wW  REG    8,2  2545856 7602290 /data/www/ftpdir/acepix/ACEPIXS_AOL_K012617/012617_AOLBuild_K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Zayn1_012617/012617_Zayn1_P04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27183 acepix    5wW  REG    8,2  1124328 7602324 /data/www/ftpdir/acepix/ACEPIXS_Zayn1_012617/012617_Zayn1_P04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Zayn1_012617/012617_Zayn1_P15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27973 acepix    5wW  REG    8,2  1621936 7602335 /data/www/ftpdir/acepix/ACEPIXS_Zayn1_012617/012617_Zayn1_P15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_KathrynHahn_K012617/012617_KathrynHahn_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46565 acepix    5wW  REG    8,2  1032072 7602346 /data/www/ftpdir/acepix/ACEPIXS_KathrynHahn_K012617/012617_KathrynHahn_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MacysFashion_K012617/012617_MacysYounger__K004.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10446 acepix    5wW  REG    8,2  1342312 7602361 /data/www/ftpdir/acepix/ACEPIXS_MacysFashion_K012617/012617_MacysYounger__K004.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MacysFashion_K012617/012617_MacysYounger__K013.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11064 acepix    5wW  REG    8,2   186048 7602370 /data/www/ftpdir/acepix/ACEPIXS_MacysFashion_K012617/012617_MacysYounger__K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MacysFashion_K012617/012617_MacysYounger__K018.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11377 acepix    5wW  REG    8,2  1037672 7602375 /data/www/ftpdir/acepix/ACEPIXS_MacysFashion_K012617/012617_MacysYounger__K018.JPG
+

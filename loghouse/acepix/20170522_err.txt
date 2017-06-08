@@ -1,0 +1,74 @@
+/data/www/ftpdir/acepix/ACEPIXS_Shameless_052117/052117_Shameless_N09.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_SJPVulture_052117/052117_SJP_N18.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29242 acepix    5wW  REG    8,2  1567055 13631999 /data/www/ftpdir/acepix/ACEPIXS_SJPVulture_052117/052117_SJP_N18.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26088 acepix    5wW  REG    8,2   998273 13632014 /data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31695 acepix    5wW  REG    8,2  2008400 13632024 /data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36756 acepix    5wW  REG    8,2  3797496 13632032 /data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46434 acepix    5wW  REG    8,2  6719399 13632048 /data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D47.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48432 acepix    5wW  REG    8,2  2136560 13632052 /data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D47.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D51.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1505 acepix    5wW  REG    8,2  1903782 13632056 /data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D54.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3918 acepix    5wW  REG    8,2  3246352 13632059 /data/www/ftpdir/acepix/ACEPIXS_MummyDay_052017_54/052017_MummyDay_D54.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Schwarzenegger_052017/052017_Schwarzenegger_FMC_02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40307 acepix    5wW  REG    8,2   612286 13762563 /data/www/ftpdir/acepix/ACEPIXS_Schwarzenegger_052017/052017_Schwarzenegger_FMC_02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ MeyerowitzPhotocall_052117/052117_ Meyerowitz_FMC_11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10959 acepix    5wW  REG    8,2   727249 13762595 /data/www/ftpdir/acepix/ACEPIXS_ MeyerowitzPhotocall_052117/052117_ Meyerowitz_FMC_11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_HowtoTalk_052117/052117_HowtoTalk_FMC_11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41966 acepix    5wW  REG    8,2   817642 13762611 /data/www/ftpdir/acepix/ACEPIXS_HowtoTalk_052117/052117_HowtoTalk_FMC_11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_MeyerowitzPrem_052117_20/052117_MeyerowitzPrem_FMC_14.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22288 acepix    5wW  REG    8,2   322810 13762625 /data/www/ftpdir/acepix/ACEPIXS_MeyerowitzPrem_052117_20/052117_MeyerowitzPrem_FMC_14.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_MeyerowitzPrem_052117_20/052117_MeyerowitzPrem_FMC_18.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_MeyerowitzPrem_052117_20/052117_MeyerowitzPrem_FMC_21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27731 acepix    5wW  REG    8,2   357048 13762632 /data/www/ftpdir/acepix/ACEPIXS_MeyerowitzPrem_052117_20/052117_MeyerowitzPrem_FMC_21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_03.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9617 acepix    5wW  REG    8,2   309042 13762636 /data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13420 acepix    5wW  REG    8,2   798884 13762643 /data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_51.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26353 acepix    5wW  REG    8,2  1055358 13762684 /data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_51.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_61.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31745 acepix    5wW  REG    8,2   600079 13762694 /data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/051917_Okja_FBP_61.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/abqus011.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34862 acepix    5wW  REG    8,2   589608 13762698 /data/www/ftpdir/acepix/ACEPIXS_OkjaPrem_051917_65/abqus011.jpg
+

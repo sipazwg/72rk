@@ -1,0 +1,71 @@
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F29.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5855 acepix    5wW  REG    8,2  1007240 6035868 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F29.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F30.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6051 acepix    5wW  REG    8,2  1512681 6035869 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F30.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F30.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F31.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6410 acepix    5wW  REG    8,2   235296 6035871 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F31.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F32.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6561 acepix    5wW  REG    8,2   730512 6035869 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F32.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F33.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6741 acepix    5wW  REG    8,2  1249679 6035872 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F33.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F34.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F35.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7091 acepix    5wW  REG    8,2  1804392 6035875 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F35.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F37.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7291 acepix    5wW  REG    8,2  1035060 6035876 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F37.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F38.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7879 acepix    5wW  REG    8,2  1142798 6035878 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F38.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F39.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7989 acepix    5wW  REG    8,2  2978293 6035876 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F39.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F40.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8217 acepix    5wW  REG    8,2  1740706 6035879 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F40.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F42.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8404 acepix    5wW  REG    8,2   915192 6035881 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F42.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F44.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8623 acepix    5wW  REG    8,2   202464 6035883 /data/www/ftpdir/acepix/ACEPIXS_Collateral_121516/121516_Collateral_F44.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6347 acepix    5wW  REG    8,2    67032 6035921 /data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C08.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7026 acepix    5wW  REG    8,2  1528202 6035929 /data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C10.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7209 acepix    5wW  REG    8,2  1834980 6035931 /data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C17.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7712 acepix    5wW  REG    8,2  1255612 6035937 /data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C20.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7944 acepix    5wW  REG    8,2  1756799 6035940 /data/www/ftpdir/acepix/ACEPIXS_Keke1_121616/121616_Keke1_C20.JPG
+

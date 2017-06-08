@@ -1,0 +1,20 @@
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34219 acepix    5wW  REG    8,2  1183752 10092548 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35124 acepix    5wW  REG    8,2   901512 10092551 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36975 acepix    5wW  REG    8,2  1798328 10092560 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S21.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39009 acepix    5wW  REG    8,2  1562344 10092567 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032417/032416_MiamiOpen_S21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Knox_032417/032417_Knox_S02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40204 acepix    5wW  REG    8,2  1756048 10092574 /data/www/ftpdir/acepix/ACEPIXS_Knox_032417/032417_Knox_S02.JPG
+

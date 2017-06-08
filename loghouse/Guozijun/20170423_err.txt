@@ -1,0 +1,1417 @@
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4070.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2  1508340 11666037 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4070.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34821 Guozijun    5wW  REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  42632 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2   314640 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34752 Guozijun    5wW  REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  42637 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2     5520 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42632 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  43289 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42637 Guozijun    5wW  REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  43317 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77308 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44829 Guozijun    5wW  REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5w   REG    8,2    78688 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  45806 Guozijun    5wW  REG    8,2    77280 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45809 Guozijun    5wW  REG    8,2    53820 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43317 Guozijun    5wW  REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+vsftpd  44176 Guozijun    5w   REG    8,2    66012 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5w   REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44152 Guozijun    5wW  REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    79300 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44176 Guozijun    5wW  REG    8,2    79428 11666100 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4162.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35637 Guozijun    5wW  REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+vsftpd  35640 Guozijun    5w   REG    8,2    12420 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35636 Guozijun    5wW  REG    8,2    66240 11666127 /data/www/ftpdir/Guozijun/闭幕式/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43289 Guozijun    5wW  REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  44832 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5w   REG    8,2    77948 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35640 Guozijun    5wW  REG    8,2    46920 11666128 /data/www/ftpdir/Guozijun/闭幕式/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5w   REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45803 Guozijun    5wW  REG    8,2    72912 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5w   REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+vsftpd  45706 Guozijun    5wW  REG    8,2    79428 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44832 Guozijun    5wW  REG    8,2    66368 11666099 /data/www/ftpdir/Guozijun/闭幕式红毯/XB5A4160.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4206.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12526 Guozijun    5wW  REG    8,2   799996 11666166 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4206.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12525 Guozijun    5wW  REG    8,2   573239 11666165 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14240 Guozijun    5wW  REG    8,2   715560 11666165 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4209.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12526 Guozijun    5wW  REG    8,2  1352785 11666167 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4209.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4208.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14588 Guozijun    5wW  REG    8,2   716900 11666165 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4208.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4209.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14587 Guozijun    5wW  REG    8,2  1048576 11666167 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4209.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4210.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14587 Guozijun    5wW  REG    8,2  1498509 11666128 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4210.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4215.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14588 Guozijun    5wW  REG    8,2   662657 11666169 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4215.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4221.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14588 Guozijun    5wW  REG    8,2   893780 11666171 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4221.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4225.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18722 Guozijun    5wW  REG    8,2   300160 11666174 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4225.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4226.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14588 Guozijun    5wW  REG    8,2   683400 11666175 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4226.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4232.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14588 Guozijun    5wW  REG    8,2   417888 11666178 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4232.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4235.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21005 Guozijun    5wW  REG    8,2    16080 11666180 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4235.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4236.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18722 Guozijun    5wW  REG    8,2  1297120 11666181 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4236.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4237.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18722 Guozijun    5wW  REG    8,2  1661304 11666182 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4237.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4238.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21005 Guozijun    5wW  REG    8,2   109880 11666183 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4238.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4240.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23914 Guozijun    5wW  REG    8,2   174200 11666186 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4240.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4239.JPG--- have been enter
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4241.JPG--- have been enter
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4247.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24704 Guozijun    5wW  REG    8,2   621568 11666193 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4247.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4246.JPG--- have been enter
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4247.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24704 Guozijun    5wW  REG    8,2  1498320 11666193 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4247.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4248.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26313 Guozijun    5wW  REG    8,2  1609044 11666194 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4248.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4247.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28064 Guozijun    5wW  REG    8,2  1495640 11666193 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4247.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4250.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29135 Guozijun    5wW  REG    8,2   152760 11666195 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4250.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4251.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30956 Guozijun    5wW  REG    8,2    65660 11666197 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4251.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29135 Guozijun    5wW  REG    8,2   549895 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4251.JPG--- have been enter
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31634 Guozijun    5wW  REG    8,2    61640 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30956 Guozijun    5wW  REG    8,2   656408 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2    26800 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   117920 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2    83080 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   187600 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33528 Guozijun    5wW  REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+vsftpd  35171 Guozijun    5w   REG    8,2   200786 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33527 Guozijun    5wW  REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+vsftpd  33842 Guozijun    5w   REG    8,2   442231 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35171 Guozijun    5wW  REG    8,2     5360 11666198 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4253.JPG
+
+/data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33842 Guozijun    5wW  REG    8,2    79872 11666199 /data/www/ftpdir/Guozijun/闭幕式全景视角/XB5A4256.JPG
+

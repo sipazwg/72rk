@@ -1,0 +1,24 @@
+/data/www/ftpdir/cordonpress/_JLC2067.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     21707 root    3w   REG    8,2   540672 5507971 /data/www/ftpdir/cordonpress/_JLC2067.jpg
+
+/data/www/ftpdir/cordonpress/_JLC2111.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23686 root    3w   REG    8,2   835584 5507981 /data/www/ftpdir/cordonpress/_JLC2111.jpg
+
+/data/www/ftpdir/cordonpress/_JLC2142.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     28041 root    3w   REG    8,2  1064960 5507992 /data/www/ftpdir/cordonpress/_JLC2142.jpg
+
+/data/www/ftpdir/cordonpress/_JLC2241.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     31628 root    3w   REG    8,2   966656 5508012 /data/www/ftpdir/cordonpress/_JLC2241.jpg
+
+/data/www/ftpdir/cordonpress/_MG_9423.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     48723 root    3w   REG    8,2   606208 5508033 /data/www/ftpdir/cordonpress/_MG_9423.jpg
+
+/data/www/ftpdir/cordonpress/_MG_9615.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     48379 root    3w   REG    8,2  1359872 5508068 /data/www/ftpdir/cordonpress/_MG_9615.jpg
+

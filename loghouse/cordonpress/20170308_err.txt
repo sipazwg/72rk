@@ -1,0 +1,39 @@
+/data/www/ftpdir/cordonpress/AW4Y0708.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20531 root    3w   REG    8,2  2277376 5525578 /data/www/ftpdir/cordonpress/AW4Y0708.JPG
+
+/data/www/ftpdir/cordonpress/IMG_8861-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     45913 root    3w   REG    8,2  1622016 5525616 /data/www/ftpdir/cordonpress/IMG_8861-001.jpg
+
+/data/www/ftpdir/cordonpress/IMG_8711-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/IMG_8498-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     46986 root    3w   REG    8,2  1130496 5525632 /data/www/ftpdir/cordonpress/IMG_8498-001.jpg
+
+/data/www/ftpdir/cordonpress/IMG_8722-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/IMG_7897-002.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     48959 root    3w   REG    8,2  1884160 5525669 /data/www/ftpdir/cordonpress/IMG_7897-002.jpg
+
+/data/www/ftpdir/cordonpress/IMG_7899-001.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1689 root    3w   REG    8,2   540672 5525691 /data/www/ftpdir/cordonpress/IMG_7899-001.jpg
+
+/data/www/ftpdir/cordonpress/_DSC6607.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     47732 root    3w   REG    8,2  3031040 5525710 /data/www/ftpdir/cordonpress/_DSC6607.JPG
+
+/data/www/ftpdir/cordonpress/_DSC6607.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     47732 root    3w   REG    8,2  3031040 5525710 /data/www/ftpdir/cordonpress/_DSC6607.JPG
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_30.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     5817 root    3w   REG    8,2  1359872 5525321 /data/www/ftpdir/cordonpress/DiegoPuerta_30.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_12.jpg--- have been enter
+/data/www/ftpdir/cordonpress/700_6507.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     13587 root    3w   REG    8,2  1425408 5521862 /data/www/ftpdir/cordonpress/700_6507.jpg
+

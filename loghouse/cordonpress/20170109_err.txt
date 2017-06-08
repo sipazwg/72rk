@@ -1,0 +1,176 @@
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0058.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     41190 root    3w   REG    8,2   131072 5510868 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0058.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0076.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     41349 root    3w   REG    8,2  1622016 5510870 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0076.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0102.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     41486 root    3w   REG    8,2  1097728 5510871 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0102.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0107.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     41742 root    3w   REG    8,2   671744 5510873 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0107.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0294.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     41966 root    3w   REG    8,2   212992 5510874 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0294.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0156.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42160 root    3w   REG    8,2   409600 5510875 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0156.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0213.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42351 root    3w   REG    8,2  1654784 5510876 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0213.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0365.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42545 root    3w   REG    8,2   278528 5510878 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0365.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0372.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42715 root    3w   REG    8,2  2310144 5510879 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0372.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0322.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42906 root    3w   REG    8,2  2375680 5510880 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0322.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0572.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     43155 root    3w   REG    8,2   540672 5510882 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0572.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0411.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     43383 root    3w   REG    8,2  1327104 5510884 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0411.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0384.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     43623 root    3w   REG    8,2   770048 5510890 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0384.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0580.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     43838 root    3w   REG    8,2  2703360 5510893 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0580.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0697.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     44168 root    3w   REG    8,2    81920 5510897 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0697.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0697.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     44168 root    3w   REG    8,2  3162112 5510897 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0697.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0700.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     44690 root    3w   REG    8,2  1032192 5510901 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0700.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0686.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     45148 root    3w   REG    8,2  1490944 5510904 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0686.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0816.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     45366 root    3w   REG    8,2   131072 5510909 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0816.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0816.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     45366 root    3w   REG    8,2  5521408 5510909 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0816.JPG
+
+/data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0816.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     45366 root    3w   REG    8,2 12271616 5510909 /data/www/ftpdir/cordonpress/17.01.08_Villarreal_Barcelona_0816.JPG
+
+/data/www/ftpdir/cordonpress/_DSC9082-13.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     46482 root    3w   REG    8,2   376832 5510922 /data/www/ftpdir/cordonpress/_DSC9082-13.jpg
+
+/data/www/ftpdir/cordonpress/RA20170108_07.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     46781 root    3w   REG    8,2   966656 5510927 /data/www/ftpdir/cordonpress/RA20170108_07.jpg
+
+/data/www/ftpdir/cordonpress/_DSC9258-21.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     47128 root    3w   REG    8,2   344064 5510936 /data/www/ftpdir/cordonpress/_DSC9258-21.jpg
+
+/data/www/ftpdir/cordonpress/RA20170108_08.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     47528 root    3w   REG    8,2  2572288 5510940 /data/www/ftpdir/cordonpress/RA20170108_08.jpg
+
+/data/www/ftpdir/cordonpress/RA20170108_12.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     47877 root    3w   REG    8,2  1163264 5510944 /data/www/ftpdir/cordonpress/RA20170108_12.jpg
+
+/data/www/ftpdir/cordonpress/RA20170108_19.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     48187 root    3w   REG    8,2  1458176 5510950 /data/www/ftpdir/cordonpress/RA20170108_19.jpg
+
+/data/www/ftpdir/cordonpress/RA20170108_10.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     48552 root    3w   REG    8,2   573440 5510954 /data/www/ftpdir/cordonpress/RA20170108_10.jpg
+
+/data/www/ftpdir/cordonpress/RA20170108_21.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     49105 root    3w   REG    8,2   638976 5510959 /data/www/ftpdir/cordonpress/RA20170108_21.jpg
+
+/data/www/ftpdir/cordonpress/SCR_3952.JPG img is open 
+COMMAND PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     518 root    3w   REG    8,2   573440 5510961 /data/www/ftpdir/cordonpress/SCR_3952.JPG
+
+/data/www/ftpdir/cordonpress/SCR_3955.JPG img is open 
+COMMAND PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     699 root    3w   REG    8,2  1392640 5510962 /data/www/ftpdir/cordonpress/SCR_3955.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4002.JPG img is open 
+COMMAND PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     953 root    3w   REG    8,2   638976 5510964 /data/www/ftpdir/cordonpress/SCR_4002.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4022.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1177 root    3w   REG    8,2   311296 5510965 /data/www/ftpdir/cordonpress/SCR_4022.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4022.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1177 root    3w   REG    8,2  1556480 5510965 /data/www/ftpdir/cordonpress/SCR_4022.JPG
+
+/data/www/ftpdir/cordonpress/SCR_3993.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1479 root    3w   REG    8,2  1097728 5510966 /data/www/ftpdir/cordonpress/SCR_3993.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4150.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1737 root    3w   REG    8,2    16384 5510967 /data/www/ftpdir/cordonpress/SCR_4150.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4078.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1996 root    3w   REG    8,2  1458176 5510968 /data/www/ftpdir/cordonpress/SCR_4078.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4071.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2139 root    3w   REG    8,2  2211840 5510970 /data/www/ftpdir/cordonpress/SCR_4071.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4126.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2421 root    3w   REG    8,2  1228800 5510972 /data/www/ftpdir/cordonpress/SCR_4126.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4119.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2590 root    3w   REG    8,2  1818624 5510973 /data/www/ftpdir/cordonpress/SCR_4119.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4172.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2840 root    3w   REG    8,2  1228800 5510975 /data/www/ftpdir/cordonpress/SCR_4172.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4116.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     3008 root    3w   REG    8,2  1818624 5510976 /data/www/ftpdir/cordonpress/SCR_4116.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4195.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     3256 root    3w   REG    8,2   114688 5510978 /data/www/ftpdir/cordonpress/SCR_4195.JPG
+
+/data/www/ftpdir/cordonpress/SCR_4178.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     3480 root    3w   REG    8,2  1884160 5510979 /data/www/ftpdir/cordonpress/SCR_4178.JPG
+

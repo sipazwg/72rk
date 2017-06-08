@@ -1,0 +1,24 @@
+/data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16797 acepix    5wW  REG    8,2   464608 5636694 /data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16890 acepix    5wW  REG    8,2  1293677 5636696 /data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17177 acepix    5wW  REG    8,2  1294945 5636699 /data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17284 acepix    5wW  REG    8,2   596192 5636702 /data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N12.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17497 acepix    5wW  REG    8,2  1148864 5636704 /data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N12.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N15.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17805 acepix    5wW  REG    8,2  1144760 5636707 /data/www/ftpdir/acepix/ACEPIXS_NYcandids_120416/120416_Candids_N15.jpg
+

@@ -1,0 +1,13 @@
+/data/www/ftpdir/cordonpress/17.01.20_Netherlands__Romania_1030.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1532 root    3w   REG    8,2  1196032 5505553 /data/www/ftpdir/cordonpress/17.01.20_Netherlands__Romania_1030.JPG
+
+/data/www/ftpdir/cordonpress/17.01.20_Netherlands__Romania_1173.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     1743 root    3w   REG    8,2  2703360 5512530 /data/www/ftpdir/cordonpress/17.01.20_Netherlands__Romania_1173.JPG
+
+/data/www/ftpdir/cordonpress/17.01.20_Netherlands__Romania_0595.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     4008 root    3w   REG    8,2  5160960 5512540 /data/www/ftpdir/cordonpress/17.01.20_Netherlands__Romania_0595.JPG
+
+/data/www/ftpdir/cordonpress/_SBG8139.jpg--- have been enter

@@ -1,0 +1,12 @@
+/data/www/ftpdir/cordonpress/_JLC9635.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     21043 root    3w   REG    8,2   606208 5540324 /data/www/ftpdir/cordonpress/_JLC9635.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_12.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     32343 root    3w   REG    8,2  1654784 5540248 /data/www/ftpdir/cordonpress/DiegoPuerta_12.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_22.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     35128 root    3w   REG    8,2   376832 5539194 /data/www/ftpdir/cordonpress/DiegoPuerta_22.jpg
+

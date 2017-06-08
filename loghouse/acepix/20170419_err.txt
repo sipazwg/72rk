@@ -1,0 +1,171 @@
+/data/www/ftpdir/acepix/ACEPIXS_TheView_K041817/041810_TheView_K010.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22415 acepix    5wW  REG    8,2  2239248 11403406 /data/www/ftpdir/acepix/ACEPIXS_TheView_K041817/041810_TheView_K010.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheView_K041817/041810_TheView_K035.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25891 acepix    5wW  REG    8,2   341744 11403431 /data/www/ftpdir/acepix/ACEPIXS_TheView_K041817/041810_TheView_K035.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheView_K041817/041810_TheView_K035.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25891 acepix    5wW  REG    8,2   830120 11403431 /data/www/ftpdir/acepix/ACEPIXS_TheView_K041817/041810_TheView_K035.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheView_K041817/041810_TheView_K035.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K007.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10631 acepix    5wW  REG    8,2  1110560 11403449 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K007.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K007.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10631 acepix    5wW  REG    8,2  1562000 11403449 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K007.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13436 acepix    5wW  REG    8,2   985688 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13436 acepix    5wW  REG    8,2  1427552 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13436 acepix    5wW  REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13436 acepix    5wW  REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+vsftpd  16656 acepix    5w   REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+vsftpd  16716 acepix    5w   REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13436 acepix    5wW  REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+vsftpd  16656 acepix    5w   REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+vsftpd  16716 acepix    5w   REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+vsftpd  17066 acepix    5w   REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+vsftpd  17127 acepix    5w   REG    8,2  1616336 11403470 /data/www/ftpdir/acepix/ACEPIXS_ImmortalLifeHL_K041817/041717_HenriettaLacks_K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lacks_041817/041817_Lacks_N02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36218 acepix    5wW  REG    8,2   913656 11403538 /data/www/ftpdir/acepix/ACEPIXS_Lacks_041817/041817_Lacks_N02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Lacks_041817/041817_Lacks_N08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37225 acepix    5wW  REG    8,2  1291824 11403544 /data/www/ftpdir/acepix/ACEPIXS_Lacks_041817/041817_Lacks_N08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Lacks_041817/041817_Lacks_N08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37225 acepix    5wW  REG    8,2  1684440 11403544 /data/www/ftpdir/acepix/ACEPIXS_Lacks_041817/041817_Lacks_N08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Lacks_041817/041817_Lacks_N08.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48909 acepix    5wW  REG    8,2   448704 11403657 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K004.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  443 acepix    5wW  REG    8,2   629280 11403659 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K004.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K006.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  975 acepix    5wW  REG    8,2  1093032 11403661 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K006.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K009.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1513 acepix    5wW  REG    8,2   688065 11403664 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K009.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K014.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3424 acepix    5wW  REG    8,2  1414000 11403669 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K017.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4717 acepix    5wW  REG    8,2  1017484 11403672 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K022.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7120 acepix    5wW  REG    8,2  1837224 11403677 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K024.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7834 acepix    5wW  REG    8,2  2232576 11403679 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K030.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11483 acepix    5wW  REG    8,2   925880 11403685 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K030.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K033.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12979 acepix    5wW  REG    8,2   782496 11403688 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K035.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14590 acepix    5wW  REG    8,2  1604664 11403690 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K035.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K038.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16747 acepix    5wW  REG    8,2  1279080 11403693 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K038.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18362 acepix    5wW  REG    8,2   756504 11403696 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K043.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19204 acepix    5wW  REG    8,2  1662120 11403698 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K043.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K045.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21215 acepix    5wW  REG    8,2  1748631 11403700 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K045.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K047.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K048.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25052 acepix    5wW  REG    8,2  1251720 11403704 /data/www/ftpdir/acepix/ACEPIXS_SherylCrow_K041917/041917_SherylCrow_K048.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25879 acepix    5wW  REG    8,2   165528 11403707 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D02.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27402 acepix    5wW  REG    8,2   605135 11403712 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28323 acepix    5wW  REG    8,2   432032 11403716 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33267 acepix    5wW  REG    8,2  1019160 11403731 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D35.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35600 acepix    5wW  REG    8,2   719551 11403741 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D37.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41200 acepix    5wW  REG    8,2   272232 11403752 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D53.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43799 acepix    5wW  REG    8,2   564344 11403759 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D53.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D55.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45344 acepix    5wW  REG    8,2   531896 11403761 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D55.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D60.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46116 acepix    5wW  REG    8,2    46512 11403766 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D60.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46884 acepix    5wW  REG    8,2   513000 11403770 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D64.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D80.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3292 acepix    5wW  REG    8,2   520568 11403786 /data/www/ftpdir/acepix/ACEPIXS_ThirstGala_041817/041817_ThirstGala_D80.JPG
+

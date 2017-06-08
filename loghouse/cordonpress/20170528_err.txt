@@ -1,0 +1,11 @@
+/data/www/ftpdir/cordonpress/_JLC2652.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     21807 root    3w   REG    8,2  1982464 5509601 /data/www/ftpdir/cordonpress/_JLC2652.JPG
+
+/data/www/ftpdir/cordonpress/_JLC2767.JPG--- have been enter
+/data/www/ftpdir/cordonpress/_JLC2770.JPG--- have been enter
+/data/www/ftpdir/cordonpress/_JLC2771.JPG--- have been enter
+/data/www/ftpdir/cordonpress/_JLC2948.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     13962 root    3w   REG    8,2   835584 5509717 /data/www/ftpdir/cordonpress/_JLC2948.JPG
+

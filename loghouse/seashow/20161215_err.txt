@@ -1,0 +1,28 @@
+/data/www/ftpdir/seashow/pic/YHC_2687.JPG img is open 
+COMMAND   PID         USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32978 seashow_2016    5wW  REG    8,2   581358 5505764 /data/www/ftpdir/seashow/pic/YHC_2687.JPG
+
+/data/www/ftpdir/seashow/pic/YHC_2691.JPG img is open 
+COMMAND   PID         USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33073 seashow_2016    5wW  REG    8,2   753777 5505766 /data/www/ftpdir/seashow/pic/YHC_2691.JPG
+
+/data/www/ftpdir/seashow/pic/YHC_2707.JPG img is open 
+COMMAND   PID         USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33626 seashow_2016    5wW  REG    8,2   640280 5505774 /data/www/ftpdir/seashow/pic/YHC_2707.JPG
+
+/data/www/ftpdir/seashow/pic/YHC_2722.JPG img is open 
+COMMAND   PID         USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34361 seashow_2016    5wW  REG    8,2   433732 5505780 /data/www/ftpdir/seashow/pic/YHC_2722.JPG
+
+/data/www/ftpdir/seashow/pic/YHC_2726.JPG img is open 
+COMMAND   PID         USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34691 seashow_2016    5wW  REG    8,2    21244 5505783 /data/www/ftpdir/seashow/pic/YHC_2726.JPG
+
+/data/www/ftpdir/seashow/pic/YHC_2734.JPG img is open 
+COMMAND   PID         USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35087 seashow_2016    5wW  REG    8,2   690154 5505786 /data/www/ftpdir/seashow/pic/YHC_2734.JPG
+
+/data/www/ftpdir/seashow/pic/YHC_2734.JPG img is open 
+COMMAND   PID         USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35087 seashow_2016    5wW  REG    8,2   690154 5505786 /data/www/ftpdir/seashow/pic/YHC_2734.JPG
+

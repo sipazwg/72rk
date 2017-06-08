@@ -1,0 +1,109 @@
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5814 acepix    5wW  REG    8,2   404711 6816498 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D10.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6369 acepix    5wW  REG    8,2   313185 6816505 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D13.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6642 acepix    5wW  REG    8,2   287280 6816508 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D16.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6917 acepix    5wW  REG    8,2   744192 6816511 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D20.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7194 acepix    5wW  REG    8,2   414006 6816515 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D27.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7800 acepix    5wW  REG    8,2   515736 6816522 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D31.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8084 acepix    5wW  REG    8,2   468890 6816526 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D35.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8682 acepix    5wW  REG    8,2   469098 6816530 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D49.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9603 acepix    5wW  REG    8,2   228456 6816544 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D49.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D53.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9874 acepix    5wW  REG    8,2   202464 6816548 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D53.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D57.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10184 acepix    5wW  REG    8,2   359784 6816552 /data/www/ftpdir/acepix/ACEPIXS_Taboo_010917/010917_Taboo_D57.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Garfield_011017/011017_Garfield_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42124 acepix    5wW  REG    8,2  1770968 6816565 /data/www/ftpdir/acepix/ACEPIXS_Garfield_011017/011017_Garfield_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47824 acepix    5wW  REG    8,2  2535395 6946821 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48108 acepix    5wW  REG    8,2  3635944 6946825 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F12.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48411 acepix    5wW  REG    8,2  3713920 6946829 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F12.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F18.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48725 acepix    5wW  REG    8,2  4653312 6946835 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F18.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F23.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  49095 acepix    5wW  REG    8,2  2464006 6946840 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F23.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F27.jpg img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  623 acepix    5wW  REG    8,2  3433835 6946844 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F27.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F43.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1953 acepix    5wW  REG    8,2  3911248 6946861 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F43.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F48.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2257 acepix    5wW  REG    8,2  2354080 6946865 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F48.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F51.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2554 acepix    5wW  REG    8,2  1713720 6946868 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F51.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F64.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3643 acepix    5wW  REG    8,2  4377110 6946881 /data/www/ftpdir/acepix/ACEPIXS_XanderCage_011017/011017_Xander_F64.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_CatCora_K011017/011017_CatCora_K002.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ColbertGuests_011017/011017_ColbertGuests_K005.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5482 acepix    5wW  REG    8,2  1149120 6946908 /data/www/ftpdir/acepix/ACEPIXS_ColbertGuests_011017/011017_ColbertGuests_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31955 acepix    5wW  REG    8,2   296856 6946926 /data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32188 acepix    5wW  REG    8,2   751032 6946928 /data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32696 acepix    5wW  REG    8,2   166813 6946933 /data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32936 acepix    5wW  REG    8,2   482904 6946936 /data/www/ftpdir/acepix/ACEPIXS_BookofLove_011017/011017_BookofLove_D13.JPG
+

@@ -1,0 +1,44 @@
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KAC_1393.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36057 acepix    5wW  REG    8,2  1406352 5243285 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KAC_1393.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KAC_1478.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36759 acepix    5wW  REG    8,2   896040 5243298 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KAC_1478.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KAC_1655.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37117 acepix    5wW  REG    8,2   632016 5243304 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KAC_1655.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KC1_9285.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43003 acepix    5wW  REG    8,2  1555336 5243340 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KC1_9285.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KC1_9615.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44128 acepix    5wW  REG    8,2   585504 5243357 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_K031317/KC1_9615.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44910 acepix    5wW  REG    8,2  1732664 5243370 /data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45278 acepix    5wW  REG    8,2   950464 5243377 /data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45697 acepix    5wW  REG    8,2  1738904 5243382 /data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C32.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48084 acepix    5wW  REG    8,2   970128 5243398 /data/www/ftpdir/acepix/ACEPIXS_AOLGuests_031317/031317_AOL_C32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beauty1_031317/031317_Beauty1_N04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48378 acepix    5wW  REG    8,2   276336 5243404 /data/www/ftpdir/acepix/ACEPIXS_Beauty1_031317/031317_Beauty1_N04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Beauty1_031317/031317_Beauty1_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48734 acepix    5wW  REG    8,2   536220 5243409 /data/www/ftpdir/acepix/ACEPIXS_Beauty1_031317/031317_Beauty1_N09.jpg
+

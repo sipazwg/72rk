@@ -1,0 +1,5 @@
+/data/www/ftpdir/cordonpress/PACO_SUAREZ_023_2.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     30095 root    3w   REG    8,2  1720320 5507736 /data/www/ftpdir/cordonpress/PACO_SUAREZ_023_2.jpg
+
+/data/www/ftpdir/cordonpress/AC9R8367.JPG--- have been enter

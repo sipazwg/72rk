@@ -1,0 +1,82 @@
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36646 acepix    5wW  REG    8,2  1091425 13763169 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K009.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39451 acepix    5wW  REG    8,2  1491120 13763174 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K009.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K009.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K013.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40571 acepix    5wW  REG    8,2  1029259 13763178 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41842 acepix    5wW  REG    8,2   884456 13763180 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K019.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43570 acepix    5wW  REG    8,2   362520 13763183 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K019.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45016 acepix    5wW  REG    8,2   606024 13763186 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46373 acepix    5wW  REG    8,2   365256 13763189 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48106 acepix    5wW  REG    8,2   772664 13763192 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K031.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1576 acepix    5wW  REG    8,2  1177592 13763195 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K031.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K035.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3191 acepix    5wW  REG    8,2   889957 13763199 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K035.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K049.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10360 acepix    5wW  REG    8,2  1057464 13763213 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K049.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K054.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11700 acepix    5wW  REG    8,2   708624 13763218 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K054.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K062.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14910 acepix    5wW  REG    8,2  1138176 13763226 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K062.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K065.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16256 acepix    5wW  REG    8,2  1347480 13763229 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K065.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K069.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K070.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21220 acepix    5wW  REG    8,2   168264 13763235 /data/www/ftpdir/acepix/ACEPIXS_MileyCyrus_K052617_76/052617_MileyCyrus_K070.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25977 acepix    5wW  REG    8,2   826272 13893642 /data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP20.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31459 acepix    5wW  REG    8,2  1028142 13893653 /data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP20.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP25.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33449 acepix    5wW  REG    8,2   818064 13893658 /data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP25.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP29.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35253 acepix    5wW  REG    8,2   550871 13893662 /data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP29.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP30.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37113 acepix    5wW  REG    8,2   492167 13893663 /data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP30.jpg
+

@@ -1,0 +1,22 @@
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K060717_33/KAC_9840.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K060717_33/KAC_9939.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34184 acepix    5wW  REG    8,2   607608 14025381 /data/www/ftpdir/acepix/ACEPIXS_AOL_K060717_33/KAC_9939.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K060717_33/KAC_9994.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35151 acepix    5wW  REG    8,2  1089650 14025390 /data/www/ftpdir/acepix/ACEPIXS_AOL_K060717_33/KAC_9994.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TheMummySaks_K060717_28/060717_TheMummySaks_K019.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_TheMummySaks_K060717_28/060717_TheMummySaks_K031.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47454 acepix    5wW  REG    8,2  1235153 14025518 /data/www/ftpdir/acepix/ACEPIXS_TheMummySaks_K060717_28/060717_TheMummySaks_K031.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TheMummySaks_K060717_28/060717_TheMummySaks_K037.jpg img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  553 acepix    5wW  REG    8,2  1327816 14025522 /data/www/ftpdir/acepix/ACEPIXS_TheMummySaks_K060717_28/060717_TheMummySaks_K037.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TheMummySaks_K060717_28/060717_TheMummySaks_K044.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2240 acepix    5wW  REG    8,2  1838356 14025527 /data/www/ftpdir/acepix/ACEPIXS_TheMummySaks_K060717_28/060717_TheMummySaks_K044.jpg
+

@@ -1,0 +1,102 @@
+/data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26670 Guozijun    5wW  REG    8,2   216080 11272507 /data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG
+vsftpd  26676 Guozijun    5w   REG    8,2   216080 11272507 /data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG
+vsftpd  26790 Guozijun    5w   REG    8,2   216080 11272507 /data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A2992.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26669 Guozijun    5wW  REG    8,2   321200 11272509 /data/www/ftpdir/Guozijun/京剧电影/XB5A2992.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26790 Guozijun    5wW  REG    8,2   777616 11272507 /data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG
+vsftpd  27546 Guozijun    5w   REG    8,2   777616 11272507 /data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG
+vsftpd  27552 Guozijun    5w   REG    8,2   786376 11272507 /data/www/ftpdir/Guozijun/京剧电影/XB5A2991.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A2995.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26669 Guozijun    5wW  REG    8,2   778180 11272512 /data/www/ftpdir/Guozijun/京剧电影/XB5A2995.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A2995.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28916 Guozijun    5wW  REG    8,2   389001 11272512 /data/www/ftpdir/Guozijun/京剧电影/XB5A2995.JPG
+vsftpd  28924 Guozijun    5w   REG    8,2   389001 11272512 /data/www/ftpdir/Guozijun/京剧电影/XB5A2995.JPG
+vsftpd  28930 Guozijun    5w   REG    8,2   389001 11272512 /data/www/ftpdir/Guozijun/京剧电影/XB5A2995.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30034 Guozijun    5wW  REG    8,2   337260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30034 Guozijun    5wW  REG    8,2   337260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31050 Guozijun    5w   REG    8,2   337260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31223 Guozijun    5w   REG    8,2   337260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31226 Guozijun    5w   REG    8,2   337260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3008.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28921 Guozijun    5wW  REG    8,2   851180 11272522 /data/www/ftpdir/Guozijun/京剧电影/XB5A3008.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28921 Guozijun    5wW  REG    8,2   308588 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31223 Guozijun    5w   REG    8,2   308588 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31226 Guozijun    5w   REG    8,2   308588 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31709 Guozijun    5w   REG    8,2   308588 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31712 Guozijun    5w   REG    8,2   308588 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28921 Guozijun    5wW  REG    8,2   310048 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31223 Guozijun    5w   REG    8,2   310048 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31226 Guozijun    5w   REG    8,2   310048 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31709 Guozijun    5w   REG    8,2   310048 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31712 Guozijun    5w   REG    8,2   310048 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32054 Guozijun    5w   REG    8,2   310048 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32057 Guozijun    5w   REG    8,2   310048 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31223 Guozijun    5wW  REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31226 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31709 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31712 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32054 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32057 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32123 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32129 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32132 Guozijun    5w   REG    8,2    66596 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31226 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31709 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31712 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32054 Guozijun    5wW  REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32057 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32123 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32129 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32132 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32248 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32251 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32257 Guozijun    5w   REG    8,2    66340 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31226 Guozijun    5w   REG    8,2   288260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  31709 Guozijun    5w   REG    8,2   288260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32123 Guozijun    5w   REG    8,2   288260 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32132 Guozijun    5w   REG    8,2   292640 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32248 Guozijun    5w   REG    8,2   292640 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32251 Guozijun    5w   REG    8,2   292640 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32257 Guozijun    5w   REG    8,2   292640 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32323 Guozijun    5wW  REG    8,2   292640 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32326 Guozijun    5w   REG    8,2   292640 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+vsftpd  32332 Guozijun    5w   REG    8,2   292640 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+
+/data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32552 Guozijun    5wW  REG    8,2    66212 11272516 /data/www/ftpdir/Guozijun/京剧电影/XB5A3001.JPG
+

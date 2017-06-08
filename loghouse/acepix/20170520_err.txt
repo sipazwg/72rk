@@ -1,0 +1,18 @@
+/data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29835 acepix    5wW  REG    8,2   600896 13631893 /data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30604 acepix    5wW  REG    8,2  1114664 13631902 /data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C11.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C11.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32780 acepix    5wW  REG    8,2  1868961 13631906 /data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C41.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37568 acepix    5wW  REG    8,2  2624569 13631933 /data/www/ftpdir/acepix/ACEPIXS_Blige_051917/051917_Blige_C41.JPG
+

@@ -1,0 +1,22 @@
+/data/www/ftpdir/cordonpress/malaga_atletico_madrid_12.jpg--- have been enter
+/data/www/ftpdir/cordonpress/malaga_atletico_madrid_13.jpg--- have been enter
+/data/www/ftpdir/cordonpress/malaga_atletico_madrid_14.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     13435 root    3w   REG    8,2   901120 5531312 /data/www/ftpdir/cordonpress/malaga_atletico_madrid_14.jpg
+
+/data/www/ftpdir/cordonpress/malaga_atlerico_madrid_11.jpg--- have been enter
+/data/www/ftpdir/cordonpress/malaga_atletico_madrid_14.jpg--- have been enter
+/data/www/ftpdir/cordonpress/malaga_atletico_madrid_26.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     18231 root    3w   REG    8,2   409600 5531321 /data/www/ftpdir/cordonpress/malaga_atletico_madrid_26.jpg
+
+/data/www/ftpdir/cordonpress/EM9A4431-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A4435-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_DSC0116-1.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     45846 root    3w   REG    8,2   999424 5531379 /data/www/ftpdir/cordonpress/_DSC0116-1.jpg
+
+/data/www/ftpdir/cordonpress/_JLC7279.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     32265 root    3w   REG    8,2   606208 5531412 /data/www/ftpdir/cordonpress/_JLC7279.jpg
+

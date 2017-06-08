@@ -1,0 +1,209 @@
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D51.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11817 acepix    5wW  REG    8,2  1540751 13894154 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D52.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13188 acepix    5wW  REG    8,2  2624007 13894155 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D52.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D54.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14912 acepix    5wW  REG    8,2   644328 13894157 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D54.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D57.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17304 acepix    5wW  REG    8,2  2918949 13894160 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D57.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D59.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18790 acepix    5wW  REG    8,2   834815 13894162 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D59.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22495 acepix    5wW  REG    8,2  1753842 13894165 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D63.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23303 acepix    5wW  REG    8,2  2102376 13894166 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D63.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D65.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23854 acepix    5wW  REG    8,2   516215 13894168 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D65.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D66.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26041 acepix    5wW  REG    8,2   681003 13894169 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D66.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D67.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27169 acepix    5wW  REG    8,2  2017172 13894170 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D67.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D68.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27885 acepix    5wW  REG    8,2  2516645 13894171 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D68.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D69.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28579 acepix    5wW  REG    8,2   556776 13894172 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D69.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D69.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28579 acepix    5wW  REG    8,2  4280785 13894172 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D69.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D72.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30236 acepix    5wW  REG    8,2  2040383 13894175 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D72.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D73.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31431 acepix    5wW  REG    8,2  2548130 13894176 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D73.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D76.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33399 acepix    5wW  REG    8,2  1256655 13894179 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D76.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D77.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34117 acepix    5wW  REG    8,2  2455192 13894180 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D77.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D79.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35026 acepix    5wW  REG    8,2   334779 13894182 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D79.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D80.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35529 acepix    5wW  REG    8,2  2452368 13894183 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D80.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D82.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36530 acepix    5wW  REG    8,2   648432 13894185 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D82.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D83.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37212 acepix    5wW  REG    8,2   326952 13894186 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D83.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D84.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38293 acepix    5wW  REG    8,2  1155704 13894187 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D84.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D85.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39010 acepix    5wW  REG    8,2  2026923 13894188 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D85.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D87.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40148 acepix    5wW  REG    8,2   231192 13894190 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D87.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D88.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41640 acepix    5wW  REG    8,2  1902319 13894191 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D88.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D90.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42119 acepix    5wW  REG    8,2  4923058 13894193 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D90.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D92.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43437 acepix    5wW  REG    8,2   202464 13894195 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D92.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D93.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44880 acepix    5wW  REG    8,2   875616 13894196 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D93.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D94.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46595 acepix    5wW  REG    8,2  2158697 13894197 /data/www/ftpdir/acepix/ACEPIXS_Americans_060117/060117_Americans_D94.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48570 acepix    5wW  REG    8,2  1034262 13894200 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K008.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7483 acepix    5wW  REG    8,2   524672 13894206 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K008.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K013.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10803 acepix    5wW  REG    8,2   786600 13894211 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12047 acepix    5wW  REG    8,2  1067040 13894214 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K018.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13402 acepix    5wW  REG    8,2  2845708 13894216 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K018.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K020.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14243 acepix    5wW  REG    8,2  1171367 13894218 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K020.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K025.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18177 acepix    5wW  REG    8,2   877488 13894227 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18779 acepix    5wW  REG    8,2   928664 13894223 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K030.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19278 acepix    5wW  REG    8,2  1406048 13894228 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K030.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K030.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19278 acepix    5wW  REG    8,2  6748582 13894228 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K030.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K031.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20620 acepix    5wW  REG    8,2  4971491 13894229 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K031.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K032.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21328 acepix    5wW  REG    8,2  4404938 13894230 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K032.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K033.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22712 acepix    5wW  REG    8,2  4293963 13894231 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K034.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23818 acepix    5wW  REG    8,2  4867271 13894232 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K034.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K035.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24974 acepix    5wW  REG    8,2  6093777 13894233 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K035.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K038.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28291 acepix    5wW  REG    8,2  3275680 13894236 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K038.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30723 acepix    5wW  REG    8,2   866411 13894239 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K044.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32617 acepix    5wW  REG    8,2   806373 13894242 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K044.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K054.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35984 acepix    5wW  REG    8,2  1263992 13894252 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K054.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K061.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38557 acepix    5wW  REG    8,2  1391319 13894259 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K061.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K065.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39657 acepix    5wW  REG    8,2   826658 13894263 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K065.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K073.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42931 acepix    5wW  REG    8,2   662901 13894271 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K073.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K077.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44602 acepix    5wW  REG    8,2  1027106 13894275 /data/www/ftpdir/acepix/ACEPIXS_FifthHarmony_K060217_84/060217_Fifth Harmony_K077.JPG
+

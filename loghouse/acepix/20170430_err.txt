@@ -1,0 +1,28 @@
+/data/www/ftpdir/acepix/ACEPIXS_BarbraStreisand_K042917/042917_BarbraStreisand_K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27917 acepix    5wW  REG    8,2   206312 12320973 /data/www/ftpdir/acepix/ACEPIXS_BarbraStreisand_K042917/042917_BarbraStreisand_K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33982 acepix    5wW  REG    8,2   362520 12321272 /data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34121 acepix    5wW  REG    8,2   265392 12321275 /data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N05.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34321 acepix    5wW  REG    8,2   471960 12321275 /data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N05.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34539 acepix    5wW  REG    8,2  1103279 12321278 /data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34940 acepix    5wW  REG    8,2   930240 12321281 /data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35674 acepix    5wW  REG    8,2     8208 12321287 /data/www/ftpdir/acepix/ACEPIXS_Streisand_042917/042917_Streisand_N17.jpg
+

@@ -1,0 +1,12 @@
+/data/www/ftpdir/cordonpress/_75Q2347.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     7558 root    3w   REG    8,2  4669440 5505724 /data/www/ftpdir/cordonpress/_75Q2347.JPG
+
+/data/www/ftpdir/cordonpress/_75Q2534.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     12121 root    3w   REG    8,2  3883008 5505734 /data/www/ftpdir/cordonpress/_75Q2534.JPG
+
+/data/www/ftpdir/cordonpress/_75Q2551.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     28543 root    3w   REG    8,2  2703360 5505762 /data/www/ftpdir/cordonpress/_75Q2551.JPG
+

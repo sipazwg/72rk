@@ -1,0 +1,8 @@
+/data/www/ftpdir/cordonpress/170203-ChapoGuzman-BrooklynCourthouse-9103.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     19199 root    3w   REG    8,2  1294336 5515015 /data/www/ftpdir/cordonpress/170203-ChapoGuzman-BrooklynCourthouse-9103.jpg
+
+/data/www/ftpdir/cordonpress/170203-ChapoGuzman-BrooklynCourthouse-9109.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     19878 root    3w   REG    8,2  1458176 5516207 /data/www/ftpdir/cordonpress/170203-ChapoGuzman-BrooklynCourthouse-9109.jpg
+

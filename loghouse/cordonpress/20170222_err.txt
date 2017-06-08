@@ -1,0 +1,4 @@
+/data/www/ftpdir/cordonpress/_CUE1558.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     5505 root    3w   REG    8,2  1130496 5521855 /data/www/ftpdir/cordonpress/_CUE1558.jpg
+

@@ -1,0 +1,37 @@
+/data/www/ftpdir/cordonpress/_DSC8026-6.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     16369 root    3w   REG    8,2   245760 5539974 /data/www/ftpdir/cordonpress/_DSC8026-6.jpg
+
+/data/www/ftpdir/cordonpress/_DSC8030-7.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     17935 root    3w   REG    8,2  1523712 5539978 /data/www/ftpdir/cordonpress/_DSC8030-7.jpg
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_11107.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2401 root    3w   REG    8,2  4964352 5539994 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_11107.JPG
+
+/data/www/ftpdir/cordonpress/_DSC8073-17.jpg--- have been enter
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10017.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     30422 root    3w   REG    8,2  3817472 5540062 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10017.JPG
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10532.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     33131 root    3w   REG    8,2  4046848 5540066 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10532.JPG
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10577.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     36316 root    3w   REG    8,2  9682944 5539901 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10577.JPG
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10607.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     39284 root    3w   REG    8,2  9355264 5539903 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10607.JPG
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_02.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42237 root    3w   REG    8,2  1196032 5540248 /data/www/ftpdir/cordonpress/DiegoPuerta_02.jpg
+
+/data/www/ftpdir/cordonpress/_CAH2714.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20138 root    3w   REG    8,2  1523712 5540287 /data/www/ftpdir/cordonpress/_CAH2714.jpg
+

@@ -1,0 +1,66 @@
+/data/www/ftpdir/acepix/ACEPIXS_CateBlanchett_K022517/022517_CateBlanchet__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42616 acepix    5wW  REG    8,2     6840 8913063 /data/www/ftpdir/acepix/ACEPIXS_CateBlanchett_K022517/022517_CateBlanchet__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_CateBlanchett_K022517/022517_CateBlanchet__K007.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43141 acepix    5wW  REG    8,2   283176 8913069 /data/www/ftpdir/acepix/ACEPIXS_CateBlanchett_K022517/022517_CateBlanchet__K007.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_CateBlanchett_K022517/022517_CateBlanchet__K009.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43394 acepix    5wW  REG    8,2  1249288 8913071 /data/www/ftpdir/acepix/ACEPIXS_CateBlanchett_K022517/022517_CateBlanchet__K009.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BurgerBash_022417/022417_BurgerBash_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14855 acepix    5wW  REG    8,2   658008 8913092 /data/www/ftpdir/acepix/ACEPIXS_BurgerBash_022417/022417_BurgerBash_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MarthaStewart_022417/022417_Stewart_S09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18365 acepix    5wW  REG    8,2   139536 8913121 /data/www/ftpdir/acepix/ACEPIXS_MarthaStewart_022417/022417_Stewart_S09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K015.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44601 acepix    5wW  REG    8,2   461488 8913140 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K015.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K036.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46141 acepix    5wW  REG    8,2  1502064 8913161 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K036.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K045.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46793 acepix    5wW  REG    8,2  1555336 8913170 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K045.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K059.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47864 acepix    5wW  REG    8,2   517104 8913184 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K059.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K064.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48164 acepix    5wW  REG    8,2  1199736 8913189 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K064.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K072.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48874 acepix    5wW  REG    8,2   595080 8913197 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K072.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K077.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  635 acepix    5wW  REG    8,2   391248 8913202 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K077.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K080.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  898 acepix    5wW  REG    8,2   809856 8913205 /data/www/ftpdir/acepix/ACEPIXS_TheAmericans_K022517/022517_TheAmericans__K080.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18582 acepix    5wW  REG    8,2   811224 8913211 /data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18864 acepix    5wW  REG    8,2   613592 8913213 /data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N05.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18864 acepix    5wW  REG    8,2   613592 8913213 /data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N05.jpg
+vsftpd  19076 acepix    5w   REG    8,2   613592 8913213 /data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N05.jpg
+vsftpd  19135 acepix    5w   REG    8,2   613592 8913213 /data/www/ftpdir/acepix/ACEPIXS_Spirit_022517/022517_Spirit_N05.jpg
+

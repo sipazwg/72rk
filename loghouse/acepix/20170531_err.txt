@@ -1,0 +1,43 @@
+/data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C20.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34244 acepix    5wW  REG    8,2  1969162 13893798 /data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TeresaPalmerAOL_053017/053017_TeresaPalmerAOL_C20.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46174 acepix    5wW  REG    8,2  8343592 13893824 /data/www/ftpdir/acepix/ACEPIXS_TeresaPalmerAOL_053017/053017_TeresaPalmerAOL_C20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_01.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8504 acepix    5wW  REG    8,2   679896 13893826 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_06.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9085 acepix    5wW  REG    8,2   752400 13893831 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_07.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10313 acepix    5wW  REG    8,2   652188 13893834 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10564 acepix    5wW  REG    8,2   318744 13893836 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_13.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11878 acepix    5wW  REG    8,2   800280 13893838 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_13.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_16.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13109 acepix    5wW  REG    8,2   924768 13893841 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_16.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_24.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_24.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_27.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18772 acepix    5wW  REG    8,2   413136 13893853 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_27.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_32.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20248 acepix    5wW  REG    8,2   625970 13893857 /data/www/ftpdir/acepix/ACEPIXS_BaywatchPC_053017/053017_BaywatchPC_FBP_32.jpg
+

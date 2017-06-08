@@ -1,0 +1,39 @@
+/data/www/ftpdir/cordonpress/ABA_7554.jpg--- have been enter
+/data/www/ftpdir/cordonpress/FC_CARTAGENA_vs_CSK_MOSCOW-0341.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     41739 root    3w   REG    8,2  4341760 5518741 /data/www/ftpdir/cordonpress/FC_CARTAGENA_vs_CSK_MOSCOW-0341.jpg
+
+/data/www/ftpdir/cordonpress/FC_CARTAGENA_vs_CSK_MOSCOW-0440.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42803 root    3w   REG    8,2  3948544 5518750 /data/www/ftpdir/cordonpress/FC_CARTAGENA_vs_CSK_MOSCOW-0440.jpg
+
+/data/www/ftpdir/cordonpress/_76I9051.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     5527 root    3w   REG    8,2  2342912 5518765 /data/www/ftpdir/cordonpress/_76I9051.JPG
+
+/data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-0595.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     16014 root    3w   REG    8,2  1556480 5518785 /data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-0595.jpg
+
+/data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-0754.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     17060 root    3w   REG    8,2  3620864 5518788 /data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-0754.jpg
+
+/data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-0926.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     18608 root    3w   REG    8,2  5685248 5518797 /data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-0926.jpg
+
+/data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-1139.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20368 root    3w   REG    8,2  3850240 5518812 /data/www/ftpdir/cordonpress/FCCARTAGENA_vs_CSKMOSCOW-1139.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_01.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     33157 root    3w   REG    8,2   573440 5518843 /data/www/ftpdir/cordonpress/DiegoPuerta_01.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_13.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     35372 root    3w   REG    8,2  1556480 5518853 /data/www/ftpdir/cordonpress/DiegoPuerta_13.jpg
+
+/data/www/ftpdir/cordonpress/AJPP3787-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/KINGSPAIN_VISIT_MUSEUM_MALAGA_2017__6_.jpg--- have been enter

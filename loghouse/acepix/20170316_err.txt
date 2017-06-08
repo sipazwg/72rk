@@ -1,0 +1,221 @@
+/data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1114 acepix    5wW  REG    8,2    73460 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1114 acepix    5wW  REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1284 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1344 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1114 acepix    5wW  REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1284 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1344 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1471 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1530 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1114 acepix    5wW  REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1284 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1344 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1471 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1530 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1655 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1715 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1114 acepix    5wW  REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1284 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1344 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1471 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1530 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1655 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1715 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1902 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+vsftpd  1961 acepix    5w   REG    8,2    74688 5243442 /data/www/ftpdir/acepix/ACEPIXS_Beckham_031517/031517_Beckham_Z12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_IronFist_K031517/031517_IronFist__K023.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6786 acepix    5wW  REG    8,2  1047888 5243468 /data/www/ftpdir/acepix/ACEPIXS_IronFist_K031517/031517_IronFist__K023.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_IronFist_K031517/031517_IronFist__K062.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9672 acepix    5wW  REG    8,2   363845 5243507 /data/www/ftpdir/acepix/ACEPIXS_IronFist_K031517/031517_IronFist__K062.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20686 acepix    5wW  REG    8,2   268984 5243558 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20843 acepix    5wW  REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20843 acepix    5wW  REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21047 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21112 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20843 acepix    5wW  REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21047 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21112 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21118 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21289 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20843 acepix    5wW  REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21047 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21112 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21118 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21289 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20843 acepix    5wW  REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21047 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21112 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21118 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21289 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21468 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+vsftpd  21586 acepix    5w   REG    8,2     6840 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24354 acepix    5wW  REG    8,2     8208 5243559 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D28.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D31.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26197 acepix    5wW  REG    8,2  1292208 5243583 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26563 acepix    5wW  REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26693 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26563 acepix    5wW  REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26693 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26816 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26878 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26563 acepix    5wW  REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26693 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26816 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26878 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27001 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27064 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26563 acepix    5wW  REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26693 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26816 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26878 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27001 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27064 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27193 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27256 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26563 acepix    5wW  REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26693 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26816 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  26878 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27001 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27064 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27193 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27256 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27379 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27443 acepix    5w   REG    8,2  1073840 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26878 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27193 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27379 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27572 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27636 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28116 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28178 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28293 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28352 acepix    5wW  REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28532 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26878 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27193 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27379 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27572 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27636 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28116 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28178 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28293 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28352 acepix    5wW  REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28532 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28653 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26878 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27193 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27379 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27572 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27636 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28116 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28178 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28293 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28352 acepix    5wW  REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28532 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28653 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28837 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28899 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26878 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27193 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27379 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27572 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27636 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28116 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28178 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28293 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28352 acepix    5wW  REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28532 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28653 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28837 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28899 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  29069 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26878 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27193 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27379 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27572 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  27636 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28116 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28178 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28293 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28352 acepix    5wW  REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28532 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28653 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28837 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  28899 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  29069 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  29200 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+vsftpd  29264 acepix    5w   REG    8,2    41040 5243584 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D33.JPG
+

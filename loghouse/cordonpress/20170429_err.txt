@@ -1,0 +1,52 @@
+/data/www/ftpdir/cordonpress/_75Q3493.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     18530 root    3w   REG    8,2  2703360 5537604 /data/www/ftpdir/cordonpress/_75Q3493.JPG
+
+/data/www/ftpdir/cordonpress/_75Q3556.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     19091 root    3w   REG    8,2   868352 5537615 /data/www/ftpdir/cordonpress/_75Q3556.JPG
+
+/data/www/ftpdir/cordonpress/_75Q3579.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     19429 root    3w   REG    8,2  3457024 5537623 /data/www/ftpdir/cordonpress/_75Q3579.JPG
+
+/data/www/ftpdir/cordonpress/_75Q3633.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     19665 root    3w   REG    8,2  1163264 5537624 /data/www/ftpdir/cordonpress/_75Q3633.JPG
+
+/data/www/ftpdir/cordonpress/_75Q3685.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20225 root    3w   REG    8,2   999424 5537631 /data/www/ftpdir/cordonpress/_75Q3685.JPG
+
+/data/www/ftpdir/cordonpress/_A179008.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20756 root    3w   REG    8,2   409600 5537640 /data/www/ftpdir/cordonpress/_A179008.jpg
+
+/data/www/ftpdir/cordonpress/AL5Y2798.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     29072 root    3w   REG    8,2   131072 5537694 /data/www/ftpdir/cordonpress/AL5Y2798.jpg
+
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-2222.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     43281 root    3w   REG    8,2   376832 5537729 /data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-2222.jpg
+
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-2252.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     43552 root    3w   REG    8,2    32768 5537734 /data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-2252.jpg
+
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1184.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2377 root    3w   REG    8,2  2736128 5537768 /data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1184.jpg
+
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1149.jpg--- have been enter
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1160.jpg--- have been enter
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1184.jpg--- have been enter
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1210.jpg--- have been enter
+/data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1294.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     4158 root    3w   REG    8,2  2867200 5537772 /data/www/ftpdir/cordonpress/170428-ReservoirDogs-TribecaFilmFestival-1294.jpg
+
+/data/www/ftpdir/cordonpress/04279-reals-25.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     39180 root    3w   REG    8,2  1163264 5537798 /data/www/ftpdir/cordonpress/04279-reals-25.jpg
+

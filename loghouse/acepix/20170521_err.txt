@@ -1,0 +1,4 @@
+/data/www/ftpdir/acepix/ACEPIXS_Thorne_052017/052017_Thorne_C23.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2250 acepix    5wW  REG    8,2  1399080 13631957 /data/www/ftpdir/acepix/ACEPIXS_Thorne_052017/052017_Thorne_C23.JPG
+

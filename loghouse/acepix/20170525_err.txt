@@ -1,0 +1,9 @@
+/data/www/ftpdir/acepix/ACEPIXS_Dawson_052417/052417_Dawson_C01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10340 acepix    5wW  REG    8,2   660832 13763088 /data/www/ftpdir/acepix/ACEPIXS_Dawson_052417/052417_Dawson_C01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_deGrisogono_052317/052317_deGrisogono_FBP42.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40929 acepix    5wW  REG    8,2   741456 13763151 /data/www/ftpdir/acepix/ACEPIXS_deGrisogono_052317/052317_deGrisogono_FBP42.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_deGrisogono_052317/052317_deGrisogono_FBP42.jpg--- have been enter

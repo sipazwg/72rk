@@ -1,0 +1,248 @@
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21822 acepix    5wW  REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21822 acepix    5wW  REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22132 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21822 acepix    5wW  REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22132 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22138 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22321 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21822 acepix    5wW  REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22132 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22138 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22321 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22450 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22509 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21822 acepix    5wW  REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22132 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22138 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22321 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22450 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22509 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+vsftpd  22637 acepix    5w   REG    8,2    73872 8650846 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29014 acepix    5wW  REG    8,2  1276648 8650853 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29375 acepix    5wW  REG    8,2    41040 8650858 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29665 acepix    5wW  REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29724 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29665 acepix    5wW  REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29724 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29965 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29665 acepix    5wW  REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29724 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29965 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30097 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30156 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29665 acepix    5wW  REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29724 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29965 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30097 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30156 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30162 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30291 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30351 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29665 acepix    5wW  REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29724 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  29965 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30097 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30156 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30162 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30291 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30351 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30524 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  30538 acepix    5w   REG    8,2    76608 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31670 acepix    5w   REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  34088 acepix    5w   REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  38253 acepix    5w   REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  39019 acepix    5w   REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  39392 acepix    5w   REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  39831 acepix    5w   REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  39956 acepix    5w   REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+vsftpd  40015 acepix    5wW  REG    8,2    34200 8650860 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_022017/022017_Baldwin_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41043 acepix    5wW  REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41043 acepix    5wW  REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41259 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41318 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41043 acepix    5wW  REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41259 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41318 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41503 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41043 acepix    5wW  REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41259 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41318 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41503 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41637 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41697 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41043 acepix    5wW  REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41259 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41318 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41503 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41637 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41697 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41828 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+vsftpd  41888 acepix    5w   REG    8,2  1644336 8650873 /data/www/ftpdir/acepix/ACEPIXS_Hilaria_022017/022017_Hilaria_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8876 acepix    5wW  REG    8,2  1589224 8650877 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9065 acepix    5wW  REG    8,2   880424 8650879 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S04.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9258 acepix    5wW  REG    8,2  1698982 8650880 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12697 acepix    5w   REG    8,2    42408 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  12759 acepix    5w   REG    8,2    42408 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13530 acepix    5w   REG    8,2    42408 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13745 acepix    5w   REG    8,2    42408 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13870 acepix    5w   REG    8,2    42408 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13929 acepix    5wW  REG    8,2    42408 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12697 acepix    5w   REG    8,2  1243158 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  12759 acepix    5w   REG    8,2  1243158 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13530 acepix    5w   REG    8,2  1243158 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13745 acepix    5w   REG    8,2  1243158 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13870 acepix    5w   REG    8,2  1243158 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13929 acepix    5wW  REG    8,2  1243158 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12697 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  12759 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13530 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13745 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13870 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13929 acepix    5wW  REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14310 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12697 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  12759 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13530 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13745 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13870 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13929 acepix    5wW  REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14310 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14443 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14505 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12697 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  12759 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13530 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13745 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13870 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13929 acepix    5wW  REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14310 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14443 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14505 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14636 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14698 acepix    5w   REG    8,2  1396374 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12697 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  12759 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13745 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  13870 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14310 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14698 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  14831 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  15027 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  15089 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  15217 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  15440 acepix    5w   REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+vsftpd  15502 acepix    5wW  REG    8,2   347472 8650882 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15703 acepix    5wW  REG    8,2   963928 8650884 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16181 acepix    5wW  REG    8,2  1730520 8650887 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16430 acepix    5wW  REG    8,2  1199736 8650889 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16674 acepix    5wW  REG    8,2  1842635 8650890 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16833 acepix    5wW  REG    8,2  2305188 8650891 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17058 acepix    5wW  REG    8,2  2524848 8650892 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17565 acepix    5wW  REG    8,2  1362528 8650894 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17565 acepix    5wW  REG    8,2  1362528 8650894 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S18.JPG
+vsftpd  17789 acepix    5w   REG    8,2  1362528 8650894 /data/www/ftpdir/acepix/ACEPIXS_DelrayOpen_022017/022017_DelrayOpen_S18.JPG
+

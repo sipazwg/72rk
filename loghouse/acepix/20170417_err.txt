@@ -1,0 +1,1038 @@
+/data/www/ftpdir/acepix/ACEPIXS_Easter_K041617/041617_Easter_K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45465 acepix    5wW  REG    8,2  1365440 11272462 /data/www/ftpdir/acepix/ACEPIXS_Easter_K041617/041617_Easter_K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  4268176 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  4644376 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  5054776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  5517160 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  5923456 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  6314704 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37471 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37797 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37471 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37797 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37909 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37915 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37977 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35836 acepix    5wW  REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37471 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37797 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37909 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37915 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  37977 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  38149 acepix    5w   REG    8,2  6422776 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43571 acepix    5w   REG    8,2  5204488 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  45150 acepix    5w   REG    8,2  5246984 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+vsftpd  45211 acepix    5wW  REG    8,2  5246984 11272479 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45483 acepix    5wW  REG    8,2  5298968 11272481 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45628 acepix    5wW  REG    8,2 14229520 11272482 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45975 acepix    5wW  REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45975 acepix    5wW  REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46333 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45975 acepix    5wW  REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46333 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46443 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46606 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45975 acepix    5wW  REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46333 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46443 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46606 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46826 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46829 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45975 acepix    5wW  REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46333 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46443 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46606 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46826 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  46829 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  47046 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  47205 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  47208 acepix    5w   REG    8,2  4676568 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   6468 acepix    5w   REG    8,2  9887184 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd   7690 acepix    5w   REG    8,2  9887184 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd   9764 acepix    5w   REG    8,2  9887184 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  10190 acepix    5w   REG    8,2  9887184 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  10448 acepix    5w   REG    8,2  9887184 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+vsftpd  11036 acepix    5wW  REG    8,2  9887184 11272483 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13096 acepix    5wW  REG    8,2  9405160 11272484 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13363 acepix    5wW  REG    8,2 10125240 11272485 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14045 acepix    5wW  REG    8,2  7916528 11272486 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14690 acepix    5wW  REG    8,2  7701304 11272487 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15277 acepix    5wW  REG    8,2  1637496 11272488 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15277 acepix    5wW  REG    8,2 12788675 11272488 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16697 acepix    5wW  REG    8,2  9337408 11272489 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17101 acepix    5wW  REG    8,2  3041442 11272490 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17495 acepix    5wW  REG    8,2   143640 11272491 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17495 acepix    5wW  REG    8,2   578664 11272491 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18098 acepix    5wW  REG    8,2  9707792 11272491 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18273 acepix    5wW  REG    8,2  7715331 11272492 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18893 acepix    5wW  REG    8,2  6199152 11272493 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19360 acepix    5wW  REG    8,2  7979241 11272494 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19662 acepix    5wW  REG    8,2  4571088 11272495 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20344 acepix    5wW  REG    8,2  1594448 11272496 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20344 acepix    5wW  REG    8,2 11548792 11272496 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20753 acepix    5wW  REG    8,2  8527536 11272497 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C20.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21259 acepix    5wW  REG    8,2  7186984 11272498 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C21.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21980 acepix    5wW  REG    8,2  7987395 11272499 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24054 acepix    5wW  REG    8,2  8175116 11272500 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26208 acepix    5wW  REG    8,2  4769927 11272501 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27946 acepix    5wW  REG    8,2  5253688 11272503 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C26.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28525 acepix    5wW  REG    8,2  9210608 11272504 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29015 acepix    5wW  REG    8,2  9442348 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29015 acepix    5wW  REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29563 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29015 acepix    5wW  REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29563 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29566 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29920 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29015 acepix    5wW  REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29563 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29566 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29920 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  30139 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  30201 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29015 acepix    5wW  REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29563 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29566 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  29920 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  30139 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  30201 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  30204 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  30321 acepix    5w   REG    8,2  9546316 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41160 acepix    5w   REG    8,2  1279080 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  41332 acepix    5w   REG    8,2  1279080 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  42832 acepix    5wW  REG    8,2  1279080 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41160 acepix    5w   REG    8,2  9355359 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  41332 acepix    5w   REG    8,2  9355359 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+vsftpd  42832 acepix    5wW  REG    8,2  9355359 11272505 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C28.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43989 acepix    5wW  REG    8,2  2251075 11272523 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C28.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C28.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43989 acepix    5wW  REG    8,2  9513468 11272523 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C28.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C29.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44755 acepix    5wW  REG    8,2  3808823 11272524 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C29.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44755 acepix    5wW  REG    8,2 10242689 11272524 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C30.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1813 acepix    5wW  REG    8,2  4858194 11272525 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C30.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1813 acepix    5wW  REG    8,2 11990335 11272525 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C31.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2292 acepix    5wW  REG    8,2  5438309 11272526 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C31.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2292 acepix    5wW  REG    8,2 12693807 11272526 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C32.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4547 acepix    5wW  REG    8,2  5198377 11272527 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C32.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4547 acepix    5wW  REG    8,2 11277897 11272527 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C33.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5979 acepix    5wW  REG    8,2  4741070 11272528 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C33.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5979 acepix    5wW  REG    8,2 11443716 11272528 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C34.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7789 acepix    5wW  REG    8,2  4186307 11272529 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C35.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8329 acepix    5wW  REG    8,2  3984984 11272530 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C35.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8329 acepix    5wW  REG    8,2 13022255 11272530 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C36.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9277 acepix    5wW  REG    8,2  7463227 11272531 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C36.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9277 acepix    5wW  REG    8,2 13495675 11272531 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C37.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12819 acepix    5wW  REG    8,2  6045716 11272532 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C37.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12819 acepix    5wW  REG    8,2 13663155 11272532 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14953 acepix    5wW  REG    8,2  8518255 11272533 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19409 acepix    5wW  REG    8,2  5579135 11272534 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C38.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C39.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20662 acepix    5wW  REG    8,2  8945268 11272533 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C39.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C40.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21804 acepix    5wW  REG    8,2  3573005 11272535 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C40.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  21804 acepix    5wW  REG    8,2 12395920 11272535 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C41.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23365 acepix    5wW  REG    8,2  6587422 11272536 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C41.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C42.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23914 acepix    5wW  REG    8,2   988808 11272537 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C42.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C42.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23914 acepix    5wW  REG    8,2  8912115 11272537 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C42.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25251 acepix    5wW  REG    8,2   707000 11272538 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25251 acepix    5wW  REG    8,2  6438920 11272538 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C44.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27048 acepix    5wW  REG    8,2   344480 11272539 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C44.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C45.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28574 acepix    5wW  REG    8,2  3896762 11272540 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30629 acepix    5wW  REG    8,2    61560 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30629 acepix    5wW  REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30629 acepix    5wW  REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  32368 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  32572 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30629 acepix    5wW  REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  32368 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  32572 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  33118 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  33562 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30629 acepix    5wW  REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  32368 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  32572 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  33118 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  33562 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  34060 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  34361 acepix    5w   REG    8,2   339264 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   6542 acepix    5w   REG    8,2   466405 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd   8154 acepix    5w   REG    8,2   466405 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11162 acepix    5wW  REG    8,2   466405 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   6542 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd   8154 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11162 acepix    5wW  REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11610 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  12150 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   6542 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd   8154 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11162 acepix    5wW  REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11610 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  12150 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  12696 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  13333 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   6542 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd   8154 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11162 acepix    5wW  REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11610 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  12150 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  12696 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  13333 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  14407 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  14467 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   6542 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd   8154 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11162 acepix    5wW  REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  11610 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  12150 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  12696 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  13333 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  14407 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  14467 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  14582 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  14653 acepix    5w   REG    8,2   511549 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19285 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  20754 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  21104 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  22090 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24148 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24655 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24717 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25068 acepix    5wW  REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19285 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  20754 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  21104 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  22090 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24148 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24655 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24717 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25068 acepix    5wW  REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25484 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25593 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19285 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  20754 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  21104 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  22090 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24148 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24655 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24717 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25068 acepix    5wW  REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25484 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25593 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25755 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  26920 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19285 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  20754 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  21104 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  22090 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24148 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24655 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24717 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25068 acepix    5wW  REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25484 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25593 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25755 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  26920 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  27034 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  27094 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19285 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  20754 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  21104 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  22090 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24148 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24655 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  24717 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25068 acepix    5wW  REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25484 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25593 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  25755 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  26920 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  27034 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  27094 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  28025 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  28277 acepix    5w   REG    8,2    64296 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19285 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  27034 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  28985 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  30873 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  35054 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  37319 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  39183 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  40089 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  41731 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  42442 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  42698 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  43174 acepix    5w   REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  44334 acepix    5wW  REG    8,2  5523077 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19285 acepix    5w   REG    8,2 11487666 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  27034 acepix    5w   REG    8,2 11487666 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  28985 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  30873 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  35054 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  37319 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  39183 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  40089 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  41731 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  42442 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  42698 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  43174 acepix    5w   REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+vsftpd  44334 acepix    5wW  REG    8,2 11489034 11272541 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C47.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47446 acepix    5wW  REG    8,2  4126253 11272579 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C47.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C47.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47446 acepix    5wW  REG    8,2 10465201 11272579 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C47.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C48.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  791 acepix    5wW  REG    8,2  1562256 11272580 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C48.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C48.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  791 acepix    5wW  REG    8,2  6131747 11272580 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C48.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C48.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  791 acepix    5wW  REG    8,2 11247777 11272580 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C48.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C49.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1990 acepix    5wW  REG    8,2  2297856 11272581 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C49.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C49.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1990 acepix    5wW  REG    8,2  7747883 11272581 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C49.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C50.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5209 acepix    5wW  REG    8,2   160056 11272582 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C50.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C50.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5209 acepix    5wW  REG    8,2  5550826 11272582 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C50.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C50.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5209 acepix    5wW  REG    8,2 10276044 11272582 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C50.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C51.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7668 acepix    5wW  REG    8,2  1694696 11272588 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C51.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7668 acepix    5wW  REG    8,2  6145712 11272588 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C51.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7668 acepix    5wW  REG    8,2 11483302 11272588 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C52.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9039 acepix    5wW  REG    8,2  4731912 11272590 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C52.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C52.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9039 acepix    5wW  REG    8,2 10486658 11272590 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C52.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C53.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11912 acepix    5wW  REG    8,2   545832 11272591 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C53.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C53.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11912 acepix    5wW  REG    8,2  6496703 11272591 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C53.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C53.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11912 acepix    5wW  REG    8,2 11545260 11272591 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C53.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C54.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16208 acepix    5wW  REG    8,2  3676921 11272592 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C54.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C54.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16208 acepix    5wW  REG    8,2  9257788 11272592 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C54.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C55.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18934 acepix    5wW  REG    8,2   883345 11272593 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C55.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C55.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18934 acepix    5wW  REG    8,2  5349662 11272593 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C55.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C55.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18934 acepix    5wW  REG    8,2 10507501 11272593 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C55.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C57.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20845 acepix    5wW  REG    8,2  2825444 11272594 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C57.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C57.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20845 acepix    5wW  REG    8,2  7844809 11272594 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C57.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C57.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20845 acepix    5wW  REG    8,2 13011090 11272594 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C57.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24222 acepix    5wW  REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24222 acepix    5wW  REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  24810 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  26344 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24222 acepix    5wW  REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  24810 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  26344 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  26942 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  28111 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24222 acepix    5wW  REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  24810 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  26344 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  26942 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  28111 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30166 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30325 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24222 acepix    5wW  REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  24810 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  26344 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  26942 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  28111 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30166 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30325 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30726 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30729 acepix    5w   REG    8,2  1508985 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24810 acepix    5w   REG    8,2  1086192 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30726 acepix    5w   REG    8,2  1086192 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  35681 acepix    5w   REG    8,2  1086192 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36425 acepix    5w   REG    8,2  1102608 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36487 acepix    5w   REG    8,2  1102608 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  37275 acepix    5w   REG    8,2  1102608 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38103 acepix    5w   REG    8,2  1102608 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38743 acepix    5wW  REG    8,2  1102608 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24810 acepix    5w   REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30726 acepix    5w   REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  35681 acepix    5w   REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36425 acepix    5w   REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36487 acepix    5w   REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  37275 acepix    5w   REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38103 acepix    5w   REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38743 acepix    5wW  REG    8,2  4065092 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24810 acepix    5w   REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30726 acepix    5w   REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  35681 acepix    5w   REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36425 acepix    5w   REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36487 acepix    5w   REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  37275 acepix    5w   REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38103 acepix    5w   REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38743 acepix    5wW  REG    8,2  7125308 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24810 acepix    5w   REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30726 acepix    5w   REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  35681 acepix    5w   REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36425 acepix    5w   REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36487 acepix    5w   REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  37275 acepix    5w   REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38103 acepix    5w   REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38743 acepix    5wW  REG    8,2 10395662 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24810 acepix    5w   REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  30726 acepix    5w   REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  35681 acepix    5w   REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36425 acepix    5w   REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  36487 acepix    5w   REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  37275 acepix    5w   REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38103 acepix    5w   REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+vsftpd  38743 acepix    5wW  REG    8,2 13530874 11272595 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44102 acepix    5wW  REG    8,2  3161448 11272596 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44102 acepix    5wW  REG    8,2  6466651 11272596 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44102 acepix    5wW  REG    8,2  9526559 11272596 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44102 acepix    5wW  REG    8,2 12562335 11272596 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C58.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47341 acepix    5wW  REG    8,2  1443240 11272597 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47341 acepix    5wW  REG    8,2  4458557 11272597 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47341 acepix    5wW  REG    8,2  7209717 11272597 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47341 acepix    5wW  REG    8,2 10100064 11272597 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47341 acepix    5wW  REG    8,2 12668449 11272597 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C59.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  843 acepix    5wW  REG    8,2  2548499 11272598 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  843 acepix    5wW  REG    8,2  5252123 11272598 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  843 acepix    5wW  REG    8,2  8446845 11272598 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  843 acepix    5wW  REG    8,2 11605025 11272598 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C60.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5543 acepix    5wW  REG    8,2  2378952 11272599 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5543 acepix    5wW  REG    8,2  5079384 11272599 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5543 acepix    5wW  REG    8,2  7725472 11272599 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5543 acepix    5wW  REG    8,2 10859459 11272599 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5543 acepix    5wW  REG    8,2 13775897 11272599 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C61.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10548 acepix    5wW  REG    8,2  1807816 11272600 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10548 acepix    5wW  REG    8,2  4791483 11272600 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10548 acepix    5wW  REG    8,2  7402995 11272600 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10548 acepix    5wW  REG    8,2 10097604 11272600 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10548 acepix    5wW  REG    8,2 12638661 11272600 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13156 acepix    5wW  REG    8,2  1350216 11272601 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13156 acepix    5wW  REG    8,2  4120416 11272601 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13156 acepix    5wW  REG    8,2  6963650 11272601 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13156 acepix    5wW  REG    8,2  9784137 11272601 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13156 acepix    5wW  REG    8,2 12291490 11272601 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C63.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14755 acepix    5wW  REG    8,2  1684008 11272602 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14755 acepix    5wW  REG    8,2  4413168 11272602 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14755 acepix    5wW  REG    8,2  6984110 11272602 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14755 acepix    5wW  REG    8,2  9653036 11272602 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14755 acepix    5wW  REG    8,2 12621596 11272602 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C64.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16642 acepix    5wW  REG    8,2  1421858 11272603 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16642 acepix    5wW  REG    8,2  4181029 11272603 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16642 acepix    5wW  REG    8,2  6869524 11272603 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16642 acepix    5wW  REG    8,2  9682600 11272603 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16642 acepix    5wW  REG    8,2 12262373 11272603 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C65.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18303 acepix    5wW  REG    8,2  1247616 11272604 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18303 acepix    5wW  REG    8,2  4405153 11272604 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18303 acepix    5wW  REG    8,2  7522069 11272604 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18303 acepix    5wW  REG    8,2 10810460 11272604 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C66.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20757 acepix    5wW  REG    8,2   404928 11272605 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20757 acepix    5wW  REG    8,2  3530551 11272605 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20757 acepix    5wW  REG    8,2  6860972 11272605 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20757 acepix    5wW  REG    8,2  9982744 11272605 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20757 acepix    5wW  REG    8,2 12985521 11272605 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C67.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25180 acepix    5wW  REG    8,2  2906551 11272606 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25180 acepix    5wW  REG    8,2  5982123 11272606 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25180 acepix    5wW  REG    8,2  8822061 11272606 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25180 acepix    5wW  REG    8,2 11673472 11272606 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C68.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31998 acepix    5wW  REG    8,2  1367885 11403266 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C69.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32962 acepix    5wW  REG    8,2  3772345 11272607 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C69.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C69.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32962 acepix    5wW  REG    8,2  8512568 11272607 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C69.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C69.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32962 acepix    5wW  REG    8,2 12573541 11272607 /data/www/ftpdir/acepix/ACEPIXS_EasterParade_041617/041617_EasterParade_C69.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40604 acepix    5wW  REG    8,2   680617 11403271 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42717 acepix    5wW  REG    8,2  1090296 11403274 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44451 acepix    5wW  REG    8,2  1012320 11403276 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46883 acepix    5wW  REG    8,2   181944 11403279 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48592 acepix    5wW  REG    8,2   899672 11403281 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S18.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1669 acepix    5wW  REG    8,2   841320 11403283 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S23.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5996 acepix    5wW  REG    8,2   919296 11403288 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S26.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7680 acepix    5wW  REG    8,2  1555821 11403291 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10016 acepix    5wW  REG    8,2   285912 11403295 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12482 acepix    5wW  REG    8,2   559256 11403298 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S36.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14674 acepix    5wW  REG    8,2   759240 11403301 /data/www/ftpdir/acepix/ACEPIXS_LonginesGlobal_041517/041517_LonginesGlobal_S36.JPG
+

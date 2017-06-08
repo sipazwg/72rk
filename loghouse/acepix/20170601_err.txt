@@ -1,0 +1,246 @@
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45495 acepix    5wW  REG    8,2   846086 13893863 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45705 acepix    5wW  REG    8,2   740088 13893863 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K006.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45956 acepix    5wW  REG    8,2   835848 13893866 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K006.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K008.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46633 acepix    5wW  REG    8,2   943666 13893868 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K008.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K010.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47088 acepix    5wW  REG    8,2   784498 13893870 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K010.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K013.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47744 acepix    5wW  REG    8,2   940776 13893872 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K015.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  685 acepix    5wW  REG    8,2   348840 13893874 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K015.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K017.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2067 acepix    5wW  REG    8,2   878728 13893876 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K018.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2766 acepix    5wW  REG    8,2   665232 13893878 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K018.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K019.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3796 acepix    5wW  REG    8,2   850896 13893879 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K019.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K020.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5041 acepix    5wW  REG    8,2  1341399 13893880 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K020.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K020.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5599 acepix    5wW  REG    8,2   637488 13893880 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K020.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K021.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  7777 acepix    5wW  REG    8,2  1273293 13893882 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K021.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K021.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K023.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8981 acepix    5wW  REG    8,2   195624 13893884 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K023.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10474 acepix    5wW  REG    8,2   449816 13893885 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K025.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K026.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12462 acepix    5wW  REG    8,2  1470549 13893887 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K026.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K028.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14000 acepix    5wW  REG    8,2   604251 13893888 /data/www/ftpdir/acepix/ACEPIXS_AOL_K053117_29/053117_AOL_K028.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ryan_053117/053117_Ryan_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24946 acepix    5wW  REG    8,2  1198368 13893918 /data/www/ftpdir/acepix/ACEPIXS_Ryan_053117/053117_Ryan_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ryan_053117/053117_Ryan_C06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25788 acepix    5wW  REG    8,2  1209056 13893921 /data/www/ftpdir/acepix/ACEPIXS_Ryan_053117/053117_Ryan_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ryan_053117/053117_Ryan_C08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26589 acepix    5wW  REG    8,2  1866942 13893923 /data/www/ftpdir/acepix/ACEPIXS_Ryan_053117/053117_Ryan_C08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42681 acepix    5wW  REG    8,2  2339230 13893927 /data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43438 acepix    5wW  REG    8,2  2592104 13893930 /data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44451 acepix    5wW  REG    8,2  1882018 13893935 /data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48252 acepix    5wW  REG    8,2  1177592 13893948 /data/www/ftpdir/acepix/ACEPIXS_AOLguests_053117/053117_AOLguests1_C23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8420 acepix    5wW  REG    8,2    62928 13893953 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8420 acepix    5wW  REG    8,2  3672484 13893953 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  11159 acepix    5wW  REG    8,2   258552 13893955 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12477 acepix    5wW  REG    8,2   960336 13893956 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13381 acepix    5wW  REG    8,2  2924876 13893957 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14336 acepix    5wW  REG    8,2   488196 13893959 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15218 acepix    5wW  REG    8,2   848160 13893960 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16591 acepix    5wW  REG    8,2  1610669 13893961 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17917 acepix    5wW  REG    8,2  1555544 13893962 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19493 acepix    5wW  REG    8,2  2213394 13893963 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20734 acepix    5wW  REG    8,2  2690413 13893964 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22119 acepix    5wW  REG    8,2  1919990 13893965 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22876 acepix    5wW  REG    8,2  2639997 13893966 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24258 acepix    5wW  REG    8,2  2932113 13893967 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24918 acepix    5wW  REG    8,2   378624 13893969 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26134 acepix    5wW  REG    8,2   492058 13893970 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28044 acepix    5wW  REG    8,2  1789723 13893971 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30547 acepix    5wW  REG    8,2   519840 13893974 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31543 acepix    5wW  REG    8,2  2139742 13893975 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D24.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32063 acepix    5wW  REG    8,2  2881738 13893976 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D24.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32380 acepix    5wW  REG    8,2  3202526 13893977 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D28.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34104 acepix    5wW  REG    8,2  1482912 13893980 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D28.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D29.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35056 acepix    5wW  REG    8,2  2468517 13893981 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D31.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36009 acepix    5wW  REG    8,2  1249835 13893983 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37871 acepix    5wW  REG    8,2   761976 13893986 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D36.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38296 acepix    5wW  REG    8,2   613934 13893988 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D37.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39628 acepix    5wW  REG    8,2  2215732 13893989 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D39.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40246 acepix    5wW  REG    8,2   393984 13893991 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D39.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D40.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40882 acepix    5wW  REG    8,2  1408272 13893992 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D41.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41452 acepix    5wW  REG    8,2  4147247 13893993 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D41.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41973 acepix    5wW  REG    8,2  1216152 13893995 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D45.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43201 acepix    5wW  REG    8,2  2994296 13893997 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D47.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44477 acepix    5wW  REG    8,2   404928 13893999 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D47.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D48.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45025 acepix    5wW  REG    8,2  1961456 13894000 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D48.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D50.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45595 acepix    5wW  REG    8,2  2866163 13894002 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D50.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D51.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46339 acepix    5wW  REG    8,2  3523100 13894003 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D53.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47202 acepix    5wW  REG    8,2   833112 13894005 /data/www/ftpdir/acepix/ACEPIXS_Brockmire_053117/053117_Brockmire_D53.JPG
+

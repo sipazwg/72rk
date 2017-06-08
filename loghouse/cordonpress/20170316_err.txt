@@ -1,0 +1,6 @@
+/data/www/ftpdir/cordonpress/_CUE2639.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_CUE2655.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_CUE2679.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     12579 root    3w   REG    8,2   999424 5527745 /data/www/ftpdir/cordonpress/_CUE2679.jpg
+

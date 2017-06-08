@@ -1,0 +1,1236 @@
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D32.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43417 acepix    5wW  REG    8,2   506160 8388799 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D35.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43757 acepix    5wW  REG    8,2   489744 8388802 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D37.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44007 acepix    5wW  REG    8,2   919208 8388804 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44273 acepix    5wW  REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44273 acepix    5wW  REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44538 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44606 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44273 acepix    5wW  REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44538 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44606 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44754 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44816 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44273 acepix    5wW  REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44538 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44606 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44754 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44816 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44966 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  45059 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44273 acepix    5wW  REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44538 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44606 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44754 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44816 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  44966 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  45059 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+vsftpd  45261 acepix    5w   REG    8,2   778939 8388805 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D46.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2290 acepix    5wW  REG    8,2   340632 8388813 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D50.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2664 acepix    5wW  REG    8,2   378359 8388817 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D50.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D51.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3002 acepix    5wW  REG    8,2   151592 8388818 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D54.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3249 acepix    5wW  REG    8,2   784592 8388821 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D54.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D62.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3961 acepix    5wW  REG    8,2   508000 8388829 /data/www/ftpdir/acepix/ACEPIXS_GreatWall_021517/021517_GreatWall_D62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16970 acepix    5wW  REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16970 acepix    5wW  REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17118 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16970 acepix    5wW  REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17118 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17320 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17413 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16970 acepix    5wW  REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17118 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17320 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17413 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17651 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17837 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16970 acepix    5wW  REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17118 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17320 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17413 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17651 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  17837 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  18013 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  18075 acepix    5w   REG    8,2    38304 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22476 acepix    5w   REG    8,2    38712 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22677 acepix    5w   REG    8,2    38712 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22877 acepix    5w   REG    8,2    38712 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23078 acepix    5wW  REG    8,2    38712 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22476 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22677 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22877 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23078 acepix    5wW  REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23273 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23333 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22476 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22677 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22877 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23078 acepix    5wW  REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23273 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23333 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23532 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22476 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22677 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22877 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23078 acepix    5wW  REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23273 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23333 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23532 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23670 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23749 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22476 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22677 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  22877 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23078 acepix    5wW  REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23273 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23333 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23532 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23670 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23749 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23891 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  23951 acepix    5w   REG    8,2    43428 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23670 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25545 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25744 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25944 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26087 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26536 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26733 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27229 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27247 acepix    5wW  REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23670 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25545 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25744 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25944 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26087 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26536 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26733 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27229 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27247 acepix    5wW  REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27664 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23670 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25545 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25744 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25944 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26087 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26536 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26733 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27229 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27247 acepix    5wW  REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27664 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27998 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23670 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25545 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25744 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25944 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26087 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26536 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26733 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27229 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27247 acepix    5wW  REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27664 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27998 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28224 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28354 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28413 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23670 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25545 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25744 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  25944 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26087 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26536 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  26733 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27229 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27247 acepix    5wW  REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27664 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27998 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28224 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28354 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28413 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28619 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28625 acepix    5w   REG    8,2    93024 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27664 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28224 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28413 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28619 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28911 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29191 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29390 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29648 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29987 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30048 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30216 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30279 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30520 acepix    5w   REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30665 acepix    5wW  REG    8,2    66568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27664 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28224 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28413 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28619 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28911 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29191 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29390 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29648 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29987 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30048 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30216 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30279 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30520 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30665 acepix    5wW  REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31083 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27664 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28224 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28413 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28619 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28911 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29191 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29390 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29648 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29987 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30048 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30216 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30279 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30520 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30665 acepix    5wW  REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31083 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31303 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31375 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27664 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28224 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28413 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28619 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28911 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29191 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29390 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29648 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29987 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30048 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30216 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30279 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30520 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30665 acepix    5wW  REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31083 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31303 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31375 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31690 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31775 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27664 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27732 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  27935 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28224 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28413 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28619 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  28911 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29191 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29390 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29648 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  29987 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30048 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30216 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30279 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30520 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  30665 acepix    5wW  REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31083 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31303 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31375 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31690 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  31775 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  32134 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  32199 acepix    5w   REG    8,2    79144 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33557 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  33800 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  38838 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  39506 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  40057 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  43521 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  44237 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  45208 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  45986 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46122 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46181 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46316 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46522 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46712 acepix    5w   REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46771 acepix    5wW  REG    8,2   106704 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    414 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1007 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1066 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1201 acepix    5wW  REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  33800 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  45986 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46122 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46522 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46964 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47550 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47891 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48653 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48845 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48904 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  49096 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    414 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1007 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1066 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1201 acepix    5wW  REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1399 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1405 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  33800 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  45986 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46122 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46522 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46964 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47550 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47891 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48653 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48845 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48904 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  49096 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    414 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1007 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1066 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1201 acepix    5wW  REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1399 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1405 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1605 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1664 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  33800 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  45986 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46122 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46522 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46964 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47550 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47891 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48653 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48845 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48904 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  49096 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    414 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1007 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1066 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1201 acepix    5wW  REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1399 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1405 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1605 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1664 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1872 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1932 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  33800 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  45986 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46122 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46522 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46964 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47550 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47891 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48653 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48845 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48904 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  49096 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    414 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1007 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1066 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1201 acepix    5wW  REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1399 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1405 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1605 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1664 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1872 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   1932 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   2069 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd   2128 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  33800 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  45986 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46122 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46522 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  46964 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47550 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  47891 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48653 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48845 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  48904 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+vsftpd  49096 acepix    5w   REG    8,2    35568 8388840 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33766 acepix    5wW  REG    8,2   505297 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33766 acepix    5wW  REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  33950 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34011 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33766 acepix    5wW  REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  33950 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34011 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34147 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34218 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33766 acepix    5wW  REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  33950 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34011 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34147 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34218 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34356 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34416 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33766 acepix    5wW  REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  33950 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34011 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34147 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34218 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34356 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34416 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34552 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+vsftpd  34623 acepix    5w   REG    8,2   536761 8388842 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K004.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39732 acepix    5wW  REG    8,2   529160 8388843 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K004.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K006.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39929 acepix    5wW  REG    8,2   889200 8388845 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K006.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K015.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40803 acepix    5wW  REG    8,2  3306409 8388854 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K015.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41025 acepix    5wW  REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41025 acepix    5wW  REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41248 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41307 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41025 acepix    5wW  REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41248 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41307 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41443 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41025 acepix    5wW  REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41248 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41307 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41443 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41693 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41025 acepix    5wW  REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41248 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41307 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41443 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41693 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41830 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  41890 acepix    5w   REG    8,2  1931104 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42861 acepix    5w   REG    8,2  2526184 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  43053 acepix    5w   REG    8,2  2526184 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  43239 acepix    5w   REG    8,2  2526184 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  43431 acepix    5w   REG    8,2  2526184 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+vsftpd  43759 acepix    5wW  REG    8,2  2526184 8388855 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K017.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43951 acepix    5wW  REG    8,2  1725048 8388856 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K017.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44195 acepix    5wW  REG    8,2    97128 8388856 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K019.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44394 acepix    5wW  REG    8,2   966080 8388858 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K019.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44902 acepix    5wW  REG    8,2  1911921 8388861 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45128 acepix    5wW  REG    8,2  2409056 8388863 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45848 acepix    5wW  REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45848 acepix    5wW  REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46073 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45848 acepix    5wW  REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46073 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46132 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46323 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45848 acepix    5wW  REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46073 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46132 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46323 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46329 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46518 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45848 acepix    5wW  REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46073 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46132 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46323 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46329 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46518 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46654 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  46713 acepix    5w   REG    8,2  1881000 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   556 acepix    5w   REG    8,2  1708632 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  1332 acepix    5w   REG    8,2  1708632 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  2061 acepix    5w   REG    8,2  1716840 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  2194 acepix    5w   REG    8,2  1716840 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  2254 acepix    5w   REG    8,2  1716840 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+vsftpd  2387 acepix    5wW  REG    8,2  1716840 8388868 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K030.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2576 acepix    5wW  REG    8,2   506948 8388869 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K030.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K030.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K031.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3043 acepix    5wW  REG    8,2  1884384 8388871 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K031.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3241 acepix    5wW  REG    8,2   558144 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3241 acepix    5wW  REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3241 acepix    5wW  REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3622 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3688 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3241 acepix    5wW  REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3622 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3688 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3824 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3882 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3241 acepix    5wW  REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3622 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3688 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3824 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  3882 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  4018 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  4085 acepix    5w   REG    8,2  1618344 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5851 acepix    5w   REG    8,2   909208 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  7396 acepix    5w   REG    8,2   909208 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  8180 acepix    5w   REG    8,2   909208 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  8313 acepix    5w   REG    8,2   909208 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  8500 acepix    5w   REG    8,2   909208 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+vsftpd  8506 acepix    5wW  REG    8,2   909208 8388872 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K033.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K034.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8749 acepix    5wW  REG    8,2  1478517 8388873 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K034.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K036.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8945 acepix    5wW  REG    8,2   771040 8388875 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K036.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K037.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9143 acepix    5wW  REG    8,2  2377159 8388876 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K038.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9363 acepix    5wW  REG    8,2  2757204 8388877 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K038.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9646 acepix    5wW  REG    8,2  2660669 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9646 acepix    5wW  REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10091 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9646 acepix    5wW  REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10091 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10227 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10287 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9646 acepix    5wW  REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10091 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10227 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10287 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10423 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10483 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9646 acepix    5wW  REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10091 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10227 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10287 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10423 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10483 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10620 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10680 acepix    5w   REG    8,2  2716735 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10091 acepix    5w   REG    8,2  3689112 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10227 acepix    5w   REG    8,2  3689112 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10423 acepix    5w   REG    8,2  3689112 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10483 acepix    5w   REG    8,2  3689112 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10620 acepix    5w   REG    8,2  3689112 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10680 acepix    5w   REG    8,2  3689112 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+vsftpd  10816 acepix    5wW  REG    8,2  3689112 8388879 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11005 acepix    5wW  REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11064 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11005 acepix    5wW  REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11064 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11255 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11005 acepix    5wW  REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11064 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11255 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11395 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11448 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11005 acepix    5wW  REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11064 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11255 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11395 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11448 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11591 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11649 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11005 acepix    5wW  REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11064 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11255 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11395 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11448 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11591 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11649 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11656 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  11793 acepix    5w   REG    8,2  1482266 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11255 acepix    5w   REG    8,2  2558160 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  12181 acepix    5w   REG    8,2  2558160 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  12621 acepix    5w   REG    8,2  2558160 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  12808 acepix    5w   REG    8,2  2558160 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  13182 acepix    5w   REG    8,2  2558160 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  13346 acepix    5w   REG    8,2  2558160 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+vsftpd  13572 acepix    5wW  REG    8,2  2558160 8388880 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K042.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13744 acepix    5wW  REG    8,2  3542056 8388881 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K042.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K044.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14013 acepix    5wW  REG    8,2  1021384 8388883 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K044.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K045.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14215 acepix    5wW  REG    8,2  2943936 8388884 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K045.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K046.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14473 acepix    5wW  REG    8,2  2878016 8388885 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K046.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K047.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14706 acepix    5wW  REG    8,2  2216865 8388886 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K047.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K049.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15031 acepix    5wW  REG    8,2   569088 8388888 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K049.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K050.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15292 acepix    5wW  REG    8,2  2907804 8388889 /data/www/ftpdir/acepix/ACEPIXS_OscarStamp_K021617/021617_OscarStamp__K050.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Gigi_021617/021617_Gigi_Z02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15896 acepix    5wW  REG    8,2   940888 8388894 /data/www/ftpdir/acepix/ACEPIXS_Gigi_021617/021617_Gigi_Z02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Gigi_021617/021617_Gigi_Z05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16175 acepix    5wW  REG    8,2    30780 8388897 /data/www/ftpdir/acepix/ACEPIXS_Gigi_021617/021617_Gigi_Z05.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Gigi_021617/021617_Gigi_Z11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16791 acepix    5wW  REG    8,2   517576 8388903 /data/www/ftpdir/acepix/ACEPIXS_Gigi_021617/021617_Gigi_Z11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K009.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19425 acepix    5wW  REG    8,2    64296 8388923 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K009.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K011.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19689 acepix    5wW  REG    8,2  1146384 8388925 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K011.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21134 acepix    5wW  REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21134 acepix    5wW  REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21387 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21134 acepix    5wW  REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21387 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21525 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21584 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21134 acepix    5wW  REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21387 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21525 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21584 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21723 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21134 acepix    5wW  REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21387 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21525 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21584 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21723 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21915 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21927 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  21988 acepix    5w   REG    8,2    51984 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23492 acepix    5w   REG    8,2    38304 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  24077 acepix    5w   REG    8,2    38304 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25058 acepix    5w   REG    8,2    38304 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25119 acepix    5w   REG    8,2    38304 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25125 acepix    5w   REG    8,2    38304 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25316 acepix    5wW  REG    8,2    38304 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25058 acepix    5w   REG    8,2    64296 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25119 acepix    5w   REG    8,2    64296 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25508 acepix    5w   REG    8,2    64296 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25644 acepix    5w   REG    8,2    64296 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25704 acepix    5wW  REG    8,2    64296 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25058 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25119 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25508 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25644 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25704 acepix    5wW  REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25895 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25058 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25119 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25508 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25644 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25704 acepix    5wW  REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25895 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26097 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25058 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25119 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25508 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25644 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25704 acepix    5wW  REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25895 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26097 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26236 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26296 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25058 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25119 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25508 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25644 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25704 acepix    5wW  REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  25895 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26097 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26236 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26296 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26493 acepix    5w   REG    8,2   116280 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26236 acepix    5w   REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28386 acepix    5w   REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30139 acepix    5w   REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30210 acepix    5wW  REG    8,2    47880 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26236 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28386 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30139 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30210 acepix    5wW  REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30401 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26236 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28386 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30139 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30210 acepix    5wW  REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30401 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26236 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28386 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30139 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30210 acepix    5wW  REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30401 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30843 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30902 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26236 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28386 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30139 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30210 acepix    5wW  REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30401 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30843 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30902 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31042 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31125 acepix    5w   REG    8,2    67032 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30902 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31042 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31522 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31762 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31821 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31961 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32062 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32638 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32905 acepix    5wW  REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30902 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31042 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31522 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31762 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31821 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31961 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32062 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32638 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32905 acepix    5wW  REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33100 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33122 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33197 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30902 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31042 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31522 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31762 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31821 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31961 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32062 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32638 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32905 acepix    5wW  REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33100 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33122 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33197 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33697 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30902 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31042 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31522 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31762 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31821 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31961 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32062 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32638 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32905 acepix    5wW  REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33100 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33122 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33197 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33697 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33768 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  34170 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  34229 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25119 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  26034 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28052 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  28640 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30539 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  30902 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31042 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31522 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31762 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31821 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  31961 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32062 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32638 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  32905 acepix    5wW  REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33100 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33122 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33197 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33697 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  33768 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  34170 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  34229 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  34414 acepix    5w   REG    8,2    80712 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    859 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    921 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1059 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1261 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1471 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1681 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1952 acepix    5wW  REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48850 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  49123 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    859 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    921 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1059 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1261 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1471 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1681 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1952 acepix    5wW  REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2149 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2214 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48850 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  49123 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    859 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    921 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1059 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1261 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1471 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1681 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1952 acepix    5wW  REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2149 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2214 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2355 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2415 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48850 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  49123 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    859 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    921 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1059 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1261 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1471 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1681 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1952 acepix    5wW  REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2149 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2214 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2355 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2415 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2557 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2616 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48850 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  49123 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    859 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd    921 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1059 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1261 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1471 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1681 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1952 acepix    5wW  REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2149 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2214 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2355 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2415 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2557 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2616 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2754 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2819 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48711 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48850 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  49123 acepix    5w   REG    8,2    43776 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    921 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1059 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1261 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   1681 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2149 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2355 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2415 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2557 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2819 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   2960 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   3167 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   3437 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   3577 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   3639 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   3779 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd   4044 acepix    5wW  REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  48711 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+vsftpd  49123 acepix    5w   REG    8,2     8208 8388939 /data/www/ftpdir/acepix/ACEPIXS_SISwimsuitissue_K021617/021617_SportsIllustarted__K025.JPG
+

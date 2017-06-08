@@ -1,0 +1,398 @@
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32624 acepix    5wW  REG    8,2    65664 5243587 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D55.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33908 acepix    5wW  REG    8,2   510264 5243611 /data/www/ftpdir/acepix/ACEPIXS_Kennedys_031517/031517_Kennedys_D55.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35325 acepix    5wW  REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35600 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35665 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35325 acepix    5wW  REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35600 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35665 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35789 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35325 acepix    5wW  REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35600 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35665 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35789 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35999 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  36005 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35325 acepix    5wW  REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35600 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35665 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35789 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  35999 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  36005 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  36067 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+vsftpd  36244 acepix    5w   REG    8,2     6840 5243631 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F12.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40887 acepix    5wW  REG    8,2  1268136 5243642 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F12.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F22.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41545 acepix    5wW  REG    8,2   165528 5243651 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F22.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F27.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41876 acepix    5wW  REG    8,2   689216 5243656 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F27.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F35.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42545 acepix    5wW  REG    8,2  1275064 5243664 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F35.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42827 acepix    5wW  REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42827 acepix    5wW  REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43062 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43130 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42827 acepix    5wW  REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43062 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43130 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43254 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43316 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42827 acepix    5wW  REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43062 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43130 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43254 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43316 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43446 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43508 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42827 acepix    5wW  REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43062 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43130 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43254 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43316 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43446 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43508 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43632 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+vsftpd  43694 acepix    5w   REG    8,2    19152 5243666 /data/www/ftpdir/acepix/ACEPIXS_PrincesTrust_031517/031517_PrincesTrust_F36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K010.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19712 acepix    5wW  REG    8,2  1364072 5243692 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K010.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20081 acepix    5wW  REG    8,2   163904 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20081 acepix    5wW  REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20506 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20081 acepix    5wW  REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20506 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20841 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20903 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20081 acepix    5wW  REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20506 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20841 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20903 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21039 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21109 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20081 acepix    5wW  REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20506 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20841 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  20903 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21039 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21109 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21388 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   181688 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23429 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23488 acepix    5wW  REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23663 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23429 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23488 acepix    5wW  REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23663 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23785 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23429 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23488 acepix    5wW  REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23663 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23785 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23961 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24021 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23429 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23488 acepix    5wW  REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23663 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23785 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23961 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24021 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24144 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24204 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23429 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23488 acepix    5wW  REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23663 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23785 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  23961 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24021 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24144 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24204 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24327 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  24388 acepix    5w   REG    8,2   123120 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  28858 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29074 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29637 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29788 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29853 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30063 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30525 acepix    5w   REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30889 acepix    5wW  REG    8,2   252144 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  28858 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29074 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29637 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29788 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29853 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30063 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30525 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30889 acepix    5wW  REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31105 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31192 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  28858 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29074 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29637 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29788 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29853 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30063 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30525 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30889 acepix    5wW  REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31105 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31192 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31607 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31683 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  28858 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29074 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29637 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29788 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29853 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30063 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30525 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30889 acepix    5wW  REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31105 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31192 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31607 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31683 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32070 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32130 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22041 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22893 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22968 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  28858 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29074 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29637 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29788 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29853 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30063 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30525 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  30889 acepix    5wW  REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31105 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31192 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31607 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31683 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32070 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32130 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32280 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32347 acepix    5w   REG    8,2   258432 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29074 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29788 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31192 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31607 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32347 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  33232 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35064 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35404 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35933 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35993 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  36213 acepix    5w   REG    8,2   126712 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  36957 acepix    5w   REG    8,2   135176 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  37017 acepix    5w   REG    8,2   135176 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  37774 acepix    5w   REG    8,2   135176 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  37841 acepix    5w   REG    8,2   135176 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  38050 acepix    5w   REG    8,2   135176 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  38119 acepix    5wW  REG    8,2   135176 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21109 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  21459 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  22385 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29074 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  29788 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31192 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  31607 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  32347 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  33232 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35064 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35404 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35933 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  35993 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  36213 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  36957 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  37017 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  37774 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  37841 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  38050 acepix    5w   REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+vsftpd  38119 acepix    5wW  REG    8,2   437504 5243696 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K033.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46477 acepix    5wW  REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  46904 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46477 acepix    5wW  REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  46904 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47026 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47086 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46477 acepix    5wW  REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  46904 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47026 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47086 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47208 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47267 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46477 acepix    5wW  REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  46904 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47026 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47086 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47208 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47267 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47388 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47449 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+vsftpd  47455 acepix    5w   REG    8,2    23977 5243721 /data/www/ftpdir/acepix/ACEPIXS_Swiffer_K031617/031617_Swiffer_K039.JPG
+

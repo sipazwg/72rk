@@ -1,0 +1,64 @@
+/data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30331 acepix    5wW  REG    8,2  2382800 13238462 /data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31807 acepix    5wW  REG    8,2  3014039 13238466 /data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32823 acepix    5wW  REG    8,2   905225 13238471 /data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33548 acepix    5wW  REG    8,2   711960 13238473 /data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34318 acepix    5wW  REG    8,2  2170630 13238475 /data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35619 acepix    5wW  REG    8,2  3381015 13238477 /data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S21.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36728 acepix    5wW  REG    8,2  3648200 13238479 /data/www/ftpdir/acepix/ACEPIXS_Hasselhoff_051417/051417_ Hasselhoff_S21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38122 acepix    5wW  REG    8,2   675280 13238483 /data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39454 acepix    5wW  REG    8,2   951718 13238486 /data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40648 acepix    5wW  REG    8,2  1625106 13238488 /data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41607 acepix    5wW  REG    8,2   720680 13238491 /data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42979 acepix    5wW  REG    8,2  1476258 13238493 /data/www/ftpdir/acepix/ACEPIXS_Chopra_051417/051417_Chopra_S11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44386 acepix    5wW  REG    8,2  1088928 13238500 /data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45867 acepix    5wW  REG    8,2  1770192 13238504 /data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48772 acepix    5wW  REG    8,2  1040704 13238508 /data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S17.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1579 acepix    5wW  REG    8,2  1250352 13238511 /data/www/ftpdir/acepix/ACEPIXS_Bass_051417/051417_Bass_S17.JPG
+

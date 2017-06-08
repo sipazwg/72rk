@@ -1,0 +1,16 @@
+/data/www/ftpdir/cordonpress/_W4Y7800.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     18979 root    3w   REG    8,2  1294336 5514726 /data/www/ftpdir/cordonpress/_W4Y7800.JPG
+
+/data/www/ftpdir/cordonpress/PACO_SUAREZ_001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/PACO_SUAREZ_039.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     24590 root    3w   REG    8,2  2801664 5505389 /data/www/ftpdir/cordonpress/PACO_SUAREZ_039.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_033.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_042.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_073.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     47902 root    3w   REG    8,2   344064 5509263 /data/www/ftpdir/cordonpress/DiegoPuerta_073.jpg
+
+/data/www/ftpdir/cordonpress/170126-ChineseNewYear-NYC-8764.jpg--- have been enter

@@ -1,0 +1,62 @@
+/data/www/ftpdir/acepix/ACEPIXS_Younger_040417/040417_Younger_Z04.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1994 acepix    5wW  REG    8,2  1111504 10486154 /data/www/ftpdir/acepix/ACEPIXS_Younger_040417/040417_Younger_Z04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D114.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29678 acepix    5wW  REG    8,2   759240 10616859 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D114.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D117.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31478 acepix    5wW  REG    8,2   667328 10616862 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D117.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D130.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32879 acepix    5wW  REG    8,2   444600 10616873 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D130.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D135.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34032 acepix    5wW  REG    8,2   708624 10616878 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D135.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D16.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D15.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D28.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48150 acepix    5wW  REG    8,2   534888 10616895 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D28.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D40.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4424 acepix    5wW  REG    8,2  1151600 10616907 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D71.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16073 acepix    5wW  REG    8,2  1103936 10616938 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D71.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D74.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20835 acepix    5wW  REG    8,2   643292 10616942 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D74.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D78.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23458 acepix    5wW  REG    8,2   882720 10616946 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D78.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D80.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25996 acepix    5wW  REG    8,2   803872 10616947 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D80.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D84.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27561 acepix    5wW  REG    8,2   984960 10616951 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D84.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D89.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29699 acepix    5wW  REG    8,2   774288 10616956 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D89.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D92.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32154 acepix    5wW  REG    8,2   629024 10616959 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D92.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D94.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34272 acepix    5wW  REG    8,2  1862063 10616962 /data/www/ftpdir/acepix/ACEPIXS_Leftovers_040417/040417_Leftovers_D94.JPG
+

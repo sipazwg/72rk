@@ -1,0 +1,16 @@
+/data/www/ftpdir/acepix/ACEPIXS_GlobalMomsRelay_K050417/KAC_2314.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35344 acepix    5wW  REG    8,2  1305376 12714131 /data/www/ftpdir/acepix/ACEPIXS_GlobalMomsRelay_K050417/KAC_2314.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GlobalMomsRelay_K050417/KAC_2323.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35865 acepix    5wW  REG    8,2   149112 12714136 /data/www/ftpdir/acepix/ACEPIXS_GlobalMomsRelay_K050417/KAC_2323.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Rihanna_050417_15/050417_Rihanna_C09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12583 acepix    5wW  REG    8,2   988512 12714181 /data/www/ftpdir/acepix/ACEPIXS_Rihanna_050417_15/050417_Rihanna_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Rihanna1_050417_27/050417_Rihanna1_Z30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22958 acepix    5wW  REG    8,2   247608 12714212 /data/www/ftpdir/acepix/ACEPIXS_Rihanna1_050417_27/050417_Rihanna1_Z30.JPG
+

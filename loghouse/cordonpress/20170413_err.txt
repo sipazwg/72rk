@@ -1,0 +1,5 @@
+/data/www/ftpdir/cordonpress/IAM_0248.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     3292 root    3w   REG    8,2   442368 5534116 /data/www/ftpdir/cordonpress/IAM_0248.jpg
+
+/data/www/ftpdir/cordonpress/IAM_0234.jpg--- have been enter

@@ -1,0 +1,154 @@
+/data/www/ftpdir/acepix/ACEPIXS_Baldwin_040317/040317_Baldwin_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37540 acepix    5wW  REG    8,2  1260232 10485894 /data/www/ftpdir/acepix/ACEPIXS_Baldwin_040317/040317_Baldwin_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46877 acepix    5wW  REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46877 acepix    5wW  REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  47709 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48024 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46877 acepix    5wW  REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  47709 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48024 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48154 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48266 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46877 acepix    5wW  REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  47709 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48024 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48154 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48266 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48443 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48517 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd    408 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd   1197 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  46877 acepix    5wW  REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  47709 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48024 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48154 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48266 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48443 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48517 acepix    5w   REG    8,2   120384 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   8604 acepix    5w   REG    8,2    42408 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd   8678 acepix    5w   REG    8,2    42408 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  10937 acepix    5w   REG    8,2    42408 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  11864 acepix    5w   REG    8,2    42408 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  12424 acepix    5w   REG    8,2    42408 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  12803 acepix    5wW  REG    8,2    42408 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  48517 acepix    5w   REG    8,2    42408 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   8678 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15357 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15891 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  16630 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  17268 acepix    5wW  REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   8678 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15357 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15891 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  16630 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  17268 acepix    5wW  REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  18134 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   8678 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15357 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15891 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  16630 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  17268 acepix    5wW  REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  18134 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  18637 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  19602 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   8678 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15357 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15891 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  16630 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  17268 acepix    5wW  REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  18134 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  18637 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  19602 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  20574 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  20695 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   8678 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15357 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  15891 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  16630 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  17268 acepix    5wW  REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  18134 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  18637 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  19602 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  20574 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  20695 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  21119 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+vsftpd  21456 acepix    5w   REG    8,2   124488 10485903 /data/www/ftpdir/acepix/ACEPIXS_FreidaPinto_K040317/040317_AOLBuild_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K040317/040317_AOLBuild_K012.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37341 acepix    5wW  REG    8,2  1441792 10485923 /data/www/ftpdir/acepix/ACEPIXS_AOL_K040317/040317_AOLBuild_K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL1_040317/040317_AOL1_Z01.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10015 acepix    5wW  REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10015 acepix    5wW  REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11397 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11517 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10015 acepix    5wW  REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11397 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11517 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12413 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12485 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10015 acepix    5wW  REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11397 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11517 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12413 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12485 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12614 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10015 acepix    5wW  REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11397 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  11517 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12413 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12485 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12614 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12808 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12814 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+vsftpd  12887 acepix    5w   REG    8,2   725384 10485960 /data/www/ftpdir/acepix/ACEPIXS_TribecaBall_K040317/KAC_8012.jpg
+

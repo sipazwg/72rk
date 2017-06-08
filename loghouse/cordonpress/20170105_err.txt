@@ -1,0 +1,4 @@
+/data/www/ftpdir/cordonpress/_JLC9673.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     29357 root    3w   REG    8,2  1163264 5509981 /data/www/ftpdir/cordonpress/_JLC9673.JPG
+

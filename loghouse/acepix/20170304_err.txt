@@ -1,0 +1,1438 @@
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38671 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39279 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39868 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39931 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40518 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40746 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38671 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39279 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39868 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39931 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40518 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40746 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40968 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41058 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38671 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39279 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39868 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39931 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40518 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40746 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40968 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41058 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41191 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38671 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39279 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39868 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39931 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40518 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40746 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40968 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41058 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41191 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38671 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39279 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39532 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39868 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39931 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40518 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40746 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40968 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41058 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41191 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41439 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41631 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42142 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42582 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43090 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43912 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44235 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44294 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44423 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44482 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44612 acepix    5wW  REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42142 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42582 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43090 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43912 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44235 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44294 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44423 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44482 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44612 acepix    5wW  REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44797 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44856 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42142 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42582 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43090 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43912 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44235 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44294 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44423 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44482 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44612 acepix    5wW  REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44797 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44856 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44988 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42142 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42582 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43090 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43912 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44235 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44294 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44423 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44482 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44612 acepix    5wW  REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44797 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44856 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44988 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45180 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45241 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23593 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24016 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24081 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26532 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42142 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  42582 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43090 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  43912 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44235 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44294 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44423 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44482 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44612 acepix    5wW  REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44797 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44856 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  44988 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45180 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45241 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45373 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45432 acepix    5w   REG    8,2    70680 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3533 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4984 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   5834 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7162 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7482 acepix    5wW  REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7542 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3533 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4984 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   5834 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7162 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7482 acepix    5wW  REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7542 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7674 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7742 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3533 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4984 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   5834 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7162 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7482 acepix    5wW  REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7542 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7674 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7742 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7874 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7935 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3533 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4984 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   5834 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7162 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7482 acepix    5wW  REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7542 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7674 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7742 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7874 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7935 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8073 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8134 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3533 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4984 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   5834 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7162 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7482 acepix    5wW  REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7542 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7674 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7742 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7874 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7935 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8073 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8134 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8270 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8329 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8890 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9831 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10903 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11284 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11343 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11855 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11914 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12044 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12103 acepix    5wW  REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8890 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9831 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10903 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11284 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11343 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11855 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11914 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12044 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12103 acepix    5wW  REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12473 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8890 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9831 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10903 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11284 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11343 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11855 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11914 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12044 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12103 acepix    5wW  REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12473 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12601 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12668 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8890 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9831 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10903 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11284 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11343 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11855 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11914 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12044 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12103 acepix    5wW  REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12473 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12601 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12668 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12802 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12864 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2584 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4092 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7347 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   8890 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9831 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10903 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11284 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11343 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11855 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11914 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12044 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12103 acepix    5wW  REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12473 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12601 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12668 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12802 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12864 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12998 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  13058 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39665 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  45048 acepix    5w   REG    8,2    50820 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  20012 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  21340 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22814 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23508 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23704 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24009 acepix    5wW  REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  20012 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  21340 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22814 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23508 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23704 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24009 acepix    5wW  REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24176 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  20012 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  21340 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22814 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23508 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23704 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24009 acepix    5wW  REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24176 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24372 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24444 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  20012 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  21340 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22814 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23508 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23704 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24009 acepix    5wW  REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24176 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24372 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24444 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24700 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  20012 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  21340 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22814 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23508 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23704 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24009 acepix    5wW  REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24176 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24372 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24444 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24700 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24767 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25019 acepix    5w   REG    8,2    79344 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25019 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25185 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25639 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26433 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26910 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26921 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27411 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27659 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27847 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28035 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28202 acepix    5wW  REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25019 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25185 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25639 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26433 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26910 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26921 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27411 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27659 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27847 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28035 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28202 acepix    5wW  REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28397 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28456 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25019 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25185 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25639 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26433 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26910 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26921 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27411 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27659 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27847 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28035 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28202 acepix    5wW  REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28397 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28456 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28619 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25019 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25185 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25639 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26433 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26910 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26921 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27411 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27659 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27847 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28035 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28202 acepix    5wW  REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28397 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28456 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28619 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28682 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28853 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10903 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12286 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16783 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17615 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  22512 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  23949 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  24235 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25019 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25185 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  25639 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26433 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26910 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26921 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27411 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27659 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27847 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28035 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28202 acepix    5wW  REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28397 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28456 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28619 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28682 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28853 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29040 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29133 acepix    5w   REG    8,2    76608 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    612 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1305 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1371 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1564 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2010 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2139 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2198 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2326 acepix    5wW  REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39772 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  46969 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  48484 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    612 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1305 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1371 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1564 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2010 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2139 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2198 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2326 acepix    5wW  REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2509 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2568 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39772 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  46969 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  48484 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    612 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1305 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1371 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1564 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2010 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2139 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2198 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2326 acepix    5wW  REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2509 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2568 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2698 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2757 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39772 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  46969 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  48484 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    612 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1305 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1371 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1564 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2010 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2139 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2198 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2326 acepix    5wW  REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2509 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2568 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2698 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2757 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2888 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39772 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  46969 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  48484 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    612 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1305 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1371 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1564 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2010 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2139 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2198 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2326 acepix    5wW  REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2509 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2568 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2698 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2757 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2888 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3074 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3080 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3139 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  39772 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  46969 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  48484 acepix    5w   REG    8,2   180576 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1305 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   1371 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2010 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2139 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   2888 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3074 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3139 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3271 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   3986 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4743 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4870 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   4929 acepix    5wW  REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  46969 acepix    5w   REG    8,2    72504 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   5243 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7339 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9261 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10012 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10505 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10908 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11275 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11409 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11468 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   5243 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7339 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9261 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10012 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10505 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10908 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11275 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11409 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11468 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   5243 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7339 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9261 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10012 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10505 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10908 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11275 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11409 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11468 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11667 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11922 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   5243 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7339 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9261 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10012 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10505 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10908 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11275 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11409 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11468 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11667 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11922 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12053 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12140 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   5243 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   7339 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd   9261 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10012 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10505 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10908 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11275 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11409 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11468 acepix    5wW  REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11667 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11922 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12053 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12140 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12491 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12552 acepix    5w   REG    8,2    57456 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12491 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12741 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  13993 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  14802 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15179 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15741 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15868 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16234 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16676 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17051 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17178 acepix    5w   REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17238 acepix    5wW  REG    8,2    56088 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12491 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  13993 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  14802 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15179 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15868 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16234 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16676 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17051 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17178 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17238 acepix    5wW  REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17421 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12491 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  13993 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  14802 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15179 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15868 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16234 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16676 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17051 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17178 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17238 acepix    5wW  REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17421 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17554 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17613 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12491 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  13993 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  14802 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15179 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15868 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16234 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16676 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17051 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17178 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17238 acepix    5wW  REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17421 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17554 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17613 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17744 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17803 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12491 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  13993 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  14802 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15179 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15741 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  15868 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16234 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16676 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17051 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17178 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17238 acepix    5wW  REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17421 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17554 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17613 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17744 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17803 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17933 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17993 acepix    5w   REG    8,2    90288 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  17613 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  19681 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  21174 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26727 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27715 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  27910 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28040 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28100 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28607 acepix    5w   REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28666 acepix    5wW  REG    8,2    46512 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  19681 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26727 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28040 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28100 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28976 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29165 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29225 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29352 acepix    5wW  REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  19681 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26727 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28040 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28100 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28976 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29165 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29225 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29352 acepix    5wW  REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29536 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  19681 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26727 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28040 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28100 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28976 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29165 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29225 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29352 acepix    5wW  REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29536 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29595 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29729 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29788 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  19681 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26727 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28040 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28100 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28976 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29165 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29225 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29352 acepix    5wW  REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29536 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29595 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29729 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29788 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29918 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29977 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   9261 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  10139 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  11653 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  12682 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  16992 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  19681 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  26727 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28040 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28100 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  28976 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29165 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29225 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29352 acepix    5wW  REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29536 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29595 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29729 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29788 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29918 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29977 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30107 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30166 acepix    5w   REG    8,2    76436 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16992 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30166 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30355 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  31227 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  34985 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35175 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35424 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38981 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40618 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40677 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40804 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40863 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40990 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41049 acepix    5wW  REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41229 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16992 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30166 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30355 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  31227 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  34985 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35175 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35424 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38981 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40618 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40677 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40804 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40863 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40990 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41049 acepix    5wW  REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41229 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41359 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41418 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16992 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30166 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30355 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  31227 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  34985 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35175 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35424 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38981 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40618 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40677 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40804 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40863 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40990 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41049 acepix    5wW  REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41229 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41359 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41418 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41548 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41607 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16992 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30166 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30355 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  31227 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  34985 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35175 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35424 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38981 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40618 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40677 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40804 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40863 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40990 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41049 acepix    5wW  REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41229 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41359 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41418 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41548 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41607 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16992 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  29036 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30166 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  30355 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  31227 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  34985 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35175 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  35424 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  38981 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40618 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40677 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40804 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40863 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  40990 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41049 acepix    5wW  REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41229 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41359 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41418 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41548 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41607 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41931 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41992 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+vsftpd  41998 acepix    5w   REG    8,2    68400 9175394 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4559 acepix    5wW  REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4559 acepix    5wW  REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4721 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4559 acepix    5wW  REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4721 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4904 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4910 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4559 acepix    5wW  REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4721 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4904 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4910 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4969 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  5152 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4559 acepix    5wW  REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4721 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4904 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4910 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  4969 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  5152 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  5284 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+vsftpd  5343 acepix    5w   REG    8,2   882064 9175403 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7947 acepix    5wW  REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8013 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7947 acepix    5wW  REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8013 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8143 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8203 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7947 acepix    5wW  REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8013 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8143 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8203 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8334 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8393 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7947 acepix    5wW  REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8013 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8143 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8203 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8334 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8393 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8523 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8583 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7947 acepix    5wW  REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8013 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8143 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8203 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8334 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8393 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8523 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8583 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8713 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+vsftpd  8772 acepix    5w   REG    8,2    15048 9175404 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K016.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K017.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10186 acepix    5wW  REG    8,2  1150232 9175409 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10394 acepix    5wW  REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10394 acepix    5wW  REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10707 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10394 acepix    5wW  REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10707 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10837 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10898 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10394 acepix    5wW  REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10707 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10837 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10898 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  11030 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  11090 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10394 acepix    5wW  REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10707 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10837 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  10898 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  11030 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  11090 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  11222 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+vsftpd  11282 acepix    5w   REG    8,2     6840 9175412 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K021.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17346 acepix    5wW  REG    8,2  1109664 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17346 acepix    5wW  REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17629 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17346 acepix    5wW  REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17629 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17758 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17819 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17346 acepix    5wW  REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17629 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17758 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17819 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17952 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  18011 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17346 acepix    5wW  REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17629 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17758 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17819 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  17952 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  18011 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  18136 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+vsftpd  18219 acepix    5w   REG    8,2  1157544 9175413 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21826 acepix    5wW  REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22009 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21826 acepix    5wW  REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22009 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22141 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22202 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21826 acepix    5wW  REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22009 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22141 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22202 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22332 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22392 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21826 acepix    5wW  REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22009 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22141 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22202 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22332 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22392 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22522 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+vsftpd  22581 acepix    5w   REG    8,2    12312 9175414 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K023.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24204 acepix    5wW  REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24204 acepix    5wW  REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24390 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24451 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24204 acepix    5wW  REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24390 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24451 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24582 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24641 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24204 acepix    5wW  REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24390 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24451 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24582 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24641 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24771 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24204 acepix    5wW  REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24390 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24451 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24582 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24641 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24771 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  24960 acepix    5w   REG    8,2   149112 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26898 acepix    5w   REG    8,2  1664856 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  27583 acepix    5w   REG    8,2  1664856 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+vsftpd  27771 acepix    5wW  REG    8,2  1664856 9175415 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K025.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K026.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28225 acepix    5wW  REG    8,2  1103200 9175418 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K026.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K027.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28359 acepix    5wW  REG    8,2   880424 9175416 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K027.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K029.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28635 acepix    5wW  REG    8,2   847904 9175420 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K029.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K032.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29130 acepix    5wW  REG    8,2  1651176 9175423 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K032.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K034.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29352 acepix    5wW  REG    8,2   414504 9175425 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K034.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K036.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29606 acepix    5wW  REG    8,2   668952 9175427 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K036.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29799 acepix    5wW  REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29799 acepix    5wW  REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30014 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30071 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29799 acepix    5wW  REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30014 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30071 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30210 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30269 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29799 acepix    5wW  REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30014 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30071 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30210 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30269 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30405 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30464 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29799 acepix    5wW  REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30014 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30071 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30210 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30269 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30405 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30464 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30594 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+vsftpd  30653 acepix    5w   REG    8,2    15048 9175428 /data/www/ftpdir/acepix/ACEPIXS_NBCPressJunket_K030217/030217_NBCJunket__K037.JPG
+

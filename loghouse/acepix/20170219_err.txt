@@ -1,0 +1,30 @@
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43827 acepix    5wW  REG    8,2   895528 8519759 /data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43827 acepix    5wW  REG    8,2  3047392 8519759 /data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S03.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S03.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S05.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2574 acepix    5wW  REG    8,2  1589280 8519764 /data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2815 acepix    5wW  REG    8,2  2158112 8519765 /data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S09.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3029 acepix    5wW  REG    8,2  1795469 8519767 /data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S13.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3874 acepix    5wW  REG    8,2   430912 8519771 /data/www/ftpdir/acepix/ACEPIXS_Trump_021717/021717_Trump_S13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Weber_021717/021717_Weber_S03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4450 acepix    5wW  REG    8,2  1161776 8519775 /data/www/ftpdir/acepix/ACEPIXS_Weber_021717/021717_Weber_S03.JPG
+

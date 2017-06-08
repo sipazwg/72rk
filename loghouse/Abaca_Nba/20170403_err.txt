@@ -1,0 +1,12 @@
+/data/www/ftpdir/Abaca_Nba/BRTNSSport20170402_039.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     41638 root    3w   REG    8,2   704512 5531563 /data/www/ftpdir/Abaca_Nba/BRTNSSport20170402_039.jpg
+
+/data/www/ftpdir/Abaca_Nba/BRTNSSport20170403_002.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     6962 root    3w   REG    8,2  1392640 5531644 /data/www/ftpdir/Abaca_Nba/BRTNSSport20170403_002.jpg
+
+/data/www/ftpdir/Abaca_Nba/BRTNSSport20170403_029.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     35175 root    3w   REG    8,2  1032192 5531672 /data/www/ftpdir/Abaca_Nba/BRTNSSport20170403_029.jpg
+

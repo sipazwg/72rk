@@ -1,0 +1,39 @@
+/data/www/ftpdir/cordonpress/aba_1.jpg--- have been enter
+/data/www/ftpdir/cordonpress/aba_2.jpg--- have been enter
+/data/www/ftpdir/cordonpress/mmopen_1.jpg--- have been enter
+/data/www/ftpdir/cordonpress/LP700_5467.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     8910 root    3w   REG    8,2  1327104 5505157 /data/www/ftpdir/cordonpress/LP700_5467.jpg
+
+/data/www/ftpdir/cordonpress/LP700_5976.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     19104 root    3w   REG    8,2   802816 5505190 /data/www/ftpdir/cordonpress/LP700_5976.jpg
+
+/data/www/ftpdir/cordonpress/_JCA2649-2.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9894 root    3w   REG    8,2  3358720 5505219 /data/www/ftpdir/cordonpress/_JCA2649-2.jpg
+
+/data/www/ftpdir/cordonpress/_JCA2666.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     18630 root    3w   REG    8,2  1851392 5505226 /data/www/ftpdir/cordonpress/_JCA2666.jpg
+
+/data/www/ftpdir/cordonpress/_JCA2685.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23139 root    3w   REG    8,2  9125888 5505228 /data/www/ftpdir/cordonpress/_JCA2685.jpg
+
+/data/www/ftpdir/cordonpress/_JCA2146-2.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     32890 root    3w   REG    8,2  1392640 5505245 /data/www/ftpdir/cordonpress/_JCA2146-2.jpg
+
+/data/www/ftpdir/cordonpress/_JCA2276-2.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     36835 root    3w   REG    8,2  2113536 5505257 /data/www/ftpdir/cordonpress/_JCA2276-2.jpg
+
+/data/www/ftpdir/cordonpress/_JCA2398_copia.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42214 root    3w   REG    8,2  1425408 5505263 /data/www/ftpdir/cordonpress/_JCA2398_copia.jpg
+
+/data/www/ftpdir/cordonpress/_JCA2396.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     47185 root    3w   REG    8,2  2113536 5505272 /data/www/ftpdir/cordonpress/_JCA2396.jpg
+

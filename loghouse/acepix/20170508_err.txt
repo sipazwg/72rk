@@ -1,0 +1,76 @@
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36778 acepix    5wW  REG    8,2  3410384 12976131 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38158 acepix    5wW  REG    8,2   663480 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38158 acepix    5wW  REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38158 acepix    5wW  REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  38898 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  39349 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38158 acepix    5wW  REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  38898 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  39349 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  39453 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  40896 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38158 acepix    5wW  REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  38898 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  39349 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  39453 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  40896 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  41899 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  41929 acepix    5w   REG    8,2  2002752 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12540 acepix    5wW  REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12540 acepix    5wW  REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  14417 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  15904 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12540 acepix    5wW  REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  14417 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  15904 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  15983 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  18073 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12540 acepix    5wW  REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  14417 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  15904 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  15983 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  18073 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  18970 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  19812 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12540 acepix    5wW  REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  14417 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  15904 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  15983 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  18073 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  18970 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  19812 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  21914 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+vsftpd  21988 acepix    5w   REG    8,2   860560 12976133 /data/www/ftpdir/acepix/ACEPIXS_WWHL_050717/050717_WWHL_C03.JPG
+

@@ -1,0 +1,413 @@
+/data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2689 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   4519 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   5594 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   6437 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   8637 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9049 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9115 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9475 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9950 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10349 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10533 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10949 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11123 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11297 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11412 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11597 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11662 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11839 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11963 acepix    5wW  REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2689 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   4519 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   5594 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   6437 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   8637 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9049 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9115 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9475 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9950 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10349 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10533 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10949 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11123 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11297 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11412 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11597 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11662 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11839 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11963 acepix    5wW  REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12141 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12218 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2689 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   4519 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   5594 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   6437 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   8637 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9049 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9115 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9475 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9950 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10349 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10533 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10949 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11123 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11297 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11412 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11597 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11662 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11839 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11963 acepix    5wW  REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12141 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12218 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12339 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12402 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2689 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   4519 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   5594 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   6437 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   8637 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9049 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9115 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9475 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9950 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10349 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10533 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10949 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11123 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11297 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11412 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11597 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11662 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11839 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11963 acepix    5wW  REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12141 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12218 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12339 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12402 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12520 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12579 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   2689 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   4519 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   5594 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   6437 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   8637 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9049 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9115 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9475 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd   9950 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10349 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10533 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  10949 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11123 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11297 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11412 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11597 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11662 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11839 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  11963 acepix    5wW  REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12141 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12218 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12339 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12402 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12520 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12579 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12699 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+vsftpd  12758 acepix    5w   REG    8,2   139536 7995517 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34087 acepix    5wW  REG    8,2  1531952 7995543 /data/www/ftpdir/acepix/ACEPIXS_Sabrina_020617/020617_Sabrina_S27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K020717/020717_VictoriasSecret__K024.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35675 acepix    5wW  REG    8,2  1047248 7995568 /data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K020717/020717_VictoriasSecret__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K020717/020717_VictoriasSecret__K030.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36058 acepix    5wW  REG    8,2  1005440 7995573 /data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K020717/020717_VictoriasSecret__K030.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K020717/020717_VictoriasSecret__K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37039 acepix    5wW  REG    8,2  1753973 7995584 /data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K020717/020717_VictoriasSecret__K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37381 acepix    5wW  REG    8,2  6338096 7995589 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37803 acepix    5wW  REG    8,2  2214773 7995593 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38698 acepix    5wW  REG    8,2  1813632 7995604 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39588 acepix    5wW  REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39588 acepix    5wW  REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  39904 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39588 acepix    5wW  REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  39904 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40150 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40210 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39588 acepix    5wW  REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  39904 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40150 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40210 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40331 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40391 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39588 acepix    5wW  REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  39904 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40150 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40210 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40331 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40391 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40561 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+vsftpd  40620 acepix    5w   REG    8,2  1495912 7995614 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S31.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41508 acepix    5wW  REG    8,2  1424136 7995618 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S40.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42142 acepix    5wW  REG    8,2  2735880 7995627 /data/www/ftpdir/acepix/ACEPIXS_LaurenSelena_020717/020717_LaurenSelena_S40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ora_020717/020717_Ora_C01.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2363 acepix    5wW  REG    8,2   341360 7995630 /data/www/ftpdir/acepix/ACEPIXS_Ora_020717/020717_Ora_C01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K008.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22748 acepix    5wW  REG    8,2  1366808 7995649 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K008.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K031.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24314 acepix    5wW  REG    8,2   541728 7995672 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K031.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K036.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24640 acepix    5wW  REG    8,2  1842900 7995677 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K036.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25000 acepix    5wW  REG    8,2  1343848 7995682 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K045.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25465 acepix    5wW  REG    8,2   924512 7995686 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K045.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K050.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26043 acepix    5wW  REG    8,2   909808 7995691 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K050.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26330 acepix    5wW  REG    8,2  1663488 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26330 acepix    5wW  REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26621 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26630 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26330 acepix    5wW  REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26621 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26630 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26805 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26330 acepix    5wW  REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26621 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26630 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26805 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26928 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26993 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26330 acepix    5wW  REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26621 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26630 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26805 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26928 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  26993 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  27122 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  27182 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+vsftpd  27188 acepix    5w   REG    8,2  1678536 7995693 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K052.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K064.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K068.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33063 acepix    5wW  REG    8,2   952128 7995710 /data/www/ftpdir/acepix/ACEPIXS_RedDressAwards_K020717/020717_RedDressAwards__K068.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33985 acepix    5wW  REG    8,2  1292248 7995722 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34624 acepix    5wW  REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34683 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34624 acepix    5wW  REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34683 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34892 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34624 acepix    5wW  REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34683 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34892 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35018 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35079 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34624 acepix    5wW  REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34683 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34892 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35018 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35079 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35251 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35311 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34624 acepix    5wW  REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34683 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  34892 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35018 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35079 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35251 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35311 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35474 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+vsftpd  35533 acepix    5w   REG    8,2   258296 7995729 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42438 acepix    5wW  REG    8,2   701872 7995730 /data/www/ftpdir/acepix/ACEPIXS_RedDress1_020717/020717_RedDress1_N10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45484 acepix    5wW  REG    8,2   222925 7995743 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D100.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45813 acepix    5wW  REG    8,2   912456 7995747 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D100.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D108.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46673 acepix    5wW  REG    8,2   343368 7995755 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D108.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D116.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48256 acepix    5wW  REG    8,2   215326 7995764 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D116.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D117.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48507 acepix    5wW  REG    8,2   233928 7995765 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D117.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D118.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48721 acepix    5wW  REG    8,2   842688 7995766 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D118.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48941 acepix    5wW  REG    8,2   296856 7995768 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D121.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  408 acepix    5wW  REG    8,2   480859 7995770 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D121.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D125.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  679 acepix    5wW  REG    8,2   725837 7995774 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D125.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D13.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  998 acepix    5wW  REG    8,2   723591 7995776 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D16.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1264 acepix    5wW  REG    8,2   468840 7995779 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D18.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1558 acepix    5wW  REG    8,2  1573176 7995781 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D21.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1902 acepix    5wW  REG    8,2   474696 7995784 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D25.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2200 acepix    5wW  REG    8,2   259920 7995788 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D32.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3940 acepix    5wW  REG    8,2   458280 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3940 acepix    5wW  REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4223 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3940 acepix    5wW  REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4223 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4351 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4415 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3940 acepix    5wW  REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4223 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4351 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4415 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4542 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3940 acepix    5wW  REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4223 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4351 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4415 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4542 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4727 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+vsftpd  4790 acepix    5w   REG    8,2   469224 7995808 /data/www/ftpdir/acepix/ACEPIXS_BigLittleLies_020717/020717_BigLittleLies_D45.JPG
+

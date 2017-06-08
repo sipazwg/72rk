@@ -1,0 +1,1038 @@
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10854 acepix    5wW  REG    8,2   199472 9044284 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z101.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11858 acepix    5wW  REG    8,2   890272 9044294 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z101.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z105.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12146 acepix    5wW  REG    8,2  1514424 9044298 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z105.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z115.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13100 acepix    5wW  REG    8,2    84816 9044309 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z115.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z118.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13385 acepix    5wW  REG    8,2   378936 9044312 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z118.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z120.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13671 acepix    5wW  REG    8,2   973976 9044315 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z120.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z121.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z124.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14195 acepix    5wW  REG    8,2   431520 9044320 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z124.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z127.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14451 acepix    5wW  REG    8,2   861840 9044322 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z127.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z128.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14672 acepix    5wW  REG    8,2  1088928 9044323 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z128.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z14.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16080 acepix    5wW  REG    8,2    54404 9044336 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z14.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20014 acepix    5wW  REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20192 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20014 acepix    5wW  REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20192 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20014 acepix    5wW  REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20192 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20502 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20565 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20014 acepix    5wW  REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20192 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20502 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20565 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20691 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20014 acepix    5wW  REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20192 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20502 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20565 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20691 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20752 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  20931 acepix    5w   REG    8,2    56902 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25067 acepix    5w   REG    8,2  1090296 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  25797 acepix    5w   REG    8,2  1090296 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  26216 acepix    5w   REG    8,2  1090296 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  26341 acepix    5wW  REG    8,2  1090296 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25797 acepix    5w   REG    8,2   171000 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+vsftpd  26752 acepix    5wW  REG    8,2   171000 9044338 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26959 acepix    5wW  REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26959 acepix    5wW  REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27169 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27282 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26959 acepix    5wW  REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27169 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27282 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27407 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27468 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26959 acepix    5wW  REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27169 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27282 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27407 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27468 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27594 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27656 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26959 acepix    5wW  REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27169 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27282 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27407 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27468 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27594 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27656 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+vsftpd  27784 acepix    5w   REG    8,2  1158056 9044340 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z142.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z15.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28855 acepix    5wW  REG    8,2  1813248 9044348 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z15.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z153.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29205 acepix    5wW  REG    8,2  1021454 9044352 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z153.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z166.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30267 acepix    5wW  REG    8,2  1337736 9044366 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z166.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30564 acepix    5wW  REG    8,2    76608 9044370 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30564 acepix    5wW  REG    8,2  1623690 9044370 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z170.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31216 acepix    5wW  REG    8,2  1540368 9044372 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z170.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z17.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z171.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31403 acepix    5wW  REG    8,2  1507536 9044370 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z171.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z172.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31631 acepix    5wW  REG    8,2  1838592 9044373 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z172.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z18.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32142 acepix    5wW  REG    8,2   134064 9044376 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z18.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z19.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32351 acepix    5wW  REG    8,2   502926 9044377 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z19.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z20.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32561 acepix    5wW  REG    8,2   540360 9044378 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z20.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32770 acepix    5wW  REG    8,2  1268136 9044379 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z22.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32925 acepix    5wW  REG    8,2  1649384 9044380 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z22.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z23.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33375 acepix    5wW  REG    8,2   839952 9044381 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z23.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z24.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33585 acepix    5wW  REG    8,2  1000008 9044382 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z24.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z25.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33740 acepix    5wW  REG    8,2  1564873 9044383 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z25.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z27.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34112 acepix    5wW  REG    8,2   579520 9044385 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z27.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z27.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34607 acepix    5wW  REG    8,2  1922744 9044386 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z27.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z27.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z29.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34847 acepix    5wW  REG    8,2   437120 9044388 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z29.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z30.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35063 acepix    5wW  REG    8,2  1438712 9044385 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z30.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z33.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35521 acepix    5wW  REG    8,2   463752 9044391 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z33.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z34.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35729 acepix    5wW  REG    8,2   135432 9044392 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z34.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z35.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35938 acepix    5wW  REG    8,2   788824 9044393 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z35.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z36.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36164 acepix    5wW  REG    8,2  1377064 9044394 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z39.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36387 acepix    5wW  REG    8,2   857096 9044397 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z39.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z42.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36676 acepix    5wW  REG    8,2  1316232 9044400 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z42.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z45.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36963 acepix    5wW  REG    8,2    83448 9044403 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z45.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z48.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37251 acepix    5wW  REG    8,2  1110816 9044406 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z48.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z50.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37747 acepix    5wW  REG    8,2  1830384 9044408 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z50.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z53.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38198 acepix    5wW  REG    8,2    75240 9044411 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z53.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38353 acepix    5wW  REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38353 acepix    5wW  REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38562 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38622 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38353 acepix    5wW  REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38562 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38622 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38749 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38814 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38353 acepix    5wW  REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38562 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38622 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38749 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38814 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38944 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39005 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38353 acepix    5wW  REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38562 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38622 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38749 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38814 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  38944 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39005 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39130 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39185 acepix    5w   REG    8,2   761936 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38814 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39376 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41136 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41748 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41869 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41928 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42051 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42111 acepix    5w   REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42232 acepix    5wW  REG    8,2  1014297 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38814 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39376 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41136 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41748 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41928 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42051 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42111 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42582 acepix    5wW  REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38814 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39376 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41136 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41748 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41928 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42051 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42111 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42582 acepix    5wW  REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42818 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38814 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39376 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41136 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41748 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41928 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42051 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42111 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42582 acepix    5wW  REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42818 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42824 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43012 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38814 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39376 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41136 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41748 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41928 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42051 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42111 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42582 acepix    5wW  REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42818 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42824 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43012 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43135 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43206 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38814 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  39376 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41136 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41748 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  41928 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42051 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42111 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42582 acepix    5wW  REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42818 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  42824 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43012 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43135 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43206 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43643 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  43715 acepix    5w   REG    8,2  1188536 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1455 acepix    5w   REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2395 acepix    5w   REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2748 acepix    5wW  REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2  1054408 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1455 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2395 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2748 acepix    5wW  REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2987 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1455 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2395 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2748 acepix    5wW  REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2987 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3113 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1455 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2395 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2748 acepix    5wW  REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2987 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3113 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3305 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1455 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2395 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2748 acepix    5wW  REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   2987 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3113 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3305 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3520 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3579 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2  1107760 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3520 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3585 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3779 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4054 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4868 acepix    5wW  REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2     6840 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3520 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3585 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3779 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4054 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4868 acepix    5wW  REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5044 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3520 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3585 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3779 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4054 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4868 acepix    5wW  REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5044 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5170 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3520 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3585 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3779 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4054 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4868 acepix    5wW  REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5044 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5170 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5240 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5397 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1020 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1081 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1657 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3173 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3520 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3585 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   3779 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4054 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4868 acepix    5wW  REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5044 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5170 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5240 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5397 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5666 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   5739 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  47775 acepix    5w   REG    8,2    12312 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   1849 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   6627 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   9534 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   9737 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11569 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11749 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11755 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11998 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  12121 acepix    5w   REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  12657 acepix    5wW  REG    8,2  1670632 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   6627 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   9534 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   9737 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11569 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11749 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11755 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11998 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  12121 acepix    5w   REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  12950 acepix    5wW  REG    8,2   593712 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11755 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  13775 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14150 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14334 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14515 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14636 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14695 acepix    5wW  REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11755 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  13775 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14150 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14334 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14515 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14636 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14695 acepix    5wW  REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14987 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15051 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15057 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11755 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  13775 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14150 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14334 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14515 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14636 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14695 acepix    5wW  REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14987 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15051 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15057 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15182 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15243 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11755 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  13775 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14150 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14334 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14515 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14636 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14695 acepix    5wW  REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14987 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15051 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15057 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15182 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15243 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15367 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   4536 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  11755 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  13775 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14150 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14334 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14515 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14636 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14695 acepix    5wW  REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14987 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15051 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15057 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15182 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15243 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15367 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15551 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15610 acepix    5w   REG    8,2   279072 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  13775 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14636 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14987 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15057 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15182 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15243 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15610 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15980 acepix    5w   REG    8,2   346104 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16349 acepix    5w   REG    8,2   351576 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16533 acepix    5w   REG    8,2   351576 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16714 acepix    5w   REG    8,2   351576 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16835 acepix    5w   REG    8,2   351576 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16894 acepix    5w   REG    8,2   351576 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  17016 acepix    5wW  REG    8,2   351576 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1657 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd   8453 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  13775 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14636 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  14987 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15057 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15182 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15243 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15610 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  15980 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16349 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16533 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16714 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16835 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  16894 acepix    5w   REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  17016 acepix    5wW  REG    8,2   896040 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15243 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  17612 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  19259 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  19993 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  20531 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  20709 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  21640 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  21959 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  22184 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  22305 acepix    5w   REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  22375 acepix    5wW  REG    8,2  1366592 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15243 acepix    5w   REG    8,2    58824 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  17612 acepix    5w   REG    8,2    58824 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  19259 acepix    5w   REG    8,2    58824 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  19993 acepix    5w   REG    8,2    58824 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  20531 acepix    5w   REG    8,2    58824 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  20709 acepix    5w   REG    8,2    58824 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  21640 acepix    5w   REG    8,2    58824 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  22184 acepix    5w   REG    8,2    67032 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  22305 acepix    5w   REG    8,2    67032 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+vsftpd  22555 acepix    5wW  REG    8,2    67032 9044412 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z55.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22734 acepix    5wW  REG    8,2  1939824 9044413 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z55.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z57.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23085 acepix    5wW  REG    8,2    13680 9044415 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z57.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z57.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23521 acepix    5wW  REG    8,2   975384 9044416 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z57.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z57.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z58.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23645 acepix    5wW  REG    8,2   846959 9044417 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z58.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z59.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23885 acepix    5wW  REG    8,2  1237387 9044415 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z59.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z60.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24093 acepix    5wW  REG    8,2   513654 9044418 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z60.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z61.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24300 acepix    5wW  REG    8,2   220248 9044419 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z61.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z63.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24716 acepix    5wW  REG    8,2    34200 9044421 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z63.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z64.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25068 acepix    5wW  REG    8,2  1959978 9044422 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z64.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z66.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25309 acepix    5wW  REG    8,2   320112 9044424 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z66.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z66.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25309 acepix    5wW  REG    8,2  1545840 9044424 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z66.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z67.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25718 acepix    5wW  REG    8,2   716464 9044425 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z67.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z68.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25948 acepix    5wW  REG    8,2    15048 9044426 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z68.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z68.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25948 acepix    5wW  REG    8,2  1921468 9044426 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z68.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z69.jpg--- is bed
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z70.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26331 acepix    5wW  REG    8,2    39672 9044428 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z70.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z72.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26546 acepix    5wW  REG    8,2    86184 9044430 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z72.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z72.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z73.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26993 acepix    5wW  REG    8,2    19152 9044432 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z73.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z74.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27173 acepix    5wW  REG    8,2  1593720 9044430 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z74.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z76.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27387 acepix    5wW  REG    8,2  1518056 9044434 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z76.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z79.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27637 acepix    5wW  REG    8,2   229568 9044437 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z79.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z82.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27919 acepix    5wW  REG    8,2   370472 9044440 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z82.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z90.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28726 acepix    5wW  REG    8,2  1983331 9044448 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z90.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z94.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29064 acepix    5wW  REG    8,2   626158 9044452 /data/www/ftpdir/acepix/ACEPIXS_Oscars1_022617/022617_Oscars1_Z94.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29731 acepix    5wW  REG    8,2   270608 9044459 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K001.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K009.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30355 acepix    5wW  REG    8,2   796176 9044467 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K009.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K013.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30682 acepix    5wW  REG    8,2  1472440 9044471 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K013.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K017.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31150 acepix    5wW  REG    8,2   692197 9044475 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K017.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K021.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31480 acepix    5wW  REG    8,2  1388008 9044478 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K021.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K026.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31773 acepix    5wW  REG    8,2   725000 9044483 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K026.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K027.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32115 acepix    5wW  REG    8,2  1807128 9044485 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K027.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K032.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32371 acepix    5wW  REG    8,2   715552 9044489 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K032.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K039.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33034 acepix    5wW  REG    8,2  1102696 9044497 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K039.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K054.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34070 acepix    5wW  REG    8,2  1871168 9044510 /data/www/ftpdir/acepix/ACEPIXS_VistoriasSecret_K022817/022817_VictoriasSecret_K054.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Karlie_022817/022817_Karlie_Z02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34365 acepix    5wW  REG    8,2  1546696 9044515 /data/www/ftpdir/acepix/ACEPIXS_Karlie_022817/022817_Karlie_Z02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_JenniferBeals_K022817/022817_JenniferBeals__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36612 acepix    5wW  REG    8,2   656640 9044539 /data/www/ftpdir/acepix/ACEPIXS_JenniferBeals_K022817/022817_JenniferBeals__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38805 acepix    5wW  REG    8,2    19152 9044568 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39079 acepix    5wW  REG    8,2   303440 9044569 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F112.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39298 acepix    5wW  REG    8,2  1503352 9044572 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F112.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F127.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40532 acepix    5wW  REG    8,2   797544 9044588 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F127.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F156.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43351 acepix    5wW  REG    8,2   717944 9044620 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F156.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F204.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47161 acepix    5wW  REG    8,2  1170200 9044673 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F204.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F213.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47841 acepix    5wW  REG    8,2   600768 9044683 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F213.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F224.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48896 acepix    5wW  REG    8,2   655488 9044695 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F224.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F231.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F236.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1026 acepix    5wW  REG    8,2   303696 9044709 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F236.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F238.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1336 acepix    5wW  REG    8,2   882576 9044710 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F238.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F24.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1596 acepix    5wW  REG    8,2   744192 9044712 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F24.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F251.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2568 acepix    5wW  REG    8,2   633384 9044724 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F251.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F278.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4868 acepix    5wW  REG    8,2  1104704 9044753 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F278.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F280.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5154 acepix    5wW  REG    8,2   875008 9044756 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F280.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F282.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5446 acepix    5wW  REG    8,2   980856 9044759 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F282.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F285.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5763 acepix    5wW  REG    8,2   592344 9044762 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F285.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F287.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6056 acepix    5wW  REG    8,2   715808 9044764 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F287.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F37.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7024 acepix    5wW  REG    8,2  1583808 9044773 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F44.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7628 acepix    5wW  REG    8,2   136800 9044780 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F44.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F46.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7905 acepix    5wW  REG    8,2  1138520 9044782 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F46.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F48.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8196 acepix    5wW  REG    8,2  1222096 9044784 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F48.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F63.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9198 acepix    5wW  REG    8,2   461872 9044799 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F63.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F67.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9549 acepix    5wW  REG    8,2   920240 9044803 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F67.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F72.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9880 acepix    5wW  REG    8,2   658992 9044808 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F72.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F74.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10219 acepix    5wW  REG    8,2   798875 9044810 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F74.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F78.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10477 acepix    5wW  REG    8,2     8208 9044814 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F78.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F81.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10799 acepix    5wW  REG    8,2  1238984 9044817 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F81.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F86.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11092 acepix    5wW  REG    8,2   664848 9044822 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F86.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F91.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11446 acepix    5wW  REG    8,2  1534688 9044827 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F91.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F98.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12141 acepix    5wW  REG    8,2   961192 9044834 /data/www/ftpdir/acepix/ACEPIXS_VanityFair_022817/022817_VanityFair_F98.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16734 acepix    5wW  REG    8,2  2267888 9044837 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16968 acepix    5wW  REG    8,2  1537917 9044839 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17155 acepix    5wW  REG    8,2  2689488 9044840 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F05.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17424 acepix    5wW  REG    8,2  1690592 9044842 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F06.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17612 acepix    5wW  REG    8,2  1566007 9044843 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17877 acepix    5wW  REG    8,2     4104 9044845 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18121 acepix    5wW  REG    8,2   548056 9044846 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18276 acepix    5wW  REG    8,2  1943584 9044847 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F14.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18851 acepix    5wW  REG    8,2   191214 9044850 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F14.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F15.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19057 acepix    5wW  REG    8,2   979104 9044851 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F15.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F16.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19210 acepix    5wW  REG    8,2  2482556 9044852 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F16.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F19.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19722 acepix    5wW  REG    8,2  2927992 9044855 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F19.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19935 acepix    5wW  REG    8,2   303184 9044857 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F22.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20450 acepix    5wW  REG    8,2  1984353 9044859 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F22.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F22.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F23.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20631 acepix    5wW  REG    8,2  1458032 9044861 /data/www/ftpdir/acepix/ACEPIXS_KongPrem_022817/022817_Kong_F23.jpg
+

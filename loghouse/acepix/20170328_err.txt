@@ -1,0 +1,16 @@
+/data/www/ftpdir/acepix/ACEPIXS_LifeItself_032717/032717_LifeItselfSet_Z02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27716 acepix    5wW  REG    8,2  1471416 10223845 /data/www/ftpdir/acepix/ACEPIXS_LifeItself_032717/032717_LifeItselfSet_Z02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BilldeBlasio_032717/032717_BilldeBlasio_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39329 acepix    5wW  REG    8,2   900104 10223872 /data/www/ftpdir/acepix/ACEPIXS_BilldeBlasio_032717/032717_BilldeBlasio_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_KellyBensimon_032717/032717_KSBensimon_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42242 acepix    5wW  REG    8,2  1403744 10223882 /data/www/ftpdir/acepix/ACEPIXS_KellyBensimon_032717/032717_KSBensimon_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032817/032717_MiamiOpen_S07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20731 acepix    5wW  REG    8,2  2473858 10223963 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032817/032717_MiamiOpen_S07.JPG
+

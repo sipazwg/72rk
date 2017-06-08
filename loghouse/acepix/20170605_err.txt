@@ -1,0 +1,4 @@
+/data/www/ftpdir/acepix/ACEPIXS_Holt_0060517/060517_Holt_C03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  9524 acepix    5wW  REG    8,2   309168 14024708 /data/www/ftpdir/acepix/ACEPIXS_Holt_0060517/060517_Holt_C03.JPG
+

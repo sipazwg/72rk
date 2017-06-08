@@ -1,0 +1,61 @@
+/data/www/ftpdir/acepix/ACEPIXS_Wahlberg1_121316/121316_Wahlberg1_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10849 acepix    5wW  REG    8,2  1164000 6029358 /data/www/ftpdir/acepix/ACEPIXS_Wahlberg1_121316/121316_Wahlberg1_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Wahlberg1_121316/121316_Wahlberg1_C06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11001 acepix    5wW  REG    8,2  2519096 6029363 /data/www/ftpdir/acepix/ACEPIXS_Wahlberg1_121316/121316_Wahlberg1_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AssassinsCreed_K121316/121316_AssassinsCreed_K011.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17742 acepix    5wW  REG    8,2  1123620 6029379 /data/www/ftpdir/acepix/ACEPIXS_AssassinsCreed_K121316/121316_AssassinsCreed_K011.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AssassinsCreed_K121316/121316_AssassinsCreed_K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18993 acepix    5wW  REG    8,2   798912 6029404 /data/www/ftpdir/acepix/ACEPIXS_AssassinsCreed_K121316/121316_AssassinsCreed_K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AssassinsCreed_K121316/121316_AssassinsCreed_K052.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19745 acepix    5wW  REG    8,2  1572392 6029419 /data/www/ftpdir/acepix/ACEPIXS_AssassinsCreed_K121316/121316_AssassinsCreed_K052.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44103 acepix    5wW  REG    8,2  1432296 6029430 /data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44744 acepix    5wW  REG    8,2   629280 6029436 /data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45118 acepix    5wW  REG    8,2   624920 6029439 /data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N13.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45306 acepix    5wW  REG    8,2   262530 6029441 /data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N13.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N15.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45467 acepix    5wW  REG    8,2   886464 6029443 /data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N15.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N15.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  45693 acepix    5wW  REG    8,2  2069962 6029444 /data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N15.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Assassins1_121316/121316_Assassins1_N15.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46798 acepix    5wW  REG    8,2   514127 6029445 /data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46869 acepix    5wW  REG    8,2   584136 6029446 /data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46971 acepix    5wW  REG    8,2  1711875 6029447 /data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47073 acepix    5wW  REG    8,2  3064474 6029448 /data/www/ftpdir/acepix/ACEPIXS_Thicke_121316/121316_ThickeFile_05.JPG
+

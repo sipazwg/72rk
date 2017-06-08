@@ -1,0 +1,9 @@
+/data/www/ftpdir/cordonpress/SCM_7194.jpg--- have been enter
+/data/www/ftpdir/cordonpress/LPA10062.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     11250 root    3w   REG    8,2  4276224 5527238 /data/www/ftpdir/cordonpress/LPA10062.jpg
+
+/data/www/ftpdir/cordonpress/LPA10360.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     12079 root    3w   REG    8,2  1654784 5527250 /data/www/ftpdir/cordonpress/LPA10360.jpg
+

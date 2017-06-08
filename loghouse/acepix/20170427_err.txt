@@ -1,0 +1,210 @@
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D36.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24265 acepix    5wW  REG    8,2    15048 11928275 /data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Handmaids_042517/042517_Handmaids_D76.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_TheCircle_042617/042617_TheCircle_K026.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_TheCircle_042617/042617_TheCircle_K030.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18502 acepix    5wW  REG    8,2   960936 12058653 /data/www/ftpdir/acepix/ACEPIXS_TheCircle_042617/042617_TheCircle_K030.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TheCircle_042617/042617_TheCircle_K046.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19345 acepix    5wW  REG    8,2   441864 12058668 /data/www/ftpdir/acepix/ACEPIXS_TheCircle_042617/042617_TheCircle_K046.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29828 acepix    5wW  REG    8,2   343368 12058850 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z109.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30401 acepix    5wW  REG    8,2  1467410 12058861 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z109.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30867 acepix    5wW  REG    8,2  1065160 12058867 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31039 acepix    5wW  REG    8,2   797544 12058869 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z21.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31208 acepix    5wW  REG    8,2  1560888 12058871 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  31898 acepix    5wW  REG    8,2   932976 12058883 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z37.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32659 acepix    5wW  REG    8,2  2002070 12058888 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z44.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34343 acepix    5wW  REG    8,2   918456 12058933 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z44.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z50.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34983 acepix    5wW  REG    8,2  2343354 12058939 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z50.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z53.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35366 acepix    5wW  REG    8,2  1262752 12058943 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z53.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z60.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36071 acepix    5wW  REG    8,2  1496080 12058949 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z60.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36426 acepix    5wW  REG    8,2  3222975 12058950 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z64.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36794 acepix    5wW  REG    8,2  2621440 12058953 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z64.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z65.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37100 acepix    5wW  REG    8,2  5009616 12058954 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z65.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z67.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37396 acepix    5wW  REG    8,2  4343544 12058956 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z67.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z68.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37539 acepix    5wW  REG    8,2  4864810 12058957 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z68.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z73.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37900 acepix    5wW  REG    8,2  1058192 12058962 /data/www/ftpdir/acepix/ACEPIXS_Lopez_042617/042617_Lopez_Z73.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Holmes_042617/042617_Holmes_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39257 acepix    5wW  REG    8,2  1220728 12058992 /data/www/ftpdir/acepix/ACEPIXS_Holmes_042617/042617_Holmes_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Holmes_042617/042617_Holmes_C09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39559 acepix    5wW  REG    8,2  2558248 12058996 /data/www/ftpdir/acepix/ACEPIXS_Holmes_042617/042617_Holmes_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Holmes_042617/042617_Holmes_C21.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40069 acepix    5wW  REG    8,2  1530792 12059006 /data/www/ftpdir/acepix/ACEPIXS_Holmes_042617/042617_Holmes_C21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46112 acepix    5wW  REG    8,2  2361856 12059112 /data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46952 acepix    5wW  REG    8,2  1613791 12059124 /data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47366 acepix    5wW  REG    8,2   984884 12059132 /data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z42.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48115 acepix    5wW  REG    8,2  2644696 12059144 /data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z42.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z49.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48636 acepix    5wW  REG    8,2   809856 12059151 /data/www/ftpdir/acepix/ACEPIXS_Ratajkowski2_042617/042617_Ratajkowsk2_Z49.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D04.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D07.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29497 acepix    5wW  REG    8,2   772408 12059281 /data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D57.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30694 acepix    5wW  REG    8,2   497952 12059305 /data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D57.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D82.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32458 acepix    5wW  REG    8,2   409995 12059330 /data/www/ftpdir/acepix/ACEPIXS_LatinLover_042617/042617_LatinLover_D82.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Circle2_042617/042617_Circle_N02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32885 acepix    5wW  REG    8,2   510736 12059333 /data/www/ftpdir/acepix/ACEPIXS_Circle2_042617/042617_Circle_N02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Circle2_042617/042617_Circle_N09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33611 acepix    5wW  REG    8,2   744192 12059341 /data/www/ftpdir/acepix/ACEPIXS_Circle2_042617/042617_Circle_N09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Circle2_042617/042617_Circle_N14.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33983 acepix    5wW  REG    8,2    28728 12059346 /data/www/ftpdir/acepix/ACEPIXS_Circle2_042617/042617_Circle_N14.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36226 acepix    5wW  REG    8,2   464736 12059355 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36571 acepix    5wW  REG    8,2  1061056 12059359 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36746 acepix    5wW  REG    8,2  1455040 12059361 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37067 acepix    5wW  REG    8,2  2508528 12059364 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37518 acepix    5wW  REG    8,2  1224792 12059370 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38348 acepix    5wW  REG    8,2   596193 12059380 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38348 acepix    5wW  REG    8,2   596193 12059380 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38348 acepix    5wW  REG    8,2   596193 12059380 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38348 acepix    5wW  REG    8,2   596193 12059380 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38348 acepix    5wW  REG    8,2   596193 12059380 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG
+vsftpd  39140 acepix    5w   REG    8,2   596193 12059380 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39736 acepix    5wW  REG    8,2  2704146 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39736 acepix    5wW  REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39736 acepix    5wW  REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39736 acepix    5wW  REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+vsftpd  40124 acepix    5w   REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+vsftpd  40152 acepix    5w   REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39736 acepix    5wW  REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+vsftpd  40124 acepix    5w   REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+vsftpd  40152 acepix    5w   REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+vsftpd  40236 acepix    5w   REG    8,2  3384042 12059384 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41303 acepix    5wW  REG    8,2  1983277 12059385 /data/www/ftpdir/acepix/ACEPIXS_WWHL_042617/042617_WWHL_C33.JPG
+

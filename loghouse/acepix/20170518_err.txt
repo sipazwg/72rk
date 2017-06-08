@@ -1,0 +1,32 @@
+/data/www/ftpdir/acepix/ACEPIXS_CBSUpfront_K051717_113/051717_CBSUpfront_K090.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4747 acepix    5wW  REG    8,2  1377576 13500958 /data/www/ftpdir/acepix/ACEPIXS_CBSUpfront_K051717_113/051717_CBSUpfront_K090.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26867 acepix    5wW  REG    8,2   819432 13631494 /data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_05.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27220 acepix    5wW  REG    8,2   739438 13631498 /data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30901 acepix    5wW  REG    8,2  1239087 13631505 /data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_25.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35191 acepix    5wW  REG    8,2   630648 13631513 /data/www/ftpdir/acepix/ACEPIXS_CannesGala_051717_25/051717_CannesGala_FMC_25.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_CannesJury_051717_11/051717_JuryPhotocall_FMC_01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41973 acepix    5wW  REG    8,2   336528 13631516 /data/www/ftpdir/acepix/ACEPIXS_CannesJury_051717_11/051717_JuryPhotocall_FMC_01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_CannesJury_051717_11/051717_JuryPhotocall_FMC_07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47189 acepix    5wW  REG    8,2    28728 13631522 /data/www/ftpdir/acepix/ACEPIXS_CannesJury_051717_11/051717_JuryPhotocall_FMC_07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_IsmaelsGhosts_051717_14/051717_Ismael-sGhosts_FMC_02.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6330 acepix    5wW  REG    8,2    34200 13631529 /data/www/ftpdir/acepix/ACEPIXS_IsmaelsGhosts_051717_14/051717_Ismael-sGhosts_FMC_02.jpg
+

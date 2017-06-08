@@ -1,0 +1,44 @@
+/data/www/ftpdir/cordonpress/DiegoPuerta_14.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     45812 root    3w   REG    8,2  2015232 5517383 /data/www/ftpdir/cordonpress/DiegoPuerta_14.jpg
+
+/data/www/ftpdir/cordonpress/PACO_SUAREZ_03.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     7032 root    3w   REG    8,2   540672 5517136 /data/www/ftpdir/cordonpress/PACO_SUAREZ_03.jpg
+
+/data/www/ftpdir/cordonpress/PACO_SUAREZ_36.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9093 root    3w   REG    8,2  2211840 5517632 /data/www/ftpdir/cordonpress/PACO_SUAREZ_36.jpg
+
+/data/www/ftpdir/cordonpress/PACO_SUAREZ_37.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9555 root    3w   REG    8,2  1392640 5517640 /data/www/ftpdir/cordonpress/PACO_SUAREZ_37.jpg
+
+/data/www/ftpdir/cordonpress/PACO_SUAREZ_46.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9927 root    3w   REG    8,2  1490944 5517644 /data/www/ftpdir/cordonpress/PACO_SUAREZ_46.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_01.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_02.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_03.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_04.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_05.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_06.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_07.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_08.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_09.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_10.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_11.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_12.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_13.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_14.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     11194 root    3w   REG    8,2  1949696 5517385 /data/www/ftpdir/cordonpress/DiegoPuerta_14.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_16.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_17.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_14.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_15.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_18.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_19.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DiegoPuerta_20.jpg--- have been enter

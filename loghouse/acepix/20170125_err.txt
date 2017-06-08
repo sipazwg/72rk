@@ -1,0 +1,156 @@
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D120.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8058 acepix    5wW  REG    8,2   517104 7471248 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D120.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D124.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8643 acepix    5wW  REG    8,2   350208 7471252 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D124.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8787 acepix    5wW  REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8787 acepix    5wW  REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9021 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9085 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8787 acepix    5wW  REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9021 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9085 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9200 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9291 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8787 acepix    5wW  REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9021 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9085 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9200 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9291 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9406 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8787 acepix    5wW  REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9021 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9085 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9200 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9291 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9406 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9569 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+vsftpd  9637 acepix    5w   REG    8,2   607392 7471253 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D125.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12228 acepix    5wW  REG    8,2   618080 7471258 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D132.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12504 acepix    5wW  REG    8,2   679467 7471261 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D132.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D140.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13392 acepix    5wW  REG    8,2   391096 7471270 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D140.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D142.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13662 acepix    5wW  REG    8,2   627675 7471272 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D142.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13902 acepix    5wW  REG    8,2   329169 7471275 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D19.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D26.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14945 acepix    5wW  REG    8,2   612608 7471284 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15227 acepix    5wW  REG    8,2   346053 7471288 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15536 acepix    5wW  REG    8,2   841761 7471291 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D36.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15810 acepix    5wW  REG    8,2   906693 7471294 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D39.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16119 acepix    5wW  REG    8,2    31464 7471297 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D39.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D40.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16327 acepix    5wW  REG    8,2   952128 7471298 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D45.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16900 acepix    5wW  REG    8,2   716682 7471303 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D48.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17174 acepix    5wW  REG    8,2   537240 7471306 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D48.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D51.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17448 acepix    5wW  REG    8,2   484272 7471309 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D54.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17755 acepix    5wW  REG    8,2   415311 7471312 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D54.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D58.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18037 acepix    5wW  REG    8,2   363632 7471316 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D58.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D61.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18662 acepix    5wW  REG    8,2   250344 7471321 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D74.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19592 acepix    5wW  REG    8,2   863217 7471332 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D74.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D81.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20194 acepix    5wW  REG    8,2   545832 7471339 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D81.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D89.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20774 acepix    5wW  REG    8,2   432288 7471347 /data/www/ftpdir/acepix/ACEPIXS_ResidentEvil_012317/012317_ResidentEvil_D89.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2515 acepix    5wW  REG    8,2  1624928 7471358 /data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z06.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2731 acepix    5wW  REG    8,2  1369701 7471362 /data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z11.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3044 acepix    5wW  REG    8,2  2211208 7471366 /data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z15.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3352 acepix    5wW  REG    8,2  2261952 7471370 /data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z17.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3653 acepix    5wW  REG    8,2  1747852 7471373 /data/www/ftpdir/acepix/ACEPIXS_OceansEight_012417/012417_OceansEight_Z17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MadisynShipman_K012417/012417_MadisynShipman_K003.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6854 acepix    5wW  REG    8,2   808704 7471391 /data/www/ftpdir/acepix/ACEPIXS_MadisynShipman_K012417/012417_MadisynShipman_K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MadisynShipman_K012417/012417_MadisynShipman_K009.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7111 acepix    5wW  REG    8,2   726094 7471397 /data/www/ftpdir/acepix/ACEPIXS_MadisynShipman_K012417/012417_MadisynShipman_K009.JPG
+

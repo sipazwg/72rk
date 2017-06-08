@@ -1,0 +1,39 @@
+/data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP63.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48847 acepix    5wW  REG    8,2   840436 13893696 /data/www/ftpdir/acepix/ACEPIXS_Beguiled_052417/052417_Beguiled_FBP63.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP02.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1722 acepix    5wW  REG    8,2   653060 13893702 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP06.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3503 acepix    5wW  REG    8,2  1380312 13893706 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP11.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6077 acepix    5wW  REG    8,2  1136489 13893711 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP12.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP15.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12492 acepix    5wW  REG    8,2  1120526 13893716 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP15.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP18.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP19.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18308 acepix    5wW  REG    8,2   851878 13893720 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP19.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP22.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20752 acepix    5wW  REG    8,2   548312 13893722 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP22.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP28.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26075 acepix    5wW  REG    8,2  1119368 13893728 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP28.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34531 acepix    5wW  REG    8,2  1583888 13893741 /data/www/ftpdir/acepix/ACEPIXS_GNTM_052517/052517_GNTM_FBP41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GermanMedia_052517/052517_GermanMedia_FBP26.jpg--- have been enter

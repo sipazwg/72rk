@@ -1,0 +1,373 @@
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24332 acepix    5w   REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24860 acepix    5w   REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25377 acepix    5w   REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25436 acepix    5w   REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25442 acepix    5w   REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25563 acepix    5w   REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25625 acepix    5w   REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25742 acepix    5wW  REG    8,2   333792 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24332 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24860 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25377 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25436 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25442 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25563 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25625 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25742 acepix    5wW  REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24332 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24860 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25377 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25436 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25442 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25563 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25625 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25742 acepix    5wW  REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25995 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26117 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24332 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24860 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25377 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25436 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25442 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25563 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25625 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25742 acepix    5wW  REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25995 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26117 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26180 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26301 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24332 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24860 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25377 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25436 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25442 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25563 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25625 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25742 acepix    5wW  REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  25995 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26117 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26180 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26301 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26480 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  26487 acepix    5w   REG    8,2   778392 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35900 acepix    5wW  REG    8,2    95760 9437190 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EdSheeran_K030817/030817_EdSheeranNBC__K019.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38177 acepix    5wW  REG    8,2   627720 9437212 /data/www/ftpdir/acepix/ACEPIXS_EdSheeran_K030817/030817_EdSheeranNBC__K019.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_EdSheeran_K030817/030817_EdSheeranNBC__K046.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41032 acepix    5wW  REG    8,2  1045975 9437239 /data/www/ftpdir/acepix/ACEPIXS_EdSheeran_K030817/030817_EdSheeranNBC__K046.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_030817/030817_Aol_C10.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2495 acepix    5wW  REG    8,2  2483656 9437249 /data/www/ftpdir/acepix/ACEPIXS_AOL_030817/030817_Aol_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_030817/030817_Aol_C24.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3408 acepix    5wW  REG    8,2   520952 9437260 /data/www/ftpdir/acepix/ACEPIXS_AOL_030817/030817_Aol_C24.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3963 acepix    5wW  REG    8,2  3492276 9437267 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C02.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4203 acepix    5wW  REG    8,2  3407272 9437268 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4410 acepix    5wW  REG    8,2  3890961 9437269 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C04.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4617 acepix    5wW  REG    8,2  4053952 9437270 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C05.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4771 acepix    5wW  REG    8,2  4339839 9437271 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C06.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5032 acepix    5wW  REG    8,2  3329456 9437272 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5236 acepix    5wW  REG    8,2  2169184 9437273 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C08.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5441 acepix    5wW  REG    8,2  2831768 9437274 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5675 acepix    5wW  REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5675 acepix    5wW  REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  5992 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5675 acepix    5wW  REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  5992 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  6175 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  6234 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5675 acepix    5wW  REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  5992 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  6175 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  6234 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5675 acepix    5wW  REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  5992 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  6175 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  6234 acepix    5w   REG    8,2 10215576 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   7475 acepix    5w   REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd   7655 acepix    5w   REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd   8305 acepix    5w   REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd   9058 acepix    5w   REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd   9482 acepix    5w   REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd   9822 acepix    5w   REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  10053 acepix    5w   REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+vsftpd  10178 acepix    5wW  REG    8,2  8559095 9437275 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10353 acepix    5wW  REG    8,2 11707282 9437276 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10591 acepix    5wW  REG    8,2  1326192 9437278 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10863 acepix    5wW  REG    8,2  1961376 9437279 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11014 acepix    5wW  REG    8,2  8664216 9437280 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11496 acepix    5wW  REG    8,2  5658414 9437284 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11758 acepix    5wW  REG    8,2  4011632 9437285 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C20.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11968 acepix    5wW  REG    8,2  1476691 9437286 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C20.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11968 acepix    5wW  REG    8,2 10807224 9437286 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C21.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12535 acepix    5wW  REG    8,2  4582416 9437287 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12792 acepix    5wW  REG    8,2  1421696 9437288 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12792 acepix    5wW  REG    8,2  9341108 9437288 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13167 acepix    5wW  REG    8,2  3055033 9437289 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13167 acepix    5wW  REG    8,2 10186820 9437289 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C24.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13665 acepix    5wW  REG    8,2  4640190 9437290 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C24.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13927 acepix    5wW  REG    8,2  1447344 9437291 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13927 acepix    5wW  REG    8,2 10854756 9437291 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C26.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14247 acepix    5wW  REG    8,2  9951848 9437292 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14453 acepix    5wW  REG    8,2  8271464 9437293 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C28.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14657 acepix    5wW  REG    8,2  4400520 9437294 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C28.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C29.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14917 acepix    5wW  REG    8,2   127224 9437295 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C29.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14917 acepix    5wW  REG    8,2  8219223 9437295 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15236 acepix    5wW  REG    8,2  6626552 9437296 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C31.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15510 acepix    5wW  REG    8,2  1603746 9437297 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C31.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15510 acepix    5wW  REG    8,2 11392640 9437297 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C31.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C32.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15829 acepix    5wW  REG    8,2  6765160 9437298 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16088 acepix    5wW  REG    8,2  1636600 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16088 acepix    5wW  REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16088 acepix    5wW  REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16406 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16466 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16088 acepix    5wW  REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16406 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16466 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16588 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16647 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16088 acepix    5wW  REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16406 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16466 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16588 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16647 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  16767 acepix    5w   REG    8,2  5132743 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17359 acepix    5w   REG    8,2  1003856 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  17703 acepix    5w   REG    8,2  1003856 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18131 acepix    5w   REG    8,2  1003856 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18235 acepix    5w   REG    8,2  1003856 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18352 acepix    5w   REG    8,2  1003856 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18411 acepix    5wW  REG    8,2  1003856 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17359 acepix    5w   REG    8,2  8169999 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  17703 acepix    5w   REG    8,2  8169999 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18131 acepix    5w   REG    8,2  8169999 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18235 acepix    5w   REG    8,2  8169999 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18352 acepix    5w   REG    8,2  8169999 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+vsftpd  18411 acepix    5wW  REG    8,2  8169999 9437299 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18759 acepix    5wW  REG    8,2   508640 9437300 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C33.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18759 acepix    5wW  REG    8,2  7689058 9437300 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C35.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19100 acepix    5wW  REG    8,2  3512512 9437301 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C36.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19304 acepix    5wW  REG    8,2  1329505 9437302 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C36.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19304 acepix    5wW  REG    8,2  8767116 9437302 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C37.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19678 acepix    5wW  REG    8,2  2314272 9437303 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20018 acepix    5wW  REG    8,2  9360265 9437304 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C39.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20204 acepix    5wW  REG    8,2  6856973 9437305 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C39.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C40.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20463 acepix    5wW  REG    8,2  3078111 9437306 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C42.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20675 acepix    5wW  REG    8,2   425448 9437308 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C42.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C42.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20675 acepix    5wW  REG    8,2  9944240 9437308 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C42.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21027 acepix    5wW  REG    8,2  4964741 9437309 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21027 acepix    5wW  REG    8,2 13610048 9437309 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C44.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21414 acepix    5wW  REG    8,2  5242492 9437310 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C44.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C45.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21810 acepix    5wW  REG    8,2  7373419 9437311 /data/www/ftpdir/acepix/ACEPIXS_WomansDay_030817/030817_WomanDay_C45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TimeLives_030817/030817_TimeLives_F03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21536 acepix    5wW  REG    8,2   265392 9437315 /data/www/ftpdir/acepix/ACEPIXS_TimeLives_030817/030817_TimeLives_F03.jpg
+

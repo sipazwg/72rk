@@ -1,0 +1,21 @@
+/data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19491 acepix    5wW  REG    8,2   500688 13893780 /data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20628 acepix    5wW  REG    8,2   168264 13893781 /data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27803 acepix    5wW  REG    8,2  1869800 13893794 /data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C15.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29925 acepix    5wW  REG    8,2  1766088 13893796 /data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32220 acepix    5wW  REG    8,2   999496 13893796 /data/www/ftpdir/acepix/ACEPIXS_RobertDowneyJr_053017/053017_RobertDowneyJr_C17.JPG
+

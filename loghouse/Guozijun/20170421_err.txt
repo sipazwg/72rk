@@ -1,0 +1,12 @@
+/data/www/ftpdir/Guozijun/网影盛典/XB5A3633.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40297 Guozijun    5wW  REG    8,2   901140 11535094 /data/www/ftpdir/Guozijun/网影盛典/XB5A3633.JPG
+
+/data/www/ftpdir/Guozijun/大师对话/XB5A3786.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33275 Guozijun    5wW  REG    8,2   191820 11665443 /data/www/ftpdir/Guozijun/大师对话/XB5A3786.JPG
+
+/data/www/ftpdir/Guozijun/大师对话/XB5A3787.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33276 Guozijun    5wW  REG    8,2  2569056 11665444 /data/www/ftpdir/Guozijun/大师对话/XB5A3787.JPG
+

@@ -1,0 +1,49 @@
+/data/www/ftpdir/acepix/ACEPIXS_Romani_020117/020117_Romani_S04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12114 acepix    5wW  REG    8,2   264880 7864390 /data/www/ftpdir/acepix/ACEPIXS_Romani_020117/020117_Romani_S04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Romani_020117/020117_Romani_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12394 acepix    5wW  REG    8,2  2173752 7864392 /data/www/ftpdir/acepix/ACEPIXS_Romani_020117/020117_Romani_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Romani_020117/020117_Romani_S09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12650 acepix    5wW  REG    8,2  1487016 7864395 /data/www/ftpdir/acepix/ACEPIXS_Romani_020117/020117_Romani_S09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Nicky_020117/020117_Nicky_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17275 acepix    5wW  REG    8,2  1041992 7864435 /data/www/ftpdir/acepix/ACEPIXS_Nicky_020117/020117_Nicky_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Nicky_020117/020117_Nicky_C06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17518 acepix    5wW  REG    8,2   196992 7864439 /data/www/ftpdir/acepix/ACEPIXS_Nicky_020117/020117_Nicky_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lindo_020117/020117_Lindo_C04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19026 acepix    5wW  REG    8,2    10944 7864448 /data/www/ftpdir/acepix/ACEPIXS_Lindo_020117/020117_Lindo_C04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31137 acepix    5wW  REG    8,2   256928 7864451 /data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32570 acepix    5wW  REG    8,2   655272 7864471 /data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D32.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33337 acepix    5wW  REG    8,2   533264 7864481 /data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D48.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34445 acepix    5wW  REG    8,2   531128 7864497 /data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D48.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D52.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D66.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35870 acepix    5wW  REG    8,2   823280 7864515 /data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D66.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D84.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37328 acepix    5wW  REG    8,2   581144 7864533 /data/www/ftpdir/acepix/ACEPIXS_SantaClarity_020117/020117_SantaClarity_D84.JPG
+

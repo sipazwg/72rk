@@ -1,0 +1,80 @@
+/data/www/ftpdir/acepix/ACEPIXS_Wilde_032617/3Z7A4213.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37713 acepix    5wW  REG    8,2  2201032 10223631 /data/www/ftpdir/acepix/ACEPIXS_Wilde_032617/3Z7A4213.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Wilde_032617/3Z7A4243.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38365 acepix    5wW  REG    8,2  5221120 10223638 /data/www/ftpdir/acepix/ACEPIXS_Wilde_032617/3Z7A4243.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48157 acepix    5wW  REG    8,2   485640 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48157 acepix    5wW  REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   1051 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1176 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd  48157 acepix    5wW  REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   1051 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1176 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1619 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1747 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd  48157 acepix    5wW  REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd   1051 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1176 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1619 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1747 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   1949 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd   2262 acepix    5w   REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+vsftpd  48157 acepix    5wW  REG    8,2   725040 10223666 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D42.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8162 acepix    5wW  REG    8,2  1150062 10223697 /data/www/ftpdir/acepix/ACEPIXS_Westworld_032517/032516_Westworld_D42.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Scandal_032617/032617_Scandal_D02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10791 acepix    5wW  REG    8,2   690584 10223720 /data/www/ftpdir/acepix/ACEPIXS_Scandal_032617/032617_Scandal_D02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34790 acepix    5wW  REG    8,2  2037683 10223818 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35178 acepix    5wW  REG    8,2  1898622 10223820 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35699 acepix    5wW  REG    8,2  1239152 10223823 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  36583 acepix    5wW  REG    8,2  1155422 10223825 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37005 acepix    5wW  REG    8,2   689216 10223827 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S13.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37363 acepix    5wW  REG    8,2  2092588 10223828 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38898 acepix    5wW  REG    8,2  1168081 10223830 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40645 acepix    5wW  REG    8,2  1381193 10223833 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_032617/032617_MiamiOpen_S17.JPG
+

@@ -1,0 +1,16 @@
+/data/www/ftpdir/acepix/ACEPIXS_Colossal_K032817/032817_Colossal_K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42896 acepix    5wW  REG    8,2  1299904 10224032 /data/www/ftpdir/acepix/ACEPIXS_Colossal_K032817/032817_Colossal_K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Malia_032917/032917_Malia_C04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10029 acepix    5wW  REG    8,2   712728 10354693 /data/www/ftpdir/acepix/ACEPIXS_Malia_032917/032917_Malia_C04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Malia_032917/032917_Malia_C08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  12889 acepix    5wW  REG    8,2  2437144 10354698 /data/www/ftpdir/acepix/ACEPIXS_Malia_032917/032917_Malia_C08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Malia_032917/032917_Malia_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  15440 acepix    5wW  REG    8,2   614232 10354704 /data/www/ftpdir/acepix/ACEPIXS_Malia_032917/032917_Malia_C15.JPG
+

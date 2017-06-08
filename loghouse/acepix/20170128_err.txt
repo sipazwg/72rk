@@ -1,0 +1,20 @@
+/data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30071 acepix    5wW  REG    8,2   637232 7602386 /data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30304 acepix    5wW  REG    8,2  1522847 7602388 /data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30959 acepix    5wW  REG    8,2   619320 7602392 /data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31164 acepix    5wW  REG    8,2  2385024 7602394 /data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31403 acepix    5wW  REG    8,2  1751944 7602397 /data/www/ftpdir/acepix/ACEPIXS_Nelly_012617/012617_Nelly_S14.JPG
+

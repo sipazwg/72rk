@@ -1,0 +1,18 @@
+/data/www/ftpdir/cordonpress/EM9A0463-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     12282 root    3w   REG    8,2  1294336 5527810 /data/www/ftpdir/cordonpress/EM9A0463-001.jpg
+
+/data/www/ftpdir/cordonpress/EM9A0451-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     13003 root    3w   REG    8,2  1556480 5529367 /data/www/ftpdir/cordonpress/EM9A0451-001.jpg
+
+/data/www/ftpdir/cordonpress/EM9A0454-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A0463-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A1520-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     14182 root    3w   REG    8,2   212992 5529381 /data/www/ftpdir/cordonpress/EM9A1520-001.jpg
+
+/data/www/ftpdir/cordonpress/IMG_7919-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     17786 root    3w   REG    8,2  1589248 5529439 /data/www/ftpdir/cordonpress/IMG_7919-001.jpg
+

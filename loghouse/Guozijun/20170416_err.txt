@@ -1,0 +1,695 @@
+/data/www/ftpdir/Guozijun/解救汪星人/XB5A2228.JPG--- have been enter
+/data/www/ftpdir/Guozijun/解救汪星人/XB5A2236.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+php     11155 root    4r   REG    8,2  3858778 11272255 /data/www/ftpdir/Guozijun/解救汪星人/XB5A2236.JPG
+
+/data/www/ftpdir/Guozijun/解救汪星人/XB5A2296.JPG--- have been enter
+/data/www/ftpdir/Guozijun/解救汪星人/XB5A2302.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+php     12370 root    4r   REG    8,2  3678378 11272257 /data/www/ftpdir/Guozijun/解救汪星人/XB5A2302.JPG
+
+/data/www/ftpdir/Guozijun/解救汪星人/XB5A2313.JPG--- have been enter
+/data/www/ftpdir/Guozijun/解救汪星人/XB5A2316.JPG--- have been enter
+/data/www/ftpdir/Guozijun/解救汪星人/XB5A2323.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+php     11155 root    4r   REG    8,2  5083929 11272260 /data/www/ftpdir/Guozijun/解救汪星人/XB5A2323.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45918 Guozijun    5wW  REG    8,2  1359020 11272270 /data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2634.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45917 Guozijun    5wW  REG    8,2  2219972 11272269 /data/www/ftpdir/Guozijun/红毯后台/XB5A2634.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46040 Guozijun    5wW  REG    8,2     5520 11272270 /data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2636.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46036 Guozijun    5wW  REG    8,2   785220 11272271 /data/www/ftpdir/Guozijun/红毯后台/XB5A2636.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46716 Guozijun    5wW  REG    8,2    78688 11272270 /data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2637.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46036 Guozijun    5wW  REG    8,2  2962393 11272272 /data/www/ftpdir/Guozijun/红毯后台/XB5A2637.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46719 Guozijun    5wW  REG    8,2   185816 11272270 /data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG
+vsftpd  47058 Guozijun    5w   REG    8,2   185816 11272270 /data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2642.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46036 Guozijun    5wW  REG    8,2   607200 11272275 /data/www/ftpdir/Guozijun/红毯后台/XB5A2642.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47061 Guozijun    5wW  REG    8,2  1952517 11272270 /data/www/ftpdir/Guozijun/红毯后台/XB5A2632.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2645.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46036 Guozijun    5wW  REG    8,2    15180 11272277 /data/www/ftpdir/Guozijun/红毯后台/XB5A2645.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2645.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47494 Guozijun    5wW  REG    8,2    96600 11272277 /data/www/ftpdir/Guozijun/红毯后台/XB5A2645.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2645.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48134 Guozijun    5wW  REG    8,2   988080 11272277 /data/www/ftpdir/Guozijun/红毯后台/XB5A2645.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2650.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47061 Guozijun    5wW  REG    8,2   916320 11272282 /data/www/ftpdir/Guozijun/红毯后台/XB5A2650.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2652.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47061 Guozijun    5wW  REG    8,2   845772 11272284 /data/www/ftpdir/Guozijun/红毯后台/XB5A2652.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2654.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48413 Guozijun    5wW  REG    8,2  1160356 11272286 /data/www/ftpdir/Guozijun/红毯后台/XB5A2654.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2655.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47061 Guozijun    5wW  REG    8,2    71760 11272287 /data/www/ftpdir/Guozijun/红毯后台/XB5A2655.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2655.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48755 Guozijun    5wW  REG    8,2  1622544 11272287 /data/www/ftpdir/Guozijun/红毯后台/XB5A2655.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2661.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48413 Guozijun    5wW  REG    8,2    46920 11272289 /data/www/ftpdir/Guozijun/红毯后台/XB5A2661.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2661.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48982 Guozijun    5wW  REG    8,2  1917808 11272289 /data/www/ftpdir/Guozijun/红毯后台/XB5A2661.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2662.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48755 Guozijun    5wW  REG    8,2   238740 11272290 /data/www/ftpdir/Guozijun/红毯后台/XB5A2662.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2662.JPG img is open 
+COMMAND PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  728 Guozijun    5wW  REG    8,2  1855764 11272290 /data/www/ftpdir/Guozijun/红毯后台/XB5A2662.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48982 Guozijun    5wW  REG    8,2    19320 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1772 Guozijun    5wW  REG    8,2   698280 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2667.JPG img is open 
+COMMAND PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  728 Guozijun    5wW  REG    8,2  1484600 11272294 /data/www/ftpdir/Guozijun/红毯后台/XB5A2667.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2781 Guozijun    5wW  REG    8,2   151800 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2668.JPG img is open 
+COMMAND PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  728 Guozijun    5wW  REG    8,2  1556360 11272295 /data/www/ftpdir/Guozijun/红毯后台/XB5A2668.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2781 Guozijun    5wW  REG    8,2   151800 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2668.JPG img is open 
+COMMAND PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  728 Guozijun    5wW  REG    8,2  1556360 11272295 /data/www/ftpdir/Guozijun/红毯后台/XB5A2668.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2781 Guozijun    5wW  REG    8,2   151800 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  3286 Guozijun    5w   REG    8,2   151800 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2668.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3289 Guozijun    5wW  REG    8,2   218040 11272295 /data/www/ftpdir/Guozijun/红毯后台/XB5A2668.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2781 Guozijun    5wW  REG    8,2   395042 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  3286 Guozijun    5w   REG    8,2   395042 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  3502 Guozijun    5w   REG    8,2   395042 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2672.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3289 Guozijun    5wW  REG    8,2   718980 11272296 /data/www/ftpdir/Guozijun/红毯后台/XB5A2672.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3286 Guozijun    5wW  REG    8,2   211708 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  3502 Guozijun    5w   REG    8,2   211708 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  3698 Guozijun    5w   REG    8,2   211708 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2676.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3289 Guozijun    5wW  REG    8,2   801780 11272297 /data/www/ftpdir/Guozijun/红毯后台/XB5A2676.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3698 Guozijun    5wW  REG    8,2    87324 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  4089 Guozijun    5w   REG    8,2    87324 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2679.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3289 Guozijun    5wW  REG    8,2   876300 11272298 /data/www/ftpdir/Guozijun/红毯后台/XB5A2679.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4089 Guozijun    5wW  REG    8,2    88988 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  5003 Guozijun    5w   REG    8,2    88988 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5689 Guozijun    5wW  REG    8,2    96244 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  5763 Guozijun    5w   REG    8,2    96244 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6048 Guozijun    5w   REG    8,2   162790 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+vsftpd  6517 Guozijun    5wW  REG    8,2   162790 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2691.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3289 Guozijun    5wW  REG    8,2   667920 11272304 /data/www/ftpdir/Guozijun/红毯后台/XB5A2691.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6986 Guozijun    5wW  REG    8,2  2337384 11272292 /data/www/ftpdir/Guozijun/红毯后台/XB5A2664.JPG
+
+/data/www/ftpdir/Guozijun/红毯后台/XB5A2693.JPG img is open 
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  3289 Guozijun    5wW  REG    8,2   329820 11272306 /data/www/ftpdir/Guozijun/红毯后台/XB5A2693.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2794.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23099 Guozijun    5wW  REG    8,2   918912 11272308 /data/www/ftpdir/Guozijun/开幕式2/XB5A2794.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2795.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23100 Guozijun    5wW  REG    8,2   717600 11272309 /data/www/ftpdir/Guozijun/开幕式2/XB5A2795.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2796.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23100 Guozijun    5wW  REG    8,2   605820 11272310 /data/www/ftpdir/Guozijun/开幕式2/XB5A2796.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2797.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23099 Guozijun    5wW  REG    8,2   345000 11272311 /data/www/ftpdir/Guozijun/开幕式2/XB5A2797.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2797.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23344 Guozijun    5wW  REG    8,2   596160 11272311 /data/www/ftpdir/Guozijun/开幕式2/XB5A2797.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23100 Guozijun    5wW  REG    8,2   222180 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23550 Guozijun    5wW  REG    8,2   224208 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2800.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23344 Guozijun    5wW  REG    8,2  1167256 11272313 /data/www/ftpdir/Guozijun/开幕式2/XB5A2800.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23747 Guozijun    5wW  REG    8,2   220800 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2802.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23344 Guozijun    5wW  REG    8,2  1428020 11272314 /data/www/ftpdir/Guozijun/开幕式2/XB5A2802.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24086 Guozijun    5wW  REG    8,2   122820 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2806.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23344 Guozijun    5wW  REG    8,2   346380 11272316 /data/www/ftpdir/Guozijun/开幕式2/XB5A2806.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24266 Guozijun    5wW  REG    8,2   270772 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23344 Guozijun    5wW  REG    8,2    20700 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24269 Guozijun    5wW  REG    8,2  1418360 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23344 Guozijun    5wW  REG    8,2   199420 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24811 Guozijun    5wW  REG    8,2   505192 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24546 Guozijun    5wW  REG    8,2   680724 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2   789360 11272312 /data/www/ftpdir/Guozijun/开幕式2/XB5A2798.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25650 Guozijun    5wW  REG    8,2   695520 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26055 Guozijun    5wW  REG    8,2    26109 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2813.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2   783840 11272319 /data/www/ftpdir/Guozijun/开幕式2/XB5A2813.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26055 Guozijun    5wW  REG    8,2   378574 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  26202 Guozijun    5w   REG    8,2   378574 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2816.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2   126960 11272321 /data/www/ftpdir/Guozijun/开幕式2/XB5A2816.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26205 Guozijun    5wW  REG    8,2   293719 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  27200 Guozijun    5w   REG    8,2   293719 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2817.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2  1048576 11272322 /data/www/ftpdir/Guozijun/开幕式2/XB5A2817.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27200 Guozijun    5wW  REG    8,2   203420 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  27347 Guozijun    5w   REG    8,2   203420 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2818.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2  1207276 11272323 /data/www/ftpdir/Guozijun/开幕式2/XB5A2818.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27347 Guozijun    5wW  REG    8,2   114596 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  27639 Guozijun    5w   REG    8,2   114596 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   113160 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28250 Guozijun    5wW  REG    8,2   113160 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2823.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2   397440 11272327 /data/www/ftpdir/Guozijun/开幕式2/XB5A2823.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   317408 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28766 Guozijun    5wW  REG    8,2   317408 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5w   REG    8,2   317408 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2825.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2   350520 11272329 /data/www/ftpdir/Guozijun/开幕式2/XB5A2825.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   197229 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   197229 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   197229 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2828.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  25649 Guozijun    5wW  REG    8,2  1347980 11272330 /data/www/ftpdir/Guozijun/开幕式2/XB5A2828.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   457120 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   457120 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   457120 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   457120 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2    80040 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2834.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30479 Guozijun    5wW  REG    8,2   535440 11272333 /data/www/ftpdir/Guozijun/开幕式2/XB5A2834.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2837.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30478 Guozijun    5wW  REG    8,2    13800 11272334 /data/www/ftpdir/Guozijun/开幕式2/XB5A2837.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2838.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30635 Guozijun    5wW  REG    8,2    46920 11272335 /data/www/ftpdir/Guozijun/开幕式2/XB5A2838.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2839.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30478 Guozijun    5wW  REG    8,2   845940 11272336 /data/www/ftpdir/Guozijun/开幕式2/XB5A2839.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30478 Guozijun    5wW  REG    8,2   381181 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+vsftpd  30967 Guozijun    5w   REG    8,2   381181 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30964 Guozijun    5wW  REG    8,2   132480 11272338 /data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30967 Guozijun    5wW  REG    8,2    79154 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30967 Guozijun    5wW  REG    8,2    79154 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30967 Guozijun    5wW  REG    8,2    79154 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  28769 Guozijun    5wW  REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2   477820 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30967 Guozijun    5wW  REG    8,2    92954 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+vsftpd  32833 Guozijun    5w   REG    8,2    92954 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32834 Guozijun    5wW  REG    8,2  1403180 11272339 /data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29822 Guozijun    5wW  REG    8,2   126960 11272331 /data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30967 Guozijun    5wW  REG    8,2   299577 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+vsftpd  32833 Guozijun    5w   REG    8,2   299577 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33158 Guozijun    5wW  REG    8,2    93840 11272339 /data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2856.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33159 Guozijun    5wW  REG    8,2    46920 11272340 /data/www/ftpdir/Guozijun/开幕式2/XB5A2856.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32833 Guozijun    5wW  REG    8,2   117200 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33578 Guozijun    5wW  REG    8,2   165600 11272339 /data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2856.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33579 Guozijun    5wW  REG    8,2   113160 11272340 /data/www/ftpdir/Guozijun/开幕式2/XB5A2856.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32833 Guozijun    5wW  REG    8,2   194673 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33578 Guozijun    5wW  REG    8,2  1619784 11272339 /data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2856.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33579 Guozijun    5wW  REG    8,2  1310720 11272340 /data/www/ftpdir/Guozijun/开幕式2/XB5A2856.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32833 Guozijun    5wW  REG    8,2   491220 11272337 /data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2845.JPG--- have been enter
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2857.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33579 Guozijun    5wW  REG    8,2  1048576 11272341 /data/www/ftpdir/Guozijun/开幕式2/XB5A2857.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2860.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33578 Guozijun    5wW  REG    8,2   495420 11272342 /data/www/ftpdir/Guozijun/开幕式2/XB5A2860.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27698 Guozijun    5wW  REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29619 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5w   REG    8,2    79556 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5w   REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+vsftpd  29823 Guozijun    5wW  REG    8,2    57960 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29619 Guozijun    5wW  REG    8,2    78944 11272318 /data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG
+
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2811.JPG--- have been enter
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2833.JPG--- have been enter
+/data/www/ftpdir/Guozijun/开幕式2/XB5A2843.JPG--- have been enter

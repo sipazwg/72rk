@@ -1,0 +1,83 @@
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D02.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4506 acepix    5wW  REG    8,2   112176 6815838 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D04.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4704 acepix    5wW  REG    8,2   401742 6816134 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4937 acepix    5wW  REG    8,2   173736 6816137 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D09.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D11.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5644 acepix    5wW  REG    8,2   398088 6816142 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D13.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5896 acepix    5wW  REG    8,2   344688 6816143 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D14.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D16.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6809 acepix    5wW  REG    8,2   218880 6816144 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D19.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7060 acepix    5wW  REG    8,2   495216 6816149 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D22.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7434 acepix    5wW  REG    8,2   337896 6816152 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D26.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8057 acepix    5wW  REG    8,2   321480 6816156 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D27.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8286 acepix    5wW  REG    8,2   296856 6816157 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D29.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8482 acepix    5wW  REG    8,2   222984 6816159 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D29.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D30.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8898 acepix    5wW  REG    8,2   600050 6816161 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D33.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9076 acepix    5wW  REG    8,2   363888 6816163 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D33.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D36.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9341 acepix    5wW  REG    8,2   484272 6816166 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D37.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9599 acepix    5wW  REG    8,2    75240 6816167 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D37.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9789 acepix    5wW  REG    8,2   272232 6816167 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D37.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D39.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9956 acepix    5wW  REG    8,2   574560 6816169 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D39.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D41.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10184 acepix    5wW  REG    8,2   930143 6816171 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D41.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10411 acepix    5wW  REG    8,2   417240 6816173 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D45.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10639 acepix    5wW  REG    8,2   603288 6816175 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D45.JPG
+

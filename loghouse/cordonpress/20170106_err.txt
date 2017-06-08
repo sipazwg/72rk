@@ -1,0 +1,36 @@
+/data/www/ftpdir/cordonpress/JLC-050117-004.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23560 root    3w   REG    8,2   507904 5510078 /data/www/ftpdir/cordonpress/JLC-050117-004.jpg
+
+/data/www/ftpdir/cordonpress/JLC-050117-005.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23790 root    3w   REG    8,2   704512 5510080 /data/www/ftpdir/cordonpress/JLC-050117-005.jpg
+
+/data/www/ftpdir/cordonpress/JLC-050117-006.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     24020 root    3w   REG    8,2   966656 5510082 /data/www/ftpdir/cordonpress/JLC-050117-006.jpg
+
+/data/www/ftpdir/cordonpress/_DSB9975.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     36521 root    3w   REG    8,2  2211840 5510242 /data/www/ftpdir/cordonpress/_DSB9975.JPG
+
+/data/www/ftpdir/cordonpress/_BBH5473.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     44278 root    3w   REG    8,2  2244608 5510285 /data/www/ftpdir/cordonpress/_BBH5473.jpg
+
+/data/www/ftpdir/cordonpress/_BBH5559.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     5831 root    3w   REG    8,2  1916928 5510291 /data/www/ftpdir/cordonpress/_BBH5559.jpg
+
+/data/www/ftpdir/cordonpress/_BBH5567.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     6197 root    3w   REG    8,2   966656 5510293 /data/www/ftpdir/cordonpress/_BBH5567.jpg
+
+/data/www/ftpdir/cordonpress/_BBH5655.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     6803 root    3w   REG    8,2  1982464 5510298 /data/www/ftpdir/cordonpress/_BBH5655.jpg
+
+/data/www/ftpdir/cordonpress/_BBH5604.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     7438 root    3w   REG    8,2   704512 5510304 /data/www/ftpdir/cordonpress/_BBH5604.jpg
+

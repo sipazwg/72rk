@@ -1,0 +1,16 @@
+/data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3825.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26339 Guozijun    5wW  REG    8,2   695520 11665836 /data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3825.JPG
+
+/data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3828.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26340 Guozijun    5wW  REG    8,2   440308 11665837 /data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3828.JPG
+
+/data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3825.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27871 Guozijun    5wW  REG    8,2  1048576 11665836 /data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3825.JPG
+
+/data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3828.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27872 Guozijun    5wW  REG    8,2   678960 11665837 /data/www/ftpdir/Guozijun/探寻电影之美高峰论坛/XB5A3828.JPG
+

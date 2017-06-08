@@ -1,0 +1,8 @@
+/data/www/ftpdir/acepix/ACEPIXS_Rabbis_112716/112716_Rabbis_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17098 acepix    5wW  REG    8,2    50616 5261184 /data/www/ftpdir/acepix/ACEPIXS_Rabbis_112716/112716_Rabbis_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Rabbis_112716/112716_Rabbis_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17098 acepix    5wW  REG    8,2  2385792 5261184 /data/www/ftpdir/acepix/ACEPIXS_Rabbis_112716/112716_Rabbis_Z01.JPG
+

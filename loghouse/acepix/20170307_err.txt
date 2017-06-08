@@ -1,0 +1,20 @@
+/data/www/ftpdir/acepix/ACEPIXS_AOLguests1_030617/030617_AOL1_C35.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31654 acepix    5wW  REG    8,2  2468608 9306390 /data/www/ftpdir/acepix/ACEPIXS_AOLguests1_030617/030617_AOL1_C35.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K030617/030617_AOL__K004.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31968 acepix    5wW  REG    8,2   502528 9306396 /data/www/ftpdir/acepix/ACEPIXS_AOL_K030617/030617_AOL__K004.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_AOL_K030617/030617_AOL__K019.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33409 acepix    5wW  REG    8,2  1097480 9306411 /data/www/ftpdir/acepix/ACEPIXS_AOL_K030617/030617_AOL__K019.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Keitel_030617/030617_Keitel_C01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14569 acepix    5wW  REG    8,2   728661 9306414 /data/www/ftpdir/acepix/ACEPIXS_Keitel_030617/030617_Keitel_C01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Keitel_030617/030617_Keitel_C05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14770 acepix    5wW  REG    8,2  2392336 9306418 /data/www/ftpdir/acepix/ACEPIXS_Keitel_030617/030617_Keitel_C05.JPG
+

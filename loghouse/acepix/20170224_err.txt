@@ -1,0 +1,810 @@
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23268 acepix    5wW  REG    8,2    84816 8782088 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F06.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23740 acepix    5wW  REG    8,2   740944 8782090 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23964 acepix    5wW  REG    8,2   961448 8782091 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24182 acepix    5wW  REG    8,2  1076232 8782092 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24344 acepix    5wW  REG    8,2  1515463 8782093 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F09.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24898 acepix    5wW  REG    8,2  1507024 8782095 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F101.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25125 acepix    5wW  REG    8,2    38304 8782096 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F101.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F102.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25406 acepix    5wW  REG    8,2  1017536 8782097 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F102.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F104.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25607 acepix    5wW  REG    8,2  2111640 8782098 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F104.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F105.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25988 acepix    5wW  REG    8,2   503098 8782100 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F105.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F106.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26271 acepix    5wW  REG    8,2   694944 8782101 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F106.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F108.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26526 acepix    5wW  REG    8,2   259920 8782103 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F108.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26751 acepix    5wW  REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26751 acepix    5wW  REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27033 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27126 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26751 acepix    5wW  REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27033 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27126 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27351 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26751 acepix    5wW  REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27033 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27126 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27351 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27515 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27614 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26751 acepix    5wW  REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27033 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27126 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27351 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27515 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27614 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27776 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  27869 acepix    5w   REG    8,2    60688 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30323 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  30745 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31107 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31297 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31435 acepix    5wW  REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30323 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  30745 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31107 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31297 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31435 acepix    5wW  REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31618 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31678 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30323 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  30745 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31107 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31297 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31435 acepix    5wW  REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31618 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31678 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31807 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31866 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30323 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  30745 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31107 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31297 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31435 acepix    5wW  REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31618 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31678 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31807 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31866 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31995 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  32054 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30323 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  30745 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31107 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31297 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31435 acepix    5wW  REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31618 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31678 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31807 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31866 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  31995 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  32054 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  32235 acepix    5w   REG    8,2    26080 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37924 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  38103 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39030 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39089 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39214 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39273 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39459 acepix    5wW  REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39639 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37924 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  38103 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39030 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39089 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39214 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39273 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39459 acepix    5wW  REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39639 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39770 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39844 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37924 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  38103 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39030 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39089 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39214 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39273 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39459 acepix    5wW  REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39639 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39770 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39844 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39974 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40034 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37924 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  38103 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39030 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39089 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39214 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39273 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39459 acepix    5wW  REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39639 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39770 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39844 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39974 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40034 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40164 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40225 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37924 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  38103 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39030 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39089 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39214 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39273 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39459 acepix    5wW  REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39639 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39770 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39844 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  39974 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40034 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40164 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40225 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40356 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  40417 acepix    5w   REG    8,2    86184 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41646 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  42791 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43054 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43891 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43950 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44135 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44279 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44690 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44877 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45138 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45326 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45393 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45581 acepix    5wW  REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41646 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  42791 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43054 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43891 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43950 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44135 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44279 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44690 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44877 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45138 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45326 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45393 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45581 acepix    5wW  REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45775 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41646 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  42791 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43054 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43891 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43950 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44135 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44279 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44690 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44877 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45138 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45326 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45393 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45581 acepix    5wW  REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45775 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46022 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46080 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41646 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  42791 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43054 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43891 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43950 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44135 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44279 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44690 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44877 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45138 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45326 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45393 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45581 acepix    5wW  REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45775 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46022 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46080 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46213 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46284 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41646 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  42791 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43054 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43891 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  43950 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44135 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44279 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44690 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  44877 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45138 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45326 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45393 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45581 acepix    5wW  REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  45775 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46022 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46080 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46213 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46284 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46412 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+vsftpd  46480 acepix    5w   REG    8,2   106704 8782104 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F109.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F113.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7641 acepix    5wW  REG    8,2  1857792 8782109 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F113.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F116.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7939 acepix    5wW  REG    8,2    12312 8782112 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F116.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F119.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8399 acepix    5wW  REG    8,2  1993568 8782115 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F119.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F121.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8714 acepix    5wW  REG    8,2  1410408 8782118 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F121.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F125.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9228 acepix    5wW  REG    8,2   555408 8782122 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F125.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F130.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9806 acepix    5wW  REG    8,2    50049 8782128 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F130.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10117 acepix    5wW  REG    8,2  2011159 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10117 acepix    5wW  REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10309 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10368 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10117 acepix    5wW  REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10309 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10368 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10521 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10581 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10117 acepix    5wW  REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10309 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10368 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10521 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10581 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10896 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10976 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10117 acepix    5wW  REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10309 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10368 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10521 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10581 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10896 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  10976 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+vsftpd  11316 acepix    5w   REG    8,2  2026272 8782130 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F132.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F141.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13338 acepix    5wW  REG    8,2     8208 8782139 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F141.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F144.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13655 acepix    5wW  REG    8,2   441864 8782142 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F144.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F158.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14904 acepix    5wW  REG    8,2  1676960 8782157 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F158.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F164.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15518 acepix    5wW  REG    8,2   822168 8782164 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F164.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F166.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15809 acepix    5wW  REG    8,2    36936 8782166 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F166.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F175.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16435 acepix    5wW  REG    8,2  1523744 8782176 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F175.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17069 acepix    5wW  REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17069 acepix    5wW  REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17251 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17310 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17069 acepix    5wW  REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17251 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17310 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17441 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17501 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17069 acepix    5wW  REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17251 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17310 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17441 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17501 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17632 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17692 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17069 acepix    5wW  REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17251 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17310 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17441 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17501 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17632 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17692 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17822 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+vsftpd  17883 acepix    5w   REG    8,2   689688 8782181 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F30.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22549 acepix    5wW  REG    8,2   502056 8782190 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F30.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F38.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23473 acepix    5wW  REG    8,2  1044728 8782198 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F38.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F46.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24334 acepix    5wW  REG    8,2  1692304 8782206 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F46.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F52.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24670 acepix    5wW  REG    8,2   822168 8782212 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F52.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F57.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25065 acepix    5wW  REG    8,2  1749080 8782217 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F57.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F61.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25431 acepix    5wW  REG    8,2  2179104 8782221 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F61.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F66.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25871 acepix    5wW  REG    8,2   331056 8782226 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F66.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F70.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26351 acepix    5wW  REG    8,2   383919 8782230 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F70.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F73.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26671 acepix    5wW  REG    8,2   473328 8782233 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F73.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27296 acepix    5wW  REG    8,2  1738392 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27296 acepix    5wW  REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27593 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27296 acepix    5wW  REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27593 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27722 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27782 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27296 acepix    5wW  REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27593 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27722 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27782 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27911 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27971 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  27296 acepix    5wW  REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27593 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27722 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27782 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27911 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  27971 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  28100 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+vsftpd  28161 acepix    5w   REG    8,2  1756176 8782241 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F81.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F83.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33382 acepix    5wW  REG    8,2  1746472 8782243 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F83.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F90.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33897 acepix    5wW  REG    8,2  1045968 8782250 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F90.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F92.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34208 acepix    5wW  REG    8,2  1858342 8782252 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F92.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F95.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34467 acepix    5wW  REG    8,2    73872 8782255 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F95.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F98.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34755 acepix    5wW  REG    8,2    12312 8782258 /data/www/ftpdir/acepix/ACEPIXS_BritAwards_022217/022217_BritAwards_F98.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35035 acepix    5wW  REG    8,2   310024 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35035 acepix    5wW  REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35228 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35301 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35035 acepix    5wW  REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35228 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35301 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35438 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35499 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35035 acepix    5wW  REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35228 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35301 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35438 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35499 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35630 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35690 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35035 acepix    5wW  REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35228 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35301 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35438 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35499 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35630 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35690 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35823 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35882 acepix    5w   REG    8,2   337384 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35228 acepix    5w   REG    8,2   213408 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35438 acepix    5w   REG    8,2   213408 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  35499 acepix    5w   REG    8,2   213408 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  36015 acepix    5w   REG    8,2   213408 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  36074 acepix    5w   REG    8,2   213408 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  36440 acepix    5w   REG    8,2   217088 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  36569 acepix    5w   REG    8,2   222984 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+vsftpd  36628 acepix    5wW  REG    8,2   222984 8782261 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36817 acepix    5wW  REG    8,2   567720 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36817 acepix    5wW  REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  36979 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37038 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36817 acepix    5wW  REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  36979 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37038 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37218 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36817 acepix    5wW  REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  36979 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37038 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37218 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37355 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37416 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  36817 acepix    5wW  REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  36979 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37038 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37218 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37355 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37416 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37546 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+vsftpd  37605 acepix    5w   REG    8,2   606024 8782263 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39885 acepix    5wW  REG    8,2  2071288 8782264 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40015 acepix    5wW  REG    8,2   522576 8782265 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40303 acepix    5wW  REG    8,2  3780560 8782266 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40984 acepix    5wW  REG    8,2  1134072 8782271 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41235 acepix    5wW  REG    8,2   671176 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41235 acepix    5wW  REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41494 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41235 acepix    5wW  REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41494 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41624 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41683 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41235 acepix    5wW  REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41494 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41624 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41683 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41813 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41235 acepix    5wW  REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41494 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41624 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41683 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41813 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  41998 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+vsftpd  42058 acepix    5w   REG    8,2  1157129 8782273 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44280 acepix    5wW  REG    8,2    50616 8782275 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44509 acepix    5wW  REG    8,2  1817480 8782278 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44811 acepix    5wW  REG    8,2   712728 8782283 /data/www/ftpdir/acepix/ACEPIXS_Valmont_0223127/022317_Valmont_Z23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C01.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C02.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C03.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47469 acepix    5wW  REG    8,2   334028 8782322 /data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C04.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C05.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C06.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C07.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C08.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47719 acepix    5wW  REG    8,2   285656 8782324 /data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C09.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jackman_022317/022317_Jackman_C15.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15733 acepix    5wW  REG    8,2  1019296 8782310 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15733 acepix    5wW  REG    8,2  2385150 8782310 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16319 acepix    5wW  REG    8,2   774288 8782311 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F02.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16319 acepix    5wW  REG    8,2  2963583 8782311 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F02.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16714 acepix    5wW  REG    8,2  1002744 8782312 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F04.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16714 acepix    5wW  REG    8,2  3195923 8782312 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F04.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F05.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17063 acepix    5wW  REG    8,2  1276344 8782318 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F05.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17335 acepix    5wW  REG    8,2   217512 8782325 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F07.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17335 acepix    5wW  REG    8,2  2981918 8782325 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F06.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17692 acepix    5wW  REG    8,2   603288 8782326 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F06.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17692 acepix    5wW  REG    8,2  3384363 8782326 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18100 acepix    5wW  REG    8,2  1352952 8782327 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18100 acepix    5wW  REG    8,2  3818330 8782327 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F09.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18100 acepix    5wW  REG    8,2  5977004 8782327 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F09.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18698 acepix    5wW  REG    8,2  1615428 8782328 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19160 acepix    5wW  REG    8,2  1773529 8782329 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19160 acepix    5wW  REG    8,2  3970537 8782329 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19574 acepix    5wW  REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19574 acepix    5wW  REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19792 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19860 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19574 acepix    5wW  REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19792 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19860 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19995 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20057 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19574 acepix    5wW  REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19792 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19860 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19995 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20057 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20193 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20263 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19574 acepix    5wW  REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19792 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19860 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  19995 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20057 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20193 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20263 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+vsftpd  20399 acepix    5w   REG    8,2    34200 8782330 /data/www/ftpdir/acepix/ACEPIXS_BeautyBeast_022317/022317_Beauty_F11.jpg
+

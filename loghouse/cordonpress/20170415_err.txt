@@ -1,0 +1,46 @@
+/data/www/ftpdir/cordonpress/AM700_0961.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     17762 root    3w   REG    8,2  1064960 5534269 /data/www/ftpdir/cordonpress/AM700_0961.jpg
+
+/data/www/ftpdir/cordonpress/AH700_1492.jpg--- have been enter
+/data/www/ftpdir/cordonpress/AH700_1523.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     26344 root    3w   REG    8,2  2342912 5534282 /data/www/ftpdir/cordonpress/AH700_1523.jpg
+
+/data/www/ftpdir/cordonpress/AH700_1494.jpg--- have been enter
+/data/www/ftpdir/cordonpress/AM700_1131.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     30198 root    3w   REG    8,2  4833280 5534286 /data/www/ftpdir/cordonpress/AM700_1131.jpg
+
+/data/www/ftpdir/cordonpress/DBYAH700_0846.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     33992 root    3w   REG    8,2  1196032 5534302 /data/www/ftpdir/cordonpress/DBYAH700_0846.jpg
+
+/data/www/ftpdir/cordonpress/GHV17GANADORAAD3_4066.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2733 root    3w   REG    8,2  3227648 5534350 /data/www/ftpdir/cordonpress/GHV17GANADORAAD3_4066.jpg
+
+/data/www/ftpdir/cordonpress/GHV17700_1814.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     4521 root    3w   REG    8,2  2179072 5534354 /data/www/ftpdir/cordonpress/GHV17700_1814.jpg
+
+/data/www/ftpdir/cordonpress/GHV17GANADORAAD3_4077.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     11366 root    3w   REG    8,2  1327104 5534366 /data/www/ftpdir/cordonpress/GHV17GANADORAAD3_4077.jpg
+
+/data/www/ftpdir/cordonpress/GHVP17700_1234.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     15227 root    3w   REG    8,2  2834432 5534376 /data/www/ftpdir/cordonpress/GHVP17700_1234.jpg
+
+/data/www/ftpdir/cordonpress/IRYSA700_0367_2.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20199 root    3w   REG    8,2  3162112 5534385 /data/www/ftpdir/cordonpress/IRYSA700_0367_2.jpg
+
+/data/www/ftpdir/cordonpress/IRYSA700_1288.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     25736 root    3w   REG    8,2  5423104 5534395 /data/www/ftpdir/cordonpress/IRYSA700_1288.jpg
+
+/data/www/ftpdir/cordonpress/SCM_8091.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     5993 root    3w   REG    8,2  2211840 5534570 /data/www/ftpdir/cordonpress/SCM_8091.jpg
+

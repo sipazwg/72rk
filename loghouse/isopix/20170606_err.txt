@@ -1,0 +1,598 @@
+/data/www/ftpdir/isopix/23095028-021.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22182 isopix    5wW  REG    8,2  2797942 6163583 /data/www/ftpdir/isopix/23095028-021.jpg
+
+/data/www/ftpdir/isopix/23095028-071.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34693 isopix    5wW  REG    8,2  5182798 6163617 /data/www/ftpdir/isopix/23095028-071.jpg
+
+/data/www/ftpdir/isopix/23095028-075.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40764 isopix    5wW  REG    8,2  3202727 6163625 /data/www/ftpdir/isopix/23095028-075.jpg
+
+/data/www/ftpdir/isopix/23095028-087.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6899 isopix    5wW  REG    8,2  4885211 6163633 /data/www/ftpdir/isopix/23095028-087.jpg
+
+/data/www/ftpdir/isopix/23095407-001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29153 isopix    5wW  REG    8,2    47037 6163640 /data/www/ftpdir/isopix/23095407-001.jpg
+
+/data/www/ftpdir/isopix/23095407-001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29153 isopix    5wW  REG    8,2   300475 6163640 /data/www/ftpdir/isopix/23095407-001.jpg
+
+/data/www/ftpdir/isopix/23095407-001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29153 isopix    5wW  REG    8,2   526493 6163640 /data/www/ftpdir/isopix/23095407-001.jpg
+
+/data/www/ftpdir/isopix/23095407-001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29153 isopix    5wW  REG    8,2   652553 6163640 /data/www/ftpdir/isopix/23095407-001.jpg
+
+/data/www/ftpdir/isopix/23095407-001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29153 isopix    5wW  REG    8,2   859839 6163640 /data/www/ftpdir/isopix/23095407-001.jpg
+
+/data/www/ftpdir/isopix/23095407-001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29153 isopix    5wW  REG    8,2  1041827 6163640 /data/www/ftpdir/isopix/23095407-001.jpg
+
+/data/www/ftpdir/isopix/23095407-001.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29153 isopix    5wW  REG    8,2  1217958 6163640 /data/www/ftpdir/isopix/23095407-001.jpg
+
+/data/www/ftpdir/isopix/23095409-007.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34539 isopix    5wW  REG    8,2    80046 6163641 /data/www/ftpdir/isopix/23095409-007.jpg
+
+/data/www/ftpdir/isopix/23095409-007.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34539 isopix    5wW  REG    8,2   230002 6163641 /data/www/ftpdir/isopix/23095409-007.jpg
+
+/data/www/ftpdir/isopix/23095409-007.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34539 isopix    5wW  REG    8,2   322444 6163641 /data/www/ftpdir/isopix/23095409-007.jpg
+
+/data/www/ftpdir/isopix/23095409-007.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34539 isopix    5wW  REG    8,2   341268 6163641 /data/www/ftpdir/isopix/23095409-007.jpg
+
+/data/www/ftpdir/isopix/23095409-007.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34539 isopix    5wW  REG    8,2   351404 6163641 /data/www/ftpdir/isopix/23095409-007.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  49005 isopix    5wW  REG    8,2   135365 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  49005 isopix    5wW  REG    8,2   209213 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   6168 isopix    5w   REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   6168 isopix    5w   REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   6168 isopix    5w   REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   6168 isopix    5w   REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   6168 isopix    5w   REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   6168 isopix    5w   REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+vsftpd  49005 isopix    5wW  REG    8,2   367045 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17608 isopix    5wW  REG    8,2    60724 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17608 isopix    5wW  REG    8,2   147604 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19999 isopix    5wW  REG    8,2     7240 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19999 isopix    5wW  REG    8,2   224007 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19999 isopix    5wW  REG    8,2   336951 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19999 isopix    5wW  REG    8,2   423823 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19999 isopix    5wW  REG    8,2   423823 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    17376 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    17376 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35200 isopix    5wW  REG    8,2    23168 6163650 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48367 isopix    5wW  REG    8,2    34706 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48367 isopix    5wW  REG    8,2   165746 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48367 isopix    5wW  REG    8,2   233802 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48367 isopix    5wW  REG    8,2   314116 6163642 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13254 isopix    5wW  REG    8,2    60567 6163652 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13254 isopix    5wW  REG    8,2    96767 6163652 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    20724 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19870 isopix    5wW  REG    8,2    33756 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39937 isopix    5wW  REG    8,2    53733 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39937 isopix    5wW  REG    8,2   125091 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    53327 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47401 isopix    5wW  REG    8,2    56223 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26508 isopix    5wW  REG    8,2    34706 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2    75047 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   147447 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  30070 isopix    5wW  REG    8,2   151791 6163659 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42982 isopix    5wW  REG    8,2    13733 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42982 isopix    5wW  REG    8,2   101969 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42982 isopix    5wW  REG    8,2   125137 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8924 isopix    5wW  REG    8,2     5543 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8924 isopix    5wW  REG    8,2     8439 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     6991 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13020 isopix    5wW  REG    8,2     8439 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23037 isopix    5wW  REG    8,2    56924 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2    73959 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23996 isopix    5wW  REG    8,2   144911 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33906 isopix    5wW  REG    8,2    55725 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33906 isopix    5wW  REG    8,2   152741 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33906 isopix    5wW  REG    8,2   209213 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33906 isopix    5wW  REG    8,2   348221 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33906 isopix    5wW  REG    8,2   494469 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33906 isopix    5wW  REG    8,2   646509 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33906 isopix    5wW  REG    8,2   655197 6163655 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43782 isopix    5wW  REG    8,2     4095 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43782 isopix    5wW  REG    8,2    99774 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43782 isopix    5wW  REG    8,2   236855 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43782 isopix    5wW  REG    8,2   361605 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43782 isopix    5wW  REG    8,2   456039 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43782 isopix    5wW  REG    8,2   535043 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43782 isopix    5wW  REG    8,2   546627 6163666 /data/www/ftpdir/isopix/23095407-008.jpg
+
+/data/www/ftpdir/isopix/23095407-008.jpg--- have been enter
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2   122536 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2   365800 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2   532320 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2   758208 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2   947896 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1143376 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1309896 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1360576 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2549 isopix    5wW  REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+vsftpd  8950 isopix    5w   REG    8,2  1366368 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11359 isopix    5wW  REG    8,2   100226 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11359 isopix    5wW  REG    8,2   280046 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11359 isopix    5wW  REG    8,2   532036 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11359 isopix    5wW  REG    8,2   684049 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11359 isopix    5wW  REG    8,2   852017 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11359 isopix    5wW  REG    8,2  1093833 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+
+/data/www/ftpdir/isopix/23095595-018.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11359 isopix    5wW  REG    8,2  1355921 6163655 /data/www/ftpdir/isopix/23095595-018.jpg
+

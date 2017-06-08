@@ -1,0 +1,8 @@
+/data/www/ftpdir/acepix/ACEPIXS_VictoriaBeckham_K051217_11/051217_VictoriaBeckham_K007.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30457 acepix    5wW  REG    8,2  1669136 13238306 /data/www/ftpdir/acepix/ACEPIXS_VictoriaBeckham_K051217_11/051217_VictoriaBeckham_K007.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_HotPinkParty_K051217_87/051217_HotPink_K063.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30749 acepix    5wW  REG    8,2  1455056 13238410 /data/www/ftpdir/acepix/ACEPIXS_HotPinkParty_K051217_87/051217_HotPink_K063.JPG
+

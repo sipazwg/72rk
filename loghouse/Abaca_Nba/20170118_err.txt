@@ -1,0 +1,4 @@
+/data/www/ftpdir/Abaca_Nba/BRTNSSport20170118_025.jpg img is open 
+COMMAND PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     705 root    3w   REG    8,2  1294336 5511991 /data/www/ftpdir/Abaca_Nba/BRTNSSport20170118_025.jpg
+

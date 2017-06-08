@@ -1,0 +1,36 @@
+/data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D45.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10865 acepix    5wW  REG    8,2   335067 6816175 /data/www/ftpdir/acepix/ACEPIXS_Silence_010517/010517_Silence_D45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5845 acepix    5wW  REG    8,2   429372 6816180 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S02.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6033 acepix    5wW  REG    8,2  1927512 6816181 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S06.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6290 acepix    5wW  REG    8,2   708924 6816185 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S08.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6611 acepix    5wW  REG    8,2  1509184 6816187 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S12.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7179 acepix    5wW  REG    8,2   123120 6816191 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S13.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7436 acepix    5wW  REG    8,2  2278221 6816192 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S13.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S15.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7679 acepix    5wW  REG    8,2   526680 6816194 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S17.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7907 acepix    5wW  REG    8,2  1000008 6816196 /data/www/ftpdir/acepix/ACEPIXS_FtLauderdale_010617/010617_Shooting_S17.JPG
+

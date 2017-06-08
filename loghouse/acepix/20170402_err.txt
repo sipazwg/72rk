@@ -1,0 +1,13 @@
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_040117/040117_Ladiesfinals_S01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  4263 acepix    5wW  REG    8,2   384408 10485762 /data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_040117/040117_Ladiesfinals_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_MiamiOpen_040117/040117_Ladiesfinals_S12.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Konta_040117/040117_Konta_S11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13457 acepix    5wW  REG    8,2  1291048 10485801 /data/www/ftpdir/acepix/ACEPIXS_Konta_040117/040117_Konta_S11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Konta_040117/040117_Konta_S16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  14114 acepix    5wW  REG    8,2  1847016 10485806 /data/www/ftpdir/acepix/ACEPIXS_Konta_040117/040117_Konta_S16.JPG
+

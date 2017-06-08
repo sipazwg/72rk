@@ -1,0 +1,242 @@
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F08.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25289 acepix    5wW  REG    8,2  2283102 8257858 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F08.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25566 acepix    5wW  REG    8,2  1060200 8257860 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F12.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  25836 acepix    5wW  REG    8,2   440496 8257861 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F12.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F13.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26072 acepix    5wW  REG    8,2  1846800 8257862 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F13.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F16.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44170 acepix    5wW  REG    8,2  1362528 8257865 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F16.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44668 acepix    5wW  REG    8,2   943920 8257870 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F23.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44936 acepix    5wW  REG    8,2   213408 8257873 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F23.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F30.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47089 acepix    5wW  REG    8,2    72504 8257879 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F30.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48033 acepix    5wW  REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48033 acepix    5wW  REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48290 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48349 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48033 acepix    5wW  REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48290 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48349 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48491 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48552 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48033 acepix    5wW  REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48290 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48349 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48491 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48552 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48693 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48755 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48033 acepix    5wW  REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48290 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48349 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48491 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48552 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48693 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48755 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48895 acepix    5w   REG    8,2    20520 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd   1751 acepix    5w   REG    8,2     7044 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd   2538 acepix    5w   REG    8,2     7044 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd   2794 acepix    5w   REG    8,2     7044 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd   3134 acepix    5w   REG    8,2     7044 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd   3194 acepix    5wW  REG    8,2     7044 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48552 acepix    5w   REG    8,2     7044 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+vsftpd  48895 acepix    5w   REG    8,2     7044 8257890 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F44.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3624 acepix    5wW  REG    8,2  1254048 8257893 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F44.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4158 acepix    5wW  REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4379 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4158 acepix    5wW  REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4379 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4519 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4578 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4158 acepix    5wW  REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4379 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4519 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4578 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4793 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4158 acepix    5wW  REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4379 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4519 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4578 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4793 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4933 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+vsftpd  4992 acepix    5w   REG    8,2    19098 8257897 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F48.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F51.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5827 acepix    5wW  REG    8,2  1623480 8257900 /data/www/ftpdir/acepix/ACEPIXS_ElleStyle_021317/021317_ElleStyle_F51.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Kim_021417/021417_Kim_Z04.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6850 acepix    5wW  REG    8,2   752144 8257916 /data/www/ftpdir/acepix/ACEPIXS_Kim_021417/021417_Kim_Z04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kim_021417/021417_Kim_Z20.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8284 acepix    5wW  REG    8,2   179208 8257932 /data/www/ftpdir/acepix/ACEPIXS_Kim_021417/021417_Kim_Z20.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Ludacris_021417/021417_Ludacris_S01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9294 acepix    5wW  REG    8,2  1074568 8257947 /data/www/ftpdir/acepix/ACEPIXS_Ludacris_021417/021417_Ludacris_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kim1_021417/021417_Kim1_Z05.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13995 acepix    5wW  REG    8,2  1121760 8257956 /data/www/ftpdir/acepix/ACEPIXS_Kim1_021417/021417_Kim1_Z05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18847 acepix    5wW  REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18847 acepix    5wW  REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19052 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19114 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18847 acepix    5wW  REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19052 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19114 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19120 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19321 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18847 acepix    5wW  REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19052 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19114 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19120 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19321 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19469 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19531 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18847 acepix    5wW  REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19052 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19114 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19120 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19321 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19469 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19531 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19537 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  19742 acepix    5w   REG    8,2    12312 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19052 acepix    5w   REG    8,2   494960 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21150 acepix    5w   REG    8,2   494960 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21611 acepix    5w   REG    8,2   494960 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21817 acepix    5w   REG    8,2   494960 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22168 acepix    5w   REG    8,2   494960 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22396 acepix    5w   REG    8,2   494960 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22462 acepix    5wW  REG    8,2   494960 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19052 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21150 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21611 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21817 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22168 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22396 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22462 acepix    5wW  REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22664 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19052 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21150 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21611 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21817 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22168 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22396 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22462 acepix    5wW  REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22664 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22808 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22870 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22876 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19052 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21150 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21611 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21817 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22168 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22396 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22462 acepix    5wW  REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22664 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22808 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22870 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22876 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  23099 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19052 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21150 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21611 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  21817 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22168 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22396 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22462 acepix    5wW  REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22664 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22808 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22870 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  22876 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  23099 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  23107 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+vsftpd  23302 acepix    5w   REG    8,2   514112 8257963 /data/www/ftpdir/acepix/ACEPIXS_Doutzen_021416/021417_Doutzen_J01.JPG
+

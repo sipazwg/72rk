@@ -1,0 +1,151 @@
+/data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K011.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20214 acepix    5wW  REG    8,2  1448360 13631553 /data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K011.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K017.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22001 acepix    5wW  REG    8,2  1363896 13631559 /data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K035.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  27581 acepix    5wW  REG    8,2   815829 13631577 /data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K035.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K044.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32251 acepix    5wW  REG    8,2  1694608 13631586 /data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K044.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K114.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  2606 acepix    5wW  REG    8,2  1850904 13631656 /data/www/ftpdir/acepix/ACEPIXS_CWUpfront_K051817_114/051817_CWUpfront_K114.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_KerryWashington_K051817_17/051817_KerryWashington_K004.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39644 acepix    5wW  REG    8,2   505776 13631661 /data/www/ftpdir/acepix/ACEPIXS_KerryWashington_K051817_17/051817_KerryWashington_K004.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LateShow_K051817_19/051817_LateShow_K006.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35536 acepix    5wW  REG    8,2  1299816 13631695 /data/www/ftpdir/acepix/ACEPIXS_LateShow_K051817_19/051817_LateShow_K006.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LateShow_K051817_19/051817_LateShow_K016.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35984 acepix    5wW  REG    8,2  1085424 13631701 /data/www/ftpdir/acepix/ACEPIXS_LateShow_K051817_19/051817_LateShow_K016.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Scandal_051817/051817_Scandal_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39532 acepix    5wW  REG    8,2   326696 13631713 /data/www/ftpdir/acepix/ACEPIXS_Scandal_051817/051817_Scandal_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_CornellFile_051817/041217_ThePromise_D175.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48636 acepix    5wW  REG    8,2   472432 13631732 /data/www/ftpdir/acepix/ACEPIXS_CornellFile_051817/041217_ThePromise_D175.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  33037 acepix    5wW  REG    8,2   784522 13631802 /data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34725 acepix    5wW  REG    8,2  1335168 13631804 /data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_13.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38401 acepix    5wW  REG    8,2   501800 13631814 /data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_13.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_16.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39238 acepix    5wW  REG    8,2   671688 13631817 /data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_16.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_18.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_21.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42287 acepix    5wW  REG    8,2   161424 13631823 /data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_21.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_23.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43995 acepix    5wW  REG    8,2  1479167 13631824 /data/www/ftpdir/acepix/ACEPIXS_Loveless_051917/051817_Loveless_FBP_23.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Wonderstruck_051817/051817_Wonderstruck_FBP_01.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45957 acepix    5wW  REG    8,2   786600 13631829 /data/www/ftpdir/acepix/ACEPIXS_Wonderstruck_051817/051817_Wonderstruck_FBP_01.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Wonderstruck_051817/051817_Wonderstruck_FBP_03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  47781 acepix    5wW  REG    8,2   519456 13631830 /data/www/ftpdir/acepix/ACEPIXS_Wonderstruck_051817/051817_Wonderstruck_FBP_03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Wonderstruck_051817/051817_Wonderstruck_FBP_07.jpg img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  607 acepix    5wW  REG    8,2  1068152 13631834 /data/www/ftpdir/acepix/ACEPIXS_Wonderstruck_051817/051817_Wonderstruck_FBP_07.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  13833 acepix    5wW  REG    8,2  1564992 13631837 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K004.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K005.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  16862 acepix    5wW  REG    8,2  1686547 13631841 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K005.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K007.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  18366 acepix    5wW  REG    8,2  2029996 13631842 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K007.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K012.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  19280 acepix    5wW  REG    8,2  1519018 13631847 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K015.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20851 acepix    5wW  REG    8,2  1367105 13631850 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K015.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K019.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22121 acepix    5wW  REG    8,2   896562 13631854 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K019.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K019.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23841 acepix    5wW  REG    8,2   989750 13631854 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K019.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26546 acepix    5wW  REG    8,2   856368 13631857 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  28521 acepix    5wW  REG    8,2  1220979 13631857 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K027.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  32395 acepix    5wW  REG    8,2  1403312 13631862 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K027.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K030.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34041 acepix    5wW  REG    8,2  1555739 13631865 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K030.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K034.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39638 acepix    5wW  REG    8,2  1624198 13631872 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41504 acepix    5wW  REG    8,2   703152 13631872 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K040.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  42478 acepix    5wW  REG    8,2  1282450 13631875 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K040.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K047.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44893 acepix    5wW  REG    8,2  1310809 13631882 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K047.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K050.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46586 acepix    5wW  REG    8,2   964440 13631885 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K050.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K053.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48326 acepix    5wW  REG    8,2  1358424 13631888 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K053.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K056.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1553 acepix    5wW  REG    8,2  1602769 13631891 /data/www/ftpdir/acepix/ACEPIXS_GreenDay_K051917_56/051917_GreenDay_K056.JPG
+

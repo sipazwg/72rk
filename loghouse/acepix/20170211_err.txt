@@ -1,0 +1,1455 @@
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4484.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11797 acepix    5wW  REG    8,2   570456 8126822 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4484.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4484.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12011 acepix    5wW  REG    8,2   972648 8126822 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4484.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12427 acepix    5wW  REG    8,2   549936 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12427 acepix    5wW  REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12672 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12427 acepix    5wW  REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12672 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12800 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12862 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12427 acepix    5wW  REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12672 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12800 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12862 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  13021 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  13089 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12427 acepix    5wW  REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12672 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12800 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  12862 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  13021 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  13089 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  13217 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+vsftpd  13276 acepix    5w   REG    8,2   644864 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  14733 acepix    5wW  REG    8,2   485640 8126823 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4487.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4536.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15636 acepix    5wW  REG    8,2   310536 8126829 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4536.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4546.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16098 acepix    5wW  REG    8,2   829008 8126831 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4546.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4546.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4582.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16703 acepix    5wW  REG    8,2   507489 8126834 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4582.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4652.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17427 acepix    5wW  REG    8,2    79344 8126839 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4652.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4706.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17649 acepix    5wW  REG    8,2   454176 8126841 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4706.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4753.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17841 acepix    5wW  REG    8,2  4015040 8126842 /data/www/ftpdir/acepix/ACEPIXS_RedDressFS_K020917/KC1_4753.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18599 acepix    5wW  REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18599 acepix    5wW  REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18763 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18825 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18599 acepix    5wW  REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18763 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18825 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18954 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19016 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18599 acepix    5wW  REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18763 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18825 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18954 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19016 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19145 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19207 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18599 acepix    5wW  REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18763 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18825 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  18954 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19016 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19145 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19207 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19336 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+vsftpd  19405 acepix    5w   REG    8,2   760608 8126847 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K003.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K008.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21237 acepix    5w   REG    8,2  1261228 8126852 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K008.JPG
+vsftpd  21428 acepix    5w   REG    8,2  1261228 8126852 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K008.JPG
+vsftpd  21936 acepix    5w   REG    8,2  1261228 8126852 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K008.JPG
+vsftpd  22380 acepix    5w   REG    8,2  1261228 8126852 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K008.JPG
+vsftpd  22599 acepix    5w   REG    8,2  1261228 8126852 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K008.JPG
+vsftpd  22729 acepix    5wW  REG    8,2  1261228 8126852 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K008.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K010.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23009 acepix    5wW  REG    8,2  1154592 8126854 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K010.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K012.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28846 acepix    5w   REG    8,2   917928 8126856 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K012.JPG
+vsftpd  29031 acepix    5w   REG    8,2   917928 8126856 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K012.JPG
+vsftpd  29037 acepix    5wW  REG    8,2   917928 8126856 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29318 acepix    5wW  REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29318 acepix    5wW  REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29528 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29318 acepix    5wW  REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29528 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29654 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29719 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29318 acepix    5wW  REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29528 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29654 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29719 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29849 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  29318 acepix    5wW  REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29528 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29654 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29719 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29849 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  29914 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  30074 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  30143 acepix    5w   REG    8,2   545576 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34747 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  35071 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36483 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36670 acepix    5wW  REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34747 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  35071 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36483 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36670 acepix    5wW  REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36892 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37016 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34747 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  35071 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36483 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36670 acepix    5wW  REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36892 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37016 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37176 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37281 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34747 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  35071 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36483 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36670 acepix    5wW  REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36892 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37016 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37176 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37281 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37411 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37474 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34747 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  35071 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36483 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36670 acepix    5wW  REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  36892 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37016 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37176 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37281 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37411 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37474 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37664 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37670 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37766 acepix    5w   REG    8,2   886464 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  37016 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37411 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37664 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37670 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  37992 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  38153 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  38376 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  38570 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  38635 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  38879 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  39036 acepix    5w   REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+vsftpd  39160 acepix    5wW  REG    8,2   679842 8126858 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K014.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K017.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39390 acepix    5wW  REG    8,2     8208 8126861 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K017.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K022.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40390 acepix    5wW  REG    8,2   369360 8126867 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K022.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K027.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40751 acepix    5wW  REG    8,2  1481592 8126871 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K027.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42405 acepix    5wW  REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42536 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42405 acepix    5wW  REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42536 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42729 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42405 acepix    5wW  REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42536 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42729 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42822 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43130 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42405 acepix    5wW  REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42536 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42729 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42822 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43130 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43323 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43382 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42405 acepix    5wW  REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42536 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42729 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  42822 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43130 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43323 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43382 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43388 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+vsftpd  43568 acepix    5w   REG    8,2  1093783 8126881 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K037.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K038.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46755 acepix    5wW  REG    8,2  1283184 8126882 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K038.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K042.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  46952 acepix    5wW  REG    8,2    28728 8126886 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K042.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K049.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47534 acepix    5wW  REG    8,2   696312 8126893 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K049.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K058.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  49036 acepix    5wW  REG    8,2    16225 8126902 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K058.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K063.JPG img is open 
+COMMAND PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  938 acepix    5wW  REG    8,2    15914 8126907 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K063.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K063.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1132 acepix    5wW  REG    8,2   927596 8126907 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K063.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K064.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K071.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2005 acepix    5wW  REG    8,2   389880 8126915 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K071.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K076.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2302 acepix    5wW  REG    8,2   961280 8126920 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K076.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K081.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  2969 acepix    5wW  REG    8,2   577296 8126925 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K081.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K084.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3192 acepix    5wW  REG    8,2   961704 8126928 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K084.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K096.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5665 acepix    5wW  REG    8,2   345592 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5665 acepix    5wW  REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6096 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5665 acepix    5wW  REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6096 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6227 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6288 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5665 acepix    5wW  REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6096 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6227 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6288 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6415 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6474 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5665 acepix    5wW  REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6096 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6227 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6288 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6415 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6474 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+vsftpd  6601 acepix    5w   REG    8,2   389368 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8852 acepix    5wW  REG    8,2    50616 8126946 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K102.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K108.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  9328 acepix    5wW  REG    8,2  2093304 8126952 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K108.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K111.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10044 acepix    5wW  REG    8,2    78774 8126956 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K111.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K111.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10276 acepix    5wW  REG    8,2    12312 8126956 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K111.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K111.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K112.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10462 acepix    5wW  REG    8,2    16416 8126957 /data/www/ftpdir/acepix/ACEPIXS_RedDressCarpet_K020917/020817_RedDressCarpet__K112.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F07.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F10.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11486 acepix    5wW  REG    8,2     8208 8126967 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F10.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F101.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11929 acepix    5wW  REG    8,2   761976 8126970 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F101.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F10.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12130 acepix    5wW  REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12130 acepix    5wW  REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12374 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12434 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12130 acepix    5wW  REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12374 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12434 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12564 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12623 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12130 acepix    5wW  REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12374 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12434 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12564 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12623 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12751 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12810 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  12130 acepix    5wW  REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12374 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12434 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12564 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12623 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12751 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12810 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12938 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+vsftpd  12997 acepix    5w   REG    8,2    24029 8126971 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F103.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F104.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15401 acepix    5wW  REG    8,2   789336 8126972 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F104.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F14.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15854 acepix    5wW  REG    8,2  2143664 8126978 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F14.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16172 acepix    5wW  REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16443 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16172 acepix    5wW  REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16443 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16572 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16633 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16172 acepix    5wW  REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16443 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16572 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16633 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16763 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16822 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16172 acepix    5wW  REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16443 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16572 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16633 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16763 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16822 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16950 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  17010 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16172 acepix    5wW  REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16443 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16572 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16633 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16763 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16822 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  16950 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  17010 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  17139 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+vsftpd  17198 acepix    5w   REG    8,2   175104 8126981 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F17.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F19.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18868 acepix    5wW  REG    8,2     8208 8126983 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F19.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F22.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19334 acepix    5wW  REG    8,2   400568 8126986 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F22.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F23.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19554 acepix    5wW  REG    8,2   871190 8126988 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F23.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F28.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20030 acepix    5wW  REG    8,2  1028736 8126992 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F28.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F30.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20302 acepix    5wW  REG    8,2  1036944 8126994 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F30.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F32.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20499 acepix    5wW  REG    8,2  1225728 8126996 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F32.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F34.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20809 acepix    5wW  REG    8,2    50616 8126998 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F34.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F36.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21306 acepix    5wW  REG    8,2  1978722 8127000 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F36.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21434 acepix    5wW  REG    8,2  1682601 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21434 acepix    5wW  REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21646 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21705 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21434 acepix    5wW  REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21646 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21705 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21889 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21895 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21434 acepix    5wW  REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21646 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21705 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21889 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21895 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  22024 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21434 acepix    5wW  REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21646 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21705 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21889 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  21895 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  22024 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  22210 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  22216 acepix    5w   REG    8,2  1747991 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28163 acepix    5wW  REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28163 acepix    5wW  REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28222 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28404 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28163 acepix    5wW  REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28222 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28404 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28536 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28595 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28163 acepix    5wW  REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28222 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28404 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28536 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28595 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28723 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28783 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  28163 acepix    5wW  REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28222 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28404 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28536 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28595 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28723 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28783 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+vsftpd  28911 acepix    5w   REG    8,2   937808 8127001 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F37.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F38.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33990 acepix    5wW  REG    8,2     8208 8127002 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F38.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F39.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34119 acepix    5wW  REG    8,2  2136304 8127003 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F39.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34610 acepix    5wW  REG    8,2   455544 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34610 acepix    5wW  REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34804 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34610 acepix    5wW  REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34804 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34933 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34993 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34610 acepix    5wW  REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34804 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34933 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34993 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35185 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  34610 acepix    5wW  REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34804 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34933 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  34993 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35185 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35313 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35372 acepix    5w   REG    8,2   496584 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35313 acepix    5w   REG    8,2   235388 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35680 acepix    5w   REG    8,2   235388 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35740 acepix    5w   REG    8,2   235388 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35866 acepix    5w   REG    8,2   235388 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36473 acepix    5wW  REG    8,2   235388 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35313 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35680 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35740 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35866 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36473 acepix    5wW  REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36657 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35313 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35680 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35740 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35866 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36473 acepix    5wW  REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36657 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36785 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36845 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35313 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35680 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35740 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35866 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36473 acepix    5wW  REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36657 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36785 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36845 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36975 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  37034 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  35313 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35680 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35740 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  35866 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36473 acepix    5wW  REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36657 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36785 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36845 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  36975 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  37034 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  37162 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  37221 acepix    5w   REG    8,2   413024 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40752 acepix    5w   REG    8,2    15048 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  41500 acepix    5w   REG    8,2    15048 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  41685 acepix    5w   REG    8,2    15048 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  42983 acepix    5w   REG    8,2    15048 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  43296 acepix    5w   REG    8,2    15048 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+vsftpd  43355 acepix    5wW  REG    8,2    15048 8127005 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F41.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F46.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47475 acepix    5wW  REG    8,2   891024 8127010 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F46.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F50.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47732 acepix    5wW  REG    8,2  1274040 8127014 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F50.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F54.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4254 acepix    5wW  REG    8,2  1774296 8127018 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F54.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F56.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4441 acepix    5wW  REG    8,2  1625144 8127020 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F56.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F62.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4702 acepix    5wW  REG    8,2   103968 8127024 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F62.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F70.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6872 acepix    5wW  REG    8,2   183312 8127032 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F70.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F75.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7407 acepix    5wW  REG    8,2   162792 8127037 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F75.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F76.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7653 acepix    5wW  REG    8,2  1253528 8127038 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F76.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F78.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  7876 acepix    5wW  REG    8,2  1876896 8127040 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F78.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8125 acepix    5wW  REG    8,2  1145035 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8125 acepix    5wW  REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8369 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8125 acepix    5wW  REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8369 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8497 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8125 acepix    5wW  REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8369 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8497 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8684 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8743 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  8125 acepix    5wW  REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8369 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8497 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8684 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8743 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8872 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  8931 acepix    5w   REG    8,2  1489771 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  11116 acepix    5w   REG    8,2     8208 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  11302 acepix    5w   REG    8,2     8208 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  11363 acepix    5w   REG    8,2     8208 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  11489 acepix    5w   REG    8,2     8208 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  11864 acepix    5w   REG    8,2    19152 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  12413 acepix    5w   REG    8,2    19152 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  12598 acepix    5w   REG    8,2    19152 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  12785 acepix    5w   REG    8,2    19152 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  12969 acepix    5w   REG    8,2    19152 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+vsftpd  13028 acepix    5wW  REG    8,2    19152 8127042 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F80.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13216 acepix    5wW  REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13426 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13216 acepix    5wW  REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13426 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13554 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13614 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13216 acepix    5wW  REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13426 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13554 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13614 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13743 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13216 acepix    5wW  REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13426 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13554 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13614 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13743 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13925 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13984 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  13216 acepix    5wW  REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13426 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13554 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13614 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13743 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13925 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  13984 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  14115 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+vsftpd  14175 acepix    5w   REG    8,2    82080 8127044 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F83.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F84.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16411 acepix    5wW  REG    8,2  1258992 8127045 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F84.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F86.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16598 acepix    5wW  REG    8,2   194256 8127047 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F86.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F88.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17091 acepix    5wW  REG    8,2  1836376 8127049 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F88.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F92.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17566 acepix    5wW  REG    8,2  1246552 8127053 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F92.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F93.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17787 acepix    5wW  REG    8,2  1275960 8127054 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F93.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F95.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18230 acepix    5wW  REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18230 acepix    5wW  REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18416 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18475 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18230 acepix    5wW  REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18416 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18475 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18603 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18662 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18230 acepix    5wW  REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18416 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18475 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18603 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18662 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18791 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18230 acepix    5wW  REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18416 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18475 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18603 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18662 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18791 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  18850 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  19033 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  19039 acepix    5w   REG    8,2    73872 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20833 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  20892 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21580 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22008 acepix    5wW  REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20833 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  20892 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21580 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22008 acepix    5wW  REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22377 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20833 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  20892 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21580 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22008 acepix    5wW  REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22377 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20833 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  20892 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21580 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22008 acepix    5wW  REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22377 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22696 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22702 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20833 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  20892 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21580 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22008 acepix    5wW  REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22377 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22696 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22702 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22883 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22943 acepix    5w   REG    8,2    47764 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20892 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22702 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22883 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23255 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23314 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23442 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23501 acepix    5w   REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23626 acepix    5wW  REG    8,2   102636 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20892 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22702 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22883 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23255 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23314 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23442 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23501 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23626 acepix    5wW  REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23808 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20892 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22702 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22883 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23255 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23314 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23442 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23501 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23626 acepix    5wW  REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23808 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23870 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23999 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20892 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22702 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22883 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23255 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23314 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23442 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23501 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23626 acepix    5wW  REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23808 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23870 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23999 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24182 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24188 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24247 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20892 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  21639 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22187 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22317 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22509 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22515 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22702 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  22883 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23255 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23314 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23442 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23501 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23626 acepix    5wW  REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23808 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23870 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  23999 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24182 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24188 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24247 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24375 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  24434 acepix    5w   REG    8,2   106828 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26045 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  27229 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  28460 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  30674 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31608 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31984 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32543 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32602 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32912 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32971 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33098 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33158 acepix    5wW  REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33337 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26045 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  27229 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  28460 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  30674 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31608 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31984 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32543 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32602 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32912 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32971 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33098 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33158 acepix    5wW  REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33337 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33467 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26045 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  27229 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  28460 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  30674 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31608 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31984 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32543 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32602 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32912 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32971 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33098 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33158 acepix    5wW  REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33337 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33467 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33528 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33657 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33718 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26045 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  27229 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  28460 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  30674 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31608 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31984 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32543 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32602 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32912 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32971 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33098 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33158 acepix    5wW  REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33337 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33467 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33528 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33657 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33718 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33846 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33905 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26045 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  27229 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  28460 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  30674 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31608 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  31984 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32543 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32602 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32912 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  32971 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33098 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33158 acepix    5wW  REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33337 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33467 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33528 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33657 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33718 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33846 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33905 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  34034 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  34093 acepix    5w   REG    8,2    45144 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  26045 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  33098 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35705 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35951 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36689 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36998 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37057 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37242 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37990 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  38548 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  38674 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39093 acepix    5w   REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39218 acepix    5wW  REG    8,2    47880 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33098 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35705 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35951 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36689 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36998 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37057 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37242 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37990 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39399 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39458 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39585 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39644 acepix    5wW  REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39824 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33098 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35705 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35951 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36689 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36998 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37057 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37242 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37990 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39399 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39458 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39585 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39644 acepix    5wW  REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39824 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39953 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40013 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33098 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35705 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35951 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36689 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36998 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37057 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37242 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37990 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39399 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39458 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39585 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39644 acepix    5wW  REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39824 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39953 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40013 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40142 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33098 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35705 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35951 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36689 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36998 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37057 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37242 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37990 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39399 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39458 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39585 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39644 acepix    5wW  REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39824 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39953 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40013 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40142 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40323 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40330 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40390 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  33098 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35705 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  35951 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36689 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  36998 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37057 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37242 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  37990 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39399 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39458 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39585 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39644 acepix    5wW  REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39824 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  39953 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40013 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40142 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40323 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40330 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40390 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40520 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+vsftpd  40580 acepix    5w   REG    8,2    72712 8127058 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F96.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F97.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47614 acepix    5wW  REG    8,2   705282 8127056 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F97.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F99.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  47801 acepix    5wW  REG    8,2  1854153 8127060 /data/www/ftpdir/acepix/ACEPIXS_50Shades_020917/020917_50Shades_F99.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48053 acepix    5wW  REG    8,2     8208 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48053 acepix    5wW  REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48299 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48053 acepix    5wW  REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48299 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48431 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48490 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48053 acepix    5wW  REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48299 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48431 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48490 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48621 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48681 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  48053 acepix    5wW  REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48299 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48431 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48490 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48621 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48681 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48814 acepix    5w   REG    8,2    35501 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd    381 acepix    5w   REG    8,2  1886648 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd    634 acepix    5w   REG    8,2  1886648 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd    766 acepix    5w   REG    8,2  1914008 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd   1193 acepix    5wW  REG    8,2  1914008 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  48997 acepix    5w   REG    8,2  1914008 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+vsftpd  49068 acepix    5w   REG    8,2  1914008 8127063 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C04.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  1325 acepix    5wW  REG    8,2  2226830 8127064 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3498 acepix    5wW  REG    8,2  1528603 8127065 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C06.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3743 acepix    5wW  REG    8,2   386760 8127067 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C06.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3935 acepix    5wW  REG    8,2  1826727 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3935 acepix    5wW  REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4203 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3935 acepix    5wW  REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4203 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4333 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4339 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3935 acepix    5wW  REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4203 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4333 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4339 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4523 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4583 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  3935 acepix    5wW  REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4203 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4333 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4339 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4523 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4583 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4715 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+vsftpd  4776 acepix    5w   REG    8,2  1848615 8127068 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C08.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6497 acepix    5wW  REG    8,2   390736 8127069 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C09.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6713 acepix    5wW  REG    8,2  1812344 8127070 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6875 acepix    5wW  REG    8,2   190972 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6875 acepix    5wW  REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7092 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7154 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6875 acepix    5wW  REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7092 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7154 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7286 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6875 acepix    5wW  REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7092 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7154 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7286 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7470 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7530 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6875 acepix    5wW  REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7092 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7154 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7286 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7470 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7530 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7661 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+vsftpd  7723 acepix    5w   REG    8,2   197812 8127071 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10438 acepix    5wW  REG    8,2   663480 8127075 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10599 acepix    5wW  REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10599 acepix    5wW  REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10814 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10880 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10599 acepix    5wW  REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10814 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10880 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11065 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10599 acepix    5wW  REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10814 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10880 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11065 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11196 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11257 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  10599 acepix    5wW  REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10814 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  10880 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11065 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11196 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11257 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11389 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+vsftpd  11448 acepix    5w   REG    8,2  1007064 8127076 /data/www/ftpdir/acepix/ACEPIXS_Kendall_021017/021017_Kendall_C15.JPG
+

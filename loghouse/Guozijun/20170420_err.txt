@@ -1,0 +1,60 @@
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3290.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34059 Guozijun    5wW  REG    8,2  1128580 11534397 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3290.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3293.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34163 Guozijun    5wW  REG    8,2  1070180 11534399 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3293.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3290.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34544 Guozijun    5wW  REG    8,2   910476 11534397 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3290.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3294.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34543 Guozijun    5wW  REG    8,2   996931 11534400 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3294.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3303.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34543 Guozijun    5wW  REG    8,2  1429340 11534406 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3303.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3311.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  34544 Guozijun    5wW  REG    8,2   321200 11534411 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3311.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3327.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35932 Guozijun    5wW  REG    8,2  1268340 11534418 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3327.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3337.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35932 Guozijun    5wW  REG    8,2  2216280 11534424 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3337.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3341.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35167 Guozijun    5wW  REG    8,2  1122498 11534425 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3341.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3346.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35932 Guozijun    5wW  REG    8,2  2104536 11534427 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3346.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3347.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35167 Guozijun    5wW  REG    8,2  2311180 11534428 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3347.JPG
+
+/data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3349.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35932 Guozijun    5wW  REG    8,2  1982680 11534429 /data/www/ftpdir/Guozijun/中意电影合作论坛/XB5A3349.JPG
+
+/data/www/ftpdir/Guozijun/灰暗之光/XB5A3481.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40105 Guozijun    5wW  REG    8,2   364320 11534750 /data/www/ftpdir/Guozijun/灰暗之光/XB5A3481.JPG
+
+/data/www/ftpdir/Guozijun/灰暗之光/XB5A3483.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40104 Guozijun    5wW  REG    8,2   456780 11534749 /data/www/ftpdir/Guozijun/灰暗之光/XB5A3483.JPG
+
+/data/www/ftpdir/Guozijun/灰暗之光/XB5A3492.JPG img is open 
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40104 Guozijun    5wW  REG    8,2   611340 11534757 /data/www/ftpdir/Guozijun/灰暗之光/XB5A3492.JPG
+

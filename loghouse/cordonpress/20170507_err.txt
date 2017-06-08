@@ -1,0 +1,65 @@
+/data/www/ftpdir/cordonpress/17.05.06_MotoGP_Jerez_8164.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     6387 root    3w   REG    8,2  5259264 5539651 /data/www/ftpdir/cordonpress/17.05.06_MotoGP_Jerez_8164.JPG
+
+/data/www/ftpdir/cordonpress/17.05.06_MotoGP_Jerez_8402.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     13254 root    3w   REG    8,2  1622016 5539660 /data/www/ftpdir/cordonpress/17.05.06_MotoGP_Jerez_8402.JPG
+
+/data/www/ftpdir/cordonpress/3H6A7044.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     48242 root    3w   REG    8,2   966656 5539666 /data/www/ftpdir/cordonpress/3H6A7044.jpg
+
+/data/www/ftpdir/cordonpress/3H6A7074.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     4195 root    3w   REG    8,2  1818624 5539671 /data/www/ftpdir/cordonpress/3H6A7074.jpg
+
+/data/www/ftpdir/cordonpress/3H6A7145.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     17135 root    3w   REG    8,2  1818624 5539687 /data/www/ftpdir/cordonpress/3H6A7145.jpg
+
+/data/www/ftpdir/cordonpress/_MG_7396.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_7723.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     13826 root    3w   REG    8,2   475136 5539843 /data/www/ftpdir/cordonpress/_MG_7723.jpg
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10261.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     16542 root    3w   REG    8,2  3194880 5539895 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10261.JPG
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10577.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     3909 root    3w   REG    8,2  6045696 5539903 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10577.JPG
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10579.JPG img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9743 root    3w   REG    8,2  4571136 5539904 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10579.JPG
+
+/data/www/ftpdir/cordonpress/_MJS8088.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     14665 root    3w   REG    8,2   311296 5539911 /data/www/ftpdir/cordonpress/_MJS8088.jpg
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10607.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20454 root    3w   REG    8,2  4079616 5539914 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10607.JPG
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10607.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     20454 root    3w   REG    8,2 19546112 5539914 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10607.JPG
+
+/data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10623.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23423 root    3w   REG    8,2  6078464 5539915 /data/www/ftpdir/cordonpress/17.05.07_MotoGP_Jerez_10623.JPG
+
+/data/www/ftpdir/cordonpress/_DSC7930-2.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     42320 root    3w   REG    8,2  1196032 5539928 /data/www/ftpdir/cordonpress/_DSC7930-2.jpg
+
+/data/www/ftpdir/cordonpress/_DSC5914-13.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     4716 root    3w   REG    8,2  2080768 5539947 /data/www/ftpdir/cordonpress/_DSC5914-13.jpg
+
+/data/www/ftpdir/cordonpress/_DSC5983_1-22.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     11690 root    3w   REG    8,2  2473984 5539960 /data/www/ftpdir/cordonpress/_DSC5983_1-22.jpg
+

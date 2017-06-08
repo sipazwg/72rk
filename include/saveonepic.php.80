@@ -1,0 +1,532 @@
+<?php
+/*
+	@单张图片处理类
+	@2015-08-31
+	@by zwg
+*/
+
+
+
+
+class saveonepic 
+{
+	//-------------------------定义成员变量:外部传入------------------------------------------------------------
+    var $link;           		//数据库连接
+    var $imgpath;				//要入库图片文件的绝对路径含文件名
+
+
+	var $photoid;				//图片ID
+	var $moddate;				//审核时间
+	var $uploaddate;			//上传时间
+	var $groupid;				//组ID
+	var $price;					//价格
+	var $syspid;				//摄影师图片ID
+	var $title;					//图片说明
+	var $gtitle;				//组标题
+	var $gcontent;				//组内容
+	var $keyword;				//关键字
+	var $ifstock;				//是否资料图
+	var $pindex;				//是否首张
+	var $upuid;					//上传者ID
+	var $ifedit;				//是否编辑过
+	var $upway;					//上传途径
+	var $size;					//大小
+	var $width;					//宽
+	var $height;				//高
+	var $upip;					//上传IP
+	var $penname;				//笔名
+	var $country;				//国家
+	var $city;					//城市
+	var $pdate;					//摄影日期
+	var $plevel;				//级别
+	var $psname;				//图片原始名称
+	var $pwebsid;				//在资源网站中的ID
+	var $zoneid;				//地区ID
+	var $pclick;				//点击数
+	var $pfcate;				//第一分类
+	var $catestr;				//分类字串
+	var $picori;				//横、竖图
+	var $tpid;					//专题ID
+	
+
+	//-------------------------定义方法----------------------------------------------------------------------
+    function saveonepic()
+    {
+		//只是构造
+    }
+
+		
+	//-------------------------执行入库入口------------------------------------------------------------------
+    function excute()
+    {	
+		//-----------------------数据准备---不要随意调顺序---------------------------------------------------
+		//取得图片宽、高、大小等信息
+		$this->getpicinfo();
+		
+		//取得图片名称
+		$this->getpsname();
+
+		//第一分类
+		$this->getpfcate();
+		//得到组ID、首张、组标题等信息
+		$this->getgid();
+		if($this->groupid == 0)return;
+
+
+
+		//---------------------------------------------------入库---------------------------------
+        $this->ins2table();
+		if($this->photoid == 0)return;
+		
+		//生成图片
+		$this->dopic();
+
+		//直接加入专题
+		$this->instpic();
+
+	}
+
+
+	//取得组ID
+	function getgid()
+	{
+		//取得直播内容
+		$this->groupid			= $this->getCapture();
+
+		//组标识的md5加密
+		$group_key				= md5($this->info['groupobj']);
+		
+		//无直播内容
+		if($this->groupid == 0)
+		{
+			//是否存在此组
+			$strQuery  = " SELECT `groupid` FROM sipa_group WHERE groupobj='".$group_key."'";
+			$rs        = mysql_query($strQuery,$this->link);
+			
+			
+			//已存在组照，则取其信息
+			if (mysql_num_rows($rs)>0)
+			{
+				$row			= mysql_fetch_assoc($rs);
+				//对已存在的组，需要将新入图片的分类与之同步
+				$this->groupid	= $row['groupid'];
+
+				$sql_ginfo		= "select * from sipa_photo where groupid='".$this->groupid."' and pindex=1";
+				$res_ginfo		= mysql_query($sql_ginfo,$this->link);
+				
+				//存在此组
+				if(mysql_num_rows($res_ginfo)>0)
+				{
+					$this->pindex			= 0;
+					$row_ginfo				= mysql_fetch_assoc($res_ginfo);
+					$this->info['gtitle']	= $row_ginfo['gtitle'];
+					$this->info['gcontent'] = $row_ginfo['gcontent'];
+					$this->info['catestr']	= $row_ginfo['catestr'];
+				}
+				else
+				{
+					//不存在此组，原组图可能已被合并或移走，重新生成首张
+					$this->pindex			= 1;
+				}
+				
+					
+			} else {
+				
+				//插入新组，当前图片为首张
+				$insert						= "INSERT INTO sipa_group(`strobj`,`groupobj`) VALUE('".addslashes($this->info['groupobj'])."', '".$group_key."')";
+				echo "sipa_groups:".$insert."\n";
+				$kirs						= mysql_query($insert,$this->link);
+				$this->groupid				= mysql_insert_id($this->link);
+				$this->pindex				= 1;
+			}
+			
+		}
+		else
+		{
+			//存在直播内容
+			$sql_ginfo = "select * from sipa_photo where groupid='".$this->groupid."' and pindex=1";
+			$res_ginfo = mysql_query($sql_ginfo,$this->link);
+			
+			//存在此组
+			if(mysql_num_rows($res_ginfo)>0)
+			{
+				//取得图片信息
+				$row_ginfo				= mysql_fetch_assoc($res_ginfo);
+				$this->info['gtitle']	= $row_ginfo['gtitle'];
+				$this->info['gcontent'] = $row_ginfo['gcontent'];
+				$this->info['catestr']	= $row_ginfo['catestr'];
+				
+				//直播组内的图片张数
+				$sql_cout = "select count(*)  as gnum from sipa_photo where groupid='".$this->groupid."'";
+				$res_cout = mysql_query($sql_cout,$this->link);
+				$row_cout = mysql_fetch_assoc($res_cout);
+
+				//组内只有一张图片，我们认为是编辑加的默认图片，需要将新入图片做为首张，原首张需撤掉
+				if($row_cout['gnum'] == 1)
+				{
+					//更新原首张为普通图片
+					$sql_up		= "update sipa_photo set pindex=0 where groupid=".$this->groupid." and pindex=1";
+					mysql_query($sql_up,$this->link);
+					//新图为新首张
+					$this->pindex=1;
+
+					//首张更新过标识
+					$this->modindex = 1;
+					
+					//需删除子表数据，同步类中，会再次向里加入
+					$sql_del	= "delete from sipa_pic_cate where photoid='".$row_ginfo['photoid']."'";
+					mysql_query($sql_del,$this->link);
+
+					
+					//将专题内容表组的首张信息做修改，此时新的photoid还没有产生
+
+				}
+				else
+				{
+					$this->pindex	= 0;
+				}
+			}
+			else
+			{
+				//不存在此组，原组图可能已被合并或移走，重新生成首张
+				$this->pindex	= 1;
+			}
+
+		}
+	}
+
+
+
+	
+	//取图片原始名称
+	function getpsname()
+	{
+		$filename		= substr($this->imgpath,strrpos($this->imgpath, '/') + 1);//Rex_IGGY_AZALEA_3181389B.jpg
+		$this->psname	= strtolower($filename);//Rex_IGGY_AZALEA_3181389B
+	}
+	
+	//*---------------------------检测是否需要抓取   add by gjf 2014.11.26--------------------------------*/
+	function getCapture()
+	{
+		$arr = array("title","gtitle","gcontent","keyword");
+		$rows = array();
+		$groupid = 0;
+
+		$sql = "select * from sipa_capture where capture_start_time  < '".date("Y-m-d H:i:s")."' and  capture_end_time >  '".date("Y-m-d H:i:s")."'  order by capture_id desc";
+		$res = mysql_query($sql,$this->link);
+		if(!mysql_num_rows($res))
+		{
+			echo "no Capture info !\n";
+			return $groupid;
+		}
+		
+		
+		while ($row = mysql_fetch_assoc($res))
+		{
+			$kwd_arr = explode(",",$row['capture_keyword_cn']);
+			foreach ($arr as $v)
+			{
+				if($this->info[$v])
+				{
+					foreach ($kwd_arr as $v1)
+					{
+						if(!$v1){continue;}
+						if(stripos($this->info[$v],$v1) === false)
+						{
+							$groupid = 0;
+							 break;
+						}
+						echo "\n\n".$v."--->".$this->info[$v]."--->".$v1."--->".$row['capture_groupid']."\n\n";
+						$groupid = $row['capture_groupid'];
+					}
+				}
+				if($groupid != 0)
+				{
+					break;
+				}
+			}
+			if($groupid != 0)
+			{
+				break;
+			}
+		}
+		return $groupid;
+	}
+
+
+	//取得图片基本信息
+	function getpicinfo()
+    {
+		 $imgsize = GetImageSize($this->imgpath);
+         $this->width = $imgsize[0];
+         $this->height = $imgsize[1];
+         if (($this->width=='') || ($this->width=='0'))
+         {
+			 $cmdiden=SIPA_IMAGEMAGICKDIR."identify '".$this->imgpath."'";
+             $retiden=shell_exec($cmdiden." 2>&1");
+             $idenarr=explode(" ",$retiden);
+			 $arrsize=explode("x",$idenarr['2']);
+             $this->width = $arrsize[0];
+             $this->height = $arrsize[1]; 
+
+			
+			 if($this->width == $this->height)
+			 {
+				 //方图
+				 $this->picori = 3;
+			 }
+			 elseif($this->width > $this->height)
+			 {
+				 //横图
+				 $this->picori = 1;
+			 }
+			 else
+			 {
+				 //竖图
+				 $this->picori = 2;
+			 }
+         }
+
+         $filesize = filesize($this->imgpath);
+         $this->size = $filesize; 
+    }
+	
+	//取得第一分类字串
+	function getpfcate()
+	{
+		$this->pfcate		= '';
+		if(trim($this->info['catestr'] != ''))
+		{
+			$arr1 = explode(";",$this->info['catestr']);
+			$arr2 = explode(",",$arr1[0]);
+			$this->pfcate = $arr2[count($arr2)-1];
+		}
+	}
+
+
+    //-------------------------插入到数据表-----------------------------------------------------------------
+	function ins2table()
+	{     
+	
+		
+
+		//摄影师图片表
+		$sql_ins_sys = "insert into sipa_sphoto (`moddate`,`uploaddate`,`ifmod`,`groupid`,`price`,`title`,`gtitle`,`gcontent`,`keyword`,`ifstock`,`pindex`,`upuid`,`upway`,`size`,`width`,`height`,`upip`,`penname`,`country`,`city`,`pdate`,`psname`,`zoneid`,`pfcate`,`catestr`,`picori`) values(now(),now(),".$this->info['ifmod'].",".$this->groupid.",".$this->info['price'].",'".addslashes($this->info['title'])."','".addslashes($this->info['gtitle'])."','".addslashes($this->info['gcontent'])."','".addslashes($this->info['keyword'])."',".$this->info['ifstock'].",".$this->pindex.",".$this->info['upuid'].",1,'".$this->size."','".$this->width."','".$this->height."','".addslashes($this->info['upip'])."','".addslashes($this->info['penname'])."','".addslashes($this->info['country'])."','".addslashes($this->info['city'])."','".$this->info['pdate']."','".addslashes($this->psname)."','".$this->info['zoneid']."','".$this->pfcate."','".$this->info['catestr']."','".$this->picori."')";
+
+		echo "sql_ins_sys:".$sql_ins_sys."\n";
+		mysql_query($sql_ins_sys,$this->link) or die(mysql_error());
+		$this->syspid  = mysql_insert_id($this->link);
+
+
+
+
+
+		//正常数据表
+		$sql_ins = "insert into sipa_photo (`moddate`,`uploaddate`,`ifmod`,`groupid`,`price`,`syspid`,`title`,`gtitle`,`gcontent`,`keyword`,`ifstock`,`pindex`,`upuid`,	`ifedit`,`upway`,`size`,`width`,`height`,`upip`,`penname`,`country`,`city`,`pdate`,`plevel`,`psname`,`pwebsid`,`zoneid`,`pclick`,`pfcate`,`catestr`,`picori`) values(now(),now(),".$this->info['ifmod'].",".$this->groupid.",'".addslashes($this->info['price'])."',".$this->syspid.",'".addslashes($this->info['title']).'####-####'.addslashes($this->info['title'])."','".addslashes($this->info['gtitle'])."','".addslashes($this->info['gcontent'])."','".addslashes($this->info['keyword'])."',".$this->info['ifstock'].",".$this->pindex.",".$this->info['upuid'].",0,1,'".$this->size."','".$this->width."','".$this->height."','".addslashes($this->info['upip'])."','".addslashes($this->info['penname'])."','".addslashes($this->info['country'])."','".addslashes($this->info['city'])."','".$this->info['pdate']."',".$this->info['plevel'].",'".addslashes($this->psname)."','".addslashes($this->info['pwebsid'])."','".$this->info['zoneid']."',0,'".$this->pfcate."','".addslashes($this->info['catestr'])."','".$this->picori."')";
+
+		echo "sql_ins:".$sql_ins."\n";
+		
+		mysql_query($sql_ins,$this->link) or die(mysql_error());
+		$this->photoid = mysql_insert_id($this->link);
+
+
+
+		
+		$ftime = date("Y-m-d H:i:s");
+		$log = $this->photoid."---".$this->groupid."---".$ftime."---".$this->catestr."---".$this->info['groupobj']."---".$this->imgpath."---".$this->info['upuid'];
+		
+		loginf($log,"ins");
+
+		$lh = new loghouse($this->imgpath,$log,'ins');
+		$lh->rec();
+
+		 $pi = new pifenter($this->imgpath);
+         $pi->rec();
+
+		//子表写入，更新moddate值的工作，在同步类中实现
+
+		//加入关键词对应表		
+		//$this->savephotokeywords();
+	}
+
+	//图片存放
+	function dopic()
+	{
+	   //大小图存储路径
+	   $bigpath = getbigpath($this->photoid);
+	   $smallpath = getsmallpath($this->photoid);
+	   $this->creatdir($bigpath);
+	   $this->creatdir($smallpath);
+		
+		echo "bigpath:".$bigpath."\n";
+
+	   //原图
+	   if(!is_file($bigpath."/".$this->photoid.".jpg"))
+	   {
+		  if (!copy($this->imgpath,$bigpath."/".$this->photoid.".jpg"))
+		  {
+			  echo "big img ". $bigpath ."copy fail！\n\r";
+		  }
+		  else
+		  {
+			  echo "big img ". $bigpath ." copy succ ！\n\r";
+		  }
+		  $cmd = "/bin/chmod 777 ".$bigpath."/".$this->photoid.".jpg";
+		  shell_exec($cmd);
+
+		 // chmod($bigpath, 0777);
+		  chown($bigpath, 'nobody');
+		  chgrp($bigpath, 'nogroup');        
+	   
+	   }
+	   else
+	   {
+			  echo "big img ".$bigpath." already exist,please check \r\n";
+	   }
+	
+	
+
+	  
+	  //小图复制
+	  if (!is_file($smallpath."/".$this->photoid.".jpg"))
+	  {
+			$cmdtmb = SIPA_IMAGEMAGICKDIR."convert -size 230x230  -resize 230x230  +profile '*' -quality 95 ".$bigpath."/".$this->photoid.".jpg"." ".$smallpath."/".$this->photoid.".jpg"." 2>&1 | grep -c 'convert:'";
+
+			echo "cmdtmb:".$cmdtmb."\n";
+			$rettmb = shell_exec($cmdtmb);
+			if($rettmb == 0)
+			{
+				 $cmd = "/bin/chmod 777 ".$smallpath."/".$this->photoid.".jpg";
+				 shell_exec($cmd);
+//				 chmod($smallpath,0777);
+				 chown($smallpath, 'nobody');
+				 chgrp($smallpath, 'nogroup');
+				 echo "tmb file ". $smallpath ." copy succ\n\r";
+			}
+	   }
+	   else
+	   {
+			echo "tmb file ".$smallpath." already exist，please check\r\n";
+	   }
+	}
+
+	//文件夹不存在，直接建立
+	function creatdir($mydir)
+	{
+		if (!is_dir($mydir))
+		{
+			system("mkdir -p ".$mydir." -m 777");
+			chown($mydir, 'nobody');
+			chgrp($mydir, 'nogroup');
+			echo "dir ".$mydir." create succ \r\n";
+		}
+	}
+
+	//直接加入专题
+	function instpic()
+	{
+		//存在直接加入专题的ID
+		if($this->info['tpid']>0)
+		{
+			$sql_tp = "select * from sipa_topic where tpid='".$this->info['tpid']."'";
+			$res_tp = mysql_query($sql_tp,$this->link);
+			//专题存在
+			if(mysql_num_rows($res_tp)>0)
+			{
+				$row_tp = mysql_fetch_assoc($res_tp);
+				//专题中是否存在此组
+				$sql_stg = "select * from sipa_stg where tpid='".$this->info['tpid']."' and groupid='".$this->groupid."'";
+				$res_stg = mysql_query($sql_stg,$this->link);
+
+
+				//专题中没有此组，则直接写入
+				if(mysql_num_rows($res_stg)<=0)
+				{
+					$sql_num = "select count(*) as num from sipa_photo where groupid=".$this->groupid." and ifmod=1";
+					$res_num = mysql_query($sql_num,$this->link);
+					$row_num = mysql_fetch_assoc($res_num);
+					$gnum	 = $row_num['num'];
+
+					$sql_ins = "insert into sipa_stg(tpid,groupid,photoid,moddate,uploaddate,gnum,stgorder,gtitle,tplpre,adddate,ifmod) values('".$this->info['tpid']."',".$this->groupid.",".$this->photoid.",now(),now(),".$gnum.",0,'".addslashes($this->info['gtitle'])."','".$row_tp['tplpre']."',now(),'1')";
+					echo $sql_ins;
+					mysql_query($sql_ins,$this->link);
+
+				}
+				else
+				{
+					//组照首张有修改，则更新专题表中组照的首张
+					if($this->modindex == 1)
+					{
+						//将专题内容表组的首张信息做修改
+						$sql_up	= "update sipa_stg  set photoid = (select photoid from sipa_photo where groupid=".$this->groupid." and pindex=1 ) where groupid='".$this->groupid."'";	
+						
+						mysql_query($sql_up,$this->link);
+					}
+
+					//更新专题内组照张数
+					$sql_up	= "update sipa_stg  set gnum = (select count(*) from sipa_photo where groupid=".$this->groupid." and ifmod=1) where groupid='".$this->groupid."'";
+					mysql_query($sql_up,$this->link);
+				}
+			}
+			else
+			{
+				echo "no topic!\r\n";
+			}
+		}
+		else
+		{
+			//更新专题内组照张数
+			$sql_up	= "update sipa_stg  set gnum = (select count(*) from sipa_photo where groupid=".$this->groupid." and ifmod=1) where groupid='".$this->groupid."'";
+			mysql_query($sql_up,$this->link);
+		}
+	}
+
+	//将关键字加入到sipa_photo_keywords表中
+	function savephotokeywords()
+	{
+		$keywords = $this->info['keyword'];
+		$photoid  = $this->photoid;
+		$groupid  = $this->groupid;
+		$pindex =  $this->pindex;
+
+		if(strpos($keywords,'，') !== false)
+		{
+			$keywords = str_replace('，',',',$keywords);
+		}
+		$keyword_arr = explode(',',$keywords);
+		foreach($keyword_arr as $keyword)
+		{
+			if($keyword)
+			{
+				$kid = 0;
+				$keyword = addslashes($keyword);
+				
+				$sql_s = "select * from sipa_keywords where fname ='".$keyword."' or sname = '".$keyword."' ";
+				$res_s = mysql_query($sql_s,$this->link);
+				if(mysql_num_rows($res_s))
+				{
+					$row_s = mysql_fetch_assoc($res_s);
+					$kid = $row_s['kid'];
+				}else{
+					$fifcn = 0;
+					if(!eregi("[^\x80-\xff]",$keyword)){ 
+						$fifcn = 1;
+					}
+					$sql_i = "insert into sipa_keywords (fname,fifcn) values ('".$keyword."','".$fifcn."' )";
+					mysql_query($sql_i,$this->link);
+					$kid  = mysql_insert_id($this->link);
+				}
+
+				if($kid > 0)
+				{
+					//写入到sipa_photo_keywords表中
+					$sql = "insert into sipa_photo_keywords (photoid,groupid,pindex,uploaddate,moddate,kid) values ('".$photoid."','".$groupid."','".$pindex."',now(),now(),'".$kid."')";
+					mysql_query($sql,$this->link);
+					$kid  = mysql_insert_id($this->link);
+				}
+
+			}
+		}
+	}
+}
+?>

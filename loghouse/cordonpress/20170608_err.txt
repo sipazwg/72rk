@@ -1,0 +1,24 @@
+/data/www/ftpdir/cordonpress/_LM36594.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     4758 root    3w   REG    8,2  1458176 5511389 /data/www/ftpdir/cordonpress/_LM36594.jpg
+
+/data/www/ftpdir/cordonpress/170607-MonacoPrinceAlbert-UN-2218.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     22955 root    3w   REG    8,2  7028736 5511408 /data/www/ftpdir/cordonpress/170607-MonacoPrinceAlbert-UN-2218.jpg
+
+/data/www/ftpdir/cordonpress/_CUE0962.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0002.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0007.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0009.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0011.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0014.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0015.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0027.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0029.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0031.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0033.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0036.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_0049.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_9992.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_9994.jpg--- have been enter
+/data/www/ftpdir/cordonpress/_MG_9997.jpg--- have been enter

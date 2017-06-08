@@ -1,0 +1,19 @@
+/data/www/ftpdir/cordonpress/IAM_0055.jpg--- have been enter
+/data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0117.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     16084 root    3w   REG    8,2 13058048 5512844 /data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0117.JPG
+
+/data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0117.JPG--- have been enter
+/data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0117.JPG--- have been enter
+/data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0123.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     29777 root    3w   REG    8,2  8830976 5512847 /data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0123.JPG
+
+/data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0132.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     30458 root    3w   REG    8,2 16695296 5512850 /data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0132.JPG
+
+/data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0134.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     30809 root    3w   REG    8,2  7782400 5512853 /data/www/ftpdir/cordonpress/17.01.18_Russia_Finland_0134.JPG
+

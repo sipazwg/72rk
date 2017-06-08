@@ -1,0 +1,26 @@
+/data/www/ftpdir/cordonpress/EM9A6304-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A6309-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A6527-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A6532-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A6999-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A6988-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A6996-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A7540-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     33985 root    3w   REG    8,2  1228800 5528162 /data/www/ftpdir/cordonpress/EM9A7540-001.jpg
+
+/data/www/ftpdir/cordonpress/EM9A7668-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A7712-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A7756-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     36242 root    3w   REG    8,2   376832 5528182 /data/www/ftpdir/cordonpress/EM9A7756-001.jpg
+
+/data/www/ftpdir/cordonpress/EM9A7820-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A8078-001.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     37203 root    3w   REG    8,2  1392640 5528193 /data/www/ftpdir/cordonpress/EM9A8078-001.jpg
+
+/data/www/ftpdir/cordonpress/EM9A8289-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A8290-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A7313-001.jpg--- have been enter
+/data/www/ftpdir/cordonpress/EM9A7320-001.jpg--- have been enter

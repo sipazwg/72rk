@@ -1,0 +1,57 @@
+/data/www/ftpdir/acepix/ACEPIXS_LGBTAwards_051217/051217_LGBTAwards_FJA_23.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44868 acepix    5wW  REG    8,2  1888835 13238549 /data/www/ftpdir/acepix/ACEPIXS_LGBTAwards_051217/051217_LGBTAwards_FJA_23.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_LGBTAwards_051217/051217_LGBTAwards_FJA_33.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1384 acepix    5wW  REG    8,2  1380912 13238559 /data/www/ftpdir/acepix/ACEPIXS_LGBTAwards_051217/051217_LGBTAwards_FJA_33.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  37775 acepix    5wW  REG    8,2   668952 13238565 /data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  39533 acepix    5wW  REG    8,2   831744 13238568 /data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  41090 acepix    5wW  REG    8,2  3385286 13238570 /data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  45951 acepix    5wW  REG    8,2  5604712 13238577 /data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C18.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1887 acepix    5wW  REG    8,2  4747824 13238582 /data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C26.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  6211 acepix    5wW  REG    8,2  3710880 13238589 /data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C29.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  8650 acepix    5wW  REG    8,2  4997152 13238593 /data/www/ftpdir/acepix/ACEPIXS_TodayShow_051517/051517_TodayShow_C29.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_VirginTvBAFTAAwards_051417/051417_BAFTA_FJHMH03.jpg img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  1491 acepix    5wW  REG    8,2  1533448 13238604 /data/www/ftpdir/acepix/ACEPIXS_VirginTvBAFTAAwards_051417/051417_BAFTA_FJHMH03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_VirginTvBAFTAAwards_051417/051417_BAFTA_FJHMH37.jpg--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_NBCUniversalUpfront_K051617_/051517_NBCUUpfront_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  35594 acepix    5wW  REG    8,2   385520 13369347 /data/www/ftpdir/acepix/ACEPIXS_NBCUniversalUpfront_K051617_/051517_NBCUUpfront_K002.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCUniversalUpfront_K051617_/051517_NBCUUpfront_K160.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23022 acepix    5wW  REG    8,2  1687344 13369505 /data/www/ftpdir/acepix/ACEPIXS_NBCUniversalUpfront_K051617_/051517_NBCUUpfront_K160.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCoutside_051517_116/051517_NBCoutside_C03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46154 acepix    5wW  REG    8,2  1563416 13369591 /data/www/ftpdir/acepix/ACEPIXS_NBCoutside_051517_116/051517_NBCoutside_C03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_NBCoutside_051517_116/051517_NBCoutside_C98.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  22799 acepix    5wW  REG    8,2  3360248 13369703 /data/www/ftpdir/acepix/ACEPIXS_NBCoutside_051517_116/051517_NBCoutside_C98.JPG
+

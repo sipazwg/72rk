@@ -1,0 +1,44 @@
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19792 acepix    5wW  REG    8,2  1529512 7733252 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20040 acepix    5wW  REG    8,2  1505016 7733255 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S12.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20750 acepix    5wW  REG    8,2  2776199 7733261 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S12.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S16.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21099 acepix    5wW  REG    8,2  1638418 7733265 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S16.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S20.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21410 acepix    5wW  REG    8,2   462384 7733268 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S20.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S21.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21681 acepix    5wW  REG    8,2  2141224 7733270 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S21.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S28.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22241 acepix    5wW  REG    8,2  2158752 7733277 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S28.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S36.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22874 acepix    5wW  REG    8,2   769672 7733285 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S36.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S40.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23159 acepix    5wW  REG    8,2  2628351 7733289 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S40.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S44.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23473 acepix    5wW  REG    8,2     8208 7733293 /data/www/ftpdir/acepix/ACEPIXS_PegasusCup_012817/012817_PegasusCup_S44.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Knight_012717/012717_Knight_S09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24496 acepix    5wW  REG    8,2  1285664 7733308 /data/www/ftpdir/acepix/ACEPIXS_Knight_012717/012717_Knight_S09.JPG
+

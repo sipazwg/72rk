@@ -1,0 +1,20 @@
+/data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S01.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4009 acepix    5wW  REG    8,2  1296608 6291458 /data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4178 acepix    5wW  REG    8,2   129960 6291460 /data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S04.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4407 acepix    5wW  REG    8,2   949392 6291461 /data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S05.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4606 acepix    5wW  REG    8,2  1300368 6291462 /data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S05.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S07.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4808 acepix    5wW  REG    8,2   511632 6291464 /data/www/ftpdir/acepix/ACEPIXS_RussianExpulsions_123016/123016_RussianExpulsiuons_S07.JPG
+

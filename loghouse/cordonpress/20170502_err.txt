@@ -1,0 +1,28 @@
+/data/www/ftpdir/cordonpress/malaga_sevilla_18.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     2922 root    3w   REG    8,2   606208 5538771 /data/www/ftpdir/cordonpress/malaga_sevilla_18.jpg
+
+/data/www/ftpdir/cordonpress/_CUE8529.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     6430 root    3w   REG    8,2  1720320 5538795 /data/www/ftpdir/cordonpress/_CUE8529.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_03.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     25958 root    3w   REG    8,2  1654784 5538902 /data/www/ftpdir/cordonpress/DiegoPuerta_03.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_07.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     26491 root    3w   REG    8,2  1622016 5535543 /data/www/ftpdir/cordonpress/DiegoPuerta_07.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_08.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     26635 root    3w   REG    8,2  1294336 5538909 /data/www/ftpdir/cordonpress/DiegoPuerta_08.jpg
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_79.jpg img is open 
+lsof: WARNING: can't stat() nfs4 file system /base/basen3
+      Output information may be incomplete.
+
+/data/www/ftpdir/cordonpress/DiegoPuerta_73.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     30286 root    3w   REG    8,2  1032192 5533139 /data/www/ftpdir/cordonpress/DiegoPuerta_73.jpg
+

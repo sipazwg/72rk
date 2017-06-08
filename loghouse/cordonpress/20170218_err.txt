@@ -1,0 +1,55 @@
+/data/www/ftpdir/cordonpress/DPO_6208.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DPO_6222.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     16417 root    3w   REG    8,2   376832 5519310 /data/www/ftpdir/cordonpress/DPO_6222.jpg
+
+/data/www/ftpdir/cordonpress/DPO_6912.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     27594 root    3w   REG    8,2   671744 5519452 /data/www/ftpdir/cordonpress/DPO_6912.jpg
+
+/data/www/ftpdir/cordonpress/DPO_7728.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9178 root    3w   REG    8,2  1294336 5519603 /data/www/ftpdir/cordonpress/DPO_7728.jpg
+
+/data/www/ftpdir/cordonpress/DPO_7823.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     10025 root    3w   REG    8,2  1228800 5519767 /data/www/ftpdir/cordonpress/DPO_7823.jpg
+
+/data/www/ftpdir/cordonpress/DPO_7868.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     11151 root    3w   REG    8,2  1556480 5519784 /data/www/ftpdir/cordonpress/DPO_7868.jpg
+
+/data/www/ftpdir/cordonpress/DPO_7954.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     13161 root    3w   REG    8,2   245760 5519797 /data/www/ftpdir/cordonpress/DPO_7954.jpg
+
+/data/www/ftpdir/cordonpress/DPO_8029.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DPO_8092.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     21608 root    3w   REG    8,2  1556480 5519828 /data/www/ftpdir/cordonpress/DPO_8092.jpg
+
+/data/www/ftpdir/cordonpress/_W4Y8838.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     22728 root    3w   REG    8,2  2572288 5519840 /data/www/ftpdir/cordonpress/_W4Y8838.JPG
+
+/data/www/ftpdir/cordonpress/_W4Y8814.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23007 root    3w   REG    8,2  1523712 5519847 /data/www/ftpdir/cordonpress/_W4Y8814.JPG
+
+/data/www/ftpdir/cordonpress/_W4Y8799.JPG img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     23428 root    3w   REG    8,2  3358720 5519851 /data/www/ftpdir/cordonpress/_W4Y8799.JPG
+
+/data/www/ftpdir/cordonpress/DPO_8241.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DPO_8323.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     32594 root    3w   REG    8,2  1261568 5519876 /data/www/ftpdir/cordonpress/DPO_8323.jpg
+
+/data/www/ftpdir/cordonpress/DPO_8349.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     33422 root    3w   REG    8,2  1687552 5519893 /data/www/ftpdir/cordonpress/DPO_8349.jpg
+
+/data/www/ftpdir/cordonpress/DPO_8626.jpg img is open 
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     36163 root    3w   REG    8,2   147456 5519939 /data/www/ftpdir/cordonpress/DPO_8626.jpg
+

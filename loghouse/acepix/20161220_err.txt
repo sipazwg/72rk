@@ -1,0 +1,109 @@
+/data/www/ftpdir/acepix/ACEPIXS_JonasAflac_K121916/121916_JonasAflac_K001.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  6057 acepix    5wW  REG    8,2   853336 6160386 /data/www/ftpdir/acepix/ACEPIXS_JonasAflac_K121916/121916_JonasAflac_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38527 acepix    5wW  REG    8,2   955848 6160418 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38664 acepix    5wW  REG    8,2  2230642 6160419 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  38852 acepix    5wW  REG    8,2  1599693 6160421 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39324 acepix    5wW  REG    8,2   729066 6160426 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39565 acepix    5wW  REG    8,2  2581393 6160427 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S11.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S14.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39961 acepix    5wW  REG    8,2   504250 6160431 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S14.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S18.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40560 acepix    5wW  REG    8,2  1913576 6160435 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S18.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40694 acepix    5wW  REG    8,2  3098520 6160436 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S22.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41126 acepix    5wW  REG    8,2  1395360 6160439 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S22.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S23.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41308 acepix    5wW  REG    8,2   480168 6160441 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S23.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41473 acepix    5wW  REG    8,2  3066859 6160442 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S27.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41696 acepix    5wW  REG    8,2   340632 6160444 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S27.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41908 acepix    5wW  REG    8,2   908352 6160446 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S32.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42120 acepix    5wW  REG    8,2  1266768 6160448 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S32.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42333 acepix    5wW  REG    8,2   852264 6160450 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42768 acepix    5wW  REG    8,2   603288 6160454 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S39.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42932 acepix    5wW  REG    8,2  2538363 6160455 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S39.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S41.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43157 acepix    5wW  REG    8,2    84748 6160457 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S41.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S41.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43530 acepix    5wW  REG    8,2  1658016 6160458 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S41.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S41.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S44.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43684 acepix    5wW  REG    8,2   854744 6160460 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S44.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  43864 acepix    5wW  REG    8,2    95760 6160457 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S45.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44041 acepix    5wW  REG    8,2   654794 6160461 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S45.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S46.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44220 acepix    5wW  REG    8,2   623808 6160462 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S46.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S47.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44399 acepix    5wW  REG    8,2  1724792 6160463 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S47.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S49.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44582 acepix    5wW  REG    8,2   909155 6160465 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S49.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S51.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  44800 acepix    5wW  REG    8,2  1022834 6160467 /data/www/ftpdir/acepix/ACEPIXS_Jingleball_121816/121816_JingleBall_S51.JPG
+

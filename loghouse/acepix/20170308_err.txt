@@ -1,0 +1,59 @@
+/data/www/ftpdir/acepix/ACEPIXS_KellyRipa92Y_K030717/030717_Ripa92Y__K009.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  4343 acepix    5wW  REG    8,2   699648 9306429 /data/www/ftpdir/acepix/ACEPIXS_KellyRipa92Y_K030717/030717_Ripa92Y__K009.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_KellyRipa92Y_K030717/030717_Ripa92Y__K024.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  5318 acepix    5wW  REG    8,2  1149848 9306443 /data/www/ftpdir/acepix/ACEPIXS_KellyRipa92Y_K030717/030717_Ripa92Y__K024.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21151 acepix    5wW  REG    8,2   633384 9437186 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21151 acepix    5wW  REG    8,2  2441789 9437186 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21449 acepix    5wW  REG    8,2   788347 9437187 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21449 acepix    5wW  REG    8,2  2737691 9437187 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23680 acepix    5wW  REG    8,2   572936 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23680 acepix    5wW  REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  23849 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23680 acepix    5wW  REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  23849 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  23972 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24034 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23680 acepix    5wW  REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  23849 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  23972 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24034 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24153 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23680 acepix    5wW  REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  23849 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  23972 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24034 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24153 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24215 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24332 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+vsftpd  24393 acepix    5w   REG    8,2   839893 9437188 /data/www/ftpdir/acepix/ACEPIXS_Jones_030717/030717_Jones_S03.JPG
+

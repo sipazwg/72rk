@@ -1,0 +1,29 @@
+/data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K051017/051017_VictoriasSecret_K027.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40372 acepix    5wW  REG    8,2  1964112 12976593 /data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K051017/051017_VictoriasSecret_K027.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K051017/051017_VictoriasSecret_K042.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  43033 acepix    5wW  REG    8,2  1518120 12976608 /data/www/ftpdir/acepix/ACEPIXS_VictoriasSecret_K051017/051017_VictoriasSecret_K042.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Shades_051017_22/051017_Shades_Z17.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  44560 acepix    5wW  REG    8,2  1999750 13107218 /data/www/ftpdir/acepix/ACEPIXS_Shades_051017_22/051017_Shades_Z17.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Snatched_051017/051017_Snatched_D02.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  10896 acepix    5wW  REG    8,2   719568 13107204 /data/www/ftpdir/acepix/ACEPIXS_Snatched_051017/051017_Snatched_D02.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Snatched_051017/051017_Snatched_D52.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_Snatched_051017/051017_Snatched_D56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30537 acepix    5wW  REG    8,2   779120 13107317 /data/www/ftpdir/acepix/ACEPIXS_Snatched_051017/051017_Snatched_D56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LukeHelmsworth_K051117_20/051117_LukeHelmsworth_K004.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  38202 acepix    5wW  REG    8,2   899888 13107364 /data/www/ftpdir/acepix/ACEPIXS_LukeHelmsworth_K051117_20/051117_LukeHelmsworth_K004.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_LukeHelmsworth_K051117_20/051117_LukeHelmsworth_K012.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  40541 acepix    5wW  REG    8,2  1349915 13107372 /data/www/ftpdir/acepix/ACEPIXS_LukeHelmsworth_K051117_20/051117_LukeHelmsworth_K012.JPG
+

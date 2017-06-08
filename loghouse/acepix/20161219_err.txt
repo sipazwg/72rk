@@ -1,0 +1,36 @@
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D25.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20258 acepix    5wW  REG    8,2   369360 6035992 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D25.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D34.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20879 acepix    5wW  REG    8,2   607136 6036001 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D34.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D38.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21167 acepix    5wW  REG    8,2   391248 6036005 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D38.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D43.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21465 acepix    5wW  REG    8,2   724784 6036010 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D43.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D57.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22399 acepix    5wW  REG    8,2   376200 6036024 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D57.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D62.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  22725 acepix    5wW  REG    8,2   721783 6036029 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D62.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D66.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23044 acepix    5wW  REG    8,2   685368 6036033 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D66.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D74.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23651 acepix    5wW  REG    8,2   288648 6036041 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D74.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D79.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23914 acepix    5wW  REG    8,2   352688 6036046 /data/www/ftpdir/acepix/ACEPIXS_WhyHim_121716/121716_WhyHim_D79.JPG
+

@@ -1,0 +1,8 @@
+/data/www/ftpdir/cordonpress/DPO_2523.jpg--- have been enter
+/data/www/ftpdir/cordonpress/malaga_las_palmas_6.jpg--- have been enter
+/data/www/ftpdir/cordonpress/malaga_las_palmas_7.jpg--- have been enter
+/data/www/ftpdir/cordonpress/DPO_3762.jpg img is open 
+COMMAND  PID USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+scp     9649 root    3w   REG    8,2   835584 5521553 /data/www/ftpdir/cordonpress/DPO_3762.jpg
+
+/data/www/ftpdir/cordonpress/malaga_las_palmas_7.jpg--- have been enter

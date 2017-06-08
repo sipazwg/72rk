@@ -1,0 +1,54 @@
+/data/www/ftpdir/acepix/ACEPIXS_Schreiber_042717/042717_Schreiber_Z03.JPG img is open 
+COMMAND  PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  5220 acepix    5wW  REG    8,2  1106160 12189701 /data/www/ftpdir/acepix/ACEPIXS_Schreiber_042717/042717_Schreiber_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_KalingNovak_042717/042717_KalingNovak_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  20422 acepix    5wW  REG    8,2  2442616 12189732 /data/www/ftpdir/acepix/ACEPIXS_KalingNovak_042717/042717_KalingNovak_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS_K042717/042717_DKMS_K041.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  29682 acepix    5wW  REG    8,2   365256 12189778 /data/www/ftpdir/acepix/ACEPIXS_DKMS_K042717/042717_DKMS_K041.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS_K042717/042717_DKMS_K057.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  30459 acepix    5wW  REG    8,2   901512 12189794 /data/www/ftpdir/acepix/ACEPIXS_DKMS_K042717/042717_DKMS_K057.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46114 acepix    5wW  REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46114 acepix    5wW  REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46196 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46224 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46114 acepix    5wW  REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46196 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46224 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46305 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46114 acepix    5wW  REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46196 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46224 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46305 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46409 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46434 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  46114 acepix    5wW  REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46196 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46224 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46305 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46409 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46434 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46519 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+vsftpd  46544 acepix    5w   REG    8,2     9576 12190071 /data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N03.jpg
+
+/data/www/ftpdir/acepix/ACEPIXS_DKMS1_042717/042717_DKMS1_N02.jpg--- have been enter

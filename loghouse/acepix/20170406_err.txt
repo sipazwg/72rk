@@ -1,0 +1,20 @@
+/data/www/ftpdir/acepix/ACEPIXS_Younger_K040417/040517_Younger_K012.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  26972 acepix    5wW  REG    8,2  1782976 10616978 /data/www/ftpdir/acepix/ACEPIXS_Younger_K040417/040517_Younger_K012.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_YoungerSet_040517/040517_YoungerSet_Z03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  48600 acepix    5wW  REG    8,2   262272 10616990 /data/www/ftpdir/acepix/ACEPIXS_YoungerSet_040517/040517_YoungerSet_Z03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Divorce_040517/040517_Divorce_P04.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  23810 acepix    5wW  REG    8,2  1855552 10617003 /data/www/ftpdir/acepix/ACEPIXS_Divorce_040517/040517_Divorce_P04.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Divorce_040517/040517_Divorce_P06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  24679 acepix    5wW  REG    8,2  2282128 10617005 /data/www/ftpdir/acepix/ACEPIXS_Divorce_040517/040517_Divorce_P06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_BellaHadid_K040517/040517_BellaHadid_K002.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+vsftpd  17315 acepix    5wW  REG    8,2  1626344 10617018 /data/www/ftpdir/acepix/ACEPIXS_BellaHadid_K040517/040517_BellaHadid_K002.JPG
+

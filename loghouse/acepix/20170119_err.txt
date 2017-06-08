@@ -1,0 +1,125 @@
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D07.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15762 acepix    5wW  REG    8,2   268128 7209234 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D07.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D09.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  15961 acepix    5wW  REG    8,2   187416 7209236 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D09.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D100.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16190 acepix    5wW  REG    8,2   322848 7209238 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D100.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D102.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16418 acepix    5wW  REG    8,2   553537 7209240 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D102.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D105.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  16656 acepix    5wW  REG    8,2   165528 7209243 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D105.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D109.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17141 acepix    5wW  REG    8,2   458280 7209247 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D109.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D112.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17380 acepix    5wW  REG    8,2   409003 7209251 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D112.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D115.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  17675 acepix    5wW  REG    8,2   419976 7209254 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D115.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D121.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18242 acepix    5wW  REG    8,2   265339 7209261 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D121.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D124.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18508 acepix    5wW  REG    8,2   217512 7209264 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D124.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D15.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  18998 acepix    5wW  REG    8,2   636120 7209269 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D15.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D19.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19270 acepix    5wW  REG    8,2   287024 7209273 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D19.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D26.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  19865 acepix    5wW  REG    8,2   254448 7209280 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D26.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D30.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20142 acepix    5wW  REG    8,2   428184 7209285 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D30.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D42.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  20855 acepix    5wW  REG    8,2   652536 7209296 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D42.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D51.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21527 acepix    5wW  REG    8,2   355296 7209305 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D51.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D56.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  21840 acepix    5wW  REG    8,2   482904 7209310 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D56.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D65.JPG--- have been enter
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D78.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23681 acepix    5wW  REG    8,2  1117656 7209332 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D78.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D82.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  23920 acepix    5wW  REG    8,2   608760 7209336 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D82.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D87.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24227 acepix    5wW  REG    8,2   534611 7209341 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D87.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D91.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  24559 acepix    5wW  REG    8,2   660693 7209345 /data/www/ftpdir/acepix/ACEPIXS_SpaceBetween_011717/011717_SpaceBetween__D91.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Lochte_011817/011817_Lochte_C06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  39111 acepix    5wW  REG    8,2  3036053 7209360 /data/www/ftpdir/acepix/ACEPIXS_Lochte_011817/011817_Lochte_C06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beaches_K011817/011817_BeachesPremiere_K001.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  31718 acepix    5wW  REG    8,2   697037 7340035 /data/www/ftpdir/acepix/ACEPIXS_Beaches_K011817/011817_BeachesPremiere_K001.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_Beaches_K011817/011817_BeachesPremiere_K013.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  32532 acepix    5wW  REG    8,2  1090296 7340047 /data/www/ftpdir/acepix/ACEPIXS_Beaches_K011817/011817_BeachesPremiere_K013.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D01.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40677 acepix    5wW  REG    8,2   411768 7340058 /data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D01.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D03.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  40853 acepix    5wW  REG    8,2   572501 7340060 /data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D03.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D06.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41095 acepix    5wW  REG    8,2   150480 7340063 /data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D06.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D08.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41395 acepix    5wW  REG    8,2   113544 7340065 /data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D08.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D10.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41632 acepix    5wW  REG    8,2   357048 7340067 /data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D10.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D101.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  41869 acepix    5wW  REG    8,2   711360 7340069 /data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D101.JPG
+
+/data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D11.JPG img is open 
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+vsftpd  42662 acepix    5wW  REG    8,2   158688 7340078 /data/www/ftpdir/acepix/ACEPIXS_PeoplesChoice_011817/011817_PeoplesChoice_D11.JPG
+
